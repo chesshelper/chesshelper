@@ -1,0 +1,17 @@
+/*
+//   - This file is part of ChessHelper Extension
+//  <https://github.com/gerwld/ChessHelper-extension/blob/main/README.md>,
+//   - Copyright (C) 2023-present ChessHelper Extension
+//   -
+//   - ChessHelper Extension is a software: you can redistribute it, but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+//   -
+//   - ChessHelper Extension is distributed in the hope that it will be useful,
+//   - but WITHOUT ANY WARRANTY; without even the implied warranty of
+//   - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//   - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License for more details.
+//   -
+//   - You should have received a copy of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
+//   - along with ChessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+*/
+
+.highlight{background-color:#3bff00}#board,#board-single,.fade-in-overlay{background-image:var(--theme-board-style-image, url('https://images.chesscomfiles.com/chess-themes/boards/glass/100.png'))!important}

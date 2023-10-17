@@ -1,0 +1,17 @@
+/*
+//   - This file is part of ChessHelper Extension
+//  <https://github.com/gerwld/ChessHelper-extension/blob/main/README.md>,
+//   - Copyright (C) 2023-present ChessHelper Extension
+//   -
+//   - ChessHelper Extension is a software: you can redistribute it, but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+//   -
+//   - ChessHelper Extension is distributed in the hope that it will be useful,
+//   - but WITHOUT ANY WARRANTY; without even the implied warranty of
+//   - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//   - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License for more details.
+//   -
+//   - You should have received a copy of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
+//   - along with ChessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+*/
+
+.confirm-tray-component{bottom:0!important;-webkit-transform:none!important;transform:none!important;padding:0!important;background:0 0!important;-webkit-box-shadow:none!important;box-shadow:none!important}.confirm-tray-component .confirm-tray-text,.confirm-tray-component [data-cy=confirm-no]{display:none!important;pointer-events:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.confirm-tray-component [data-cy=confirm-yes]{position:absolute;left:0;top:0;bottom:0;width:85px;z-index:10;height:100%;padding:0;-webkit-box-shadow:none!important;box-shadow:none!important;border-radius:3px}.draw-button-component,.resign-button-component{height:35px;padding:0 5px}
