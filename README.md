@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gerwld/ChessHelper-extension/460039c042bdd0a7d1ad9d686291a869c44ed702/chrome/assets/img/logo.svg" width="85" height="85"/>
+  <img src="https://github.com/chesshelper/chesshelper/assets/47056812/3962adcb-a242-4146-93e2-3ad8a89492f4" width="85" height="85"/>
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-Get new Chess.com themes, pieces and boards. Disable annoying notification, add fullcreen mode,
-"fixed" mode,<br> change font, disable stream on main page to reduce bandwith usage... And many more!
+Get new Chess.com themes, pieces, and boards. Disable annoying notifications, add fullscreen mode,
+"fixed" mode,<br> change font, disable stream on the main page to reduce bandwidth usage... And many more!
 </p>
 
 ***
@@ -18,7 +18,7 @@ Get new Chess.com themes, pieces and boards. Disable annoying notification, add 
 ## About
 
 Extension for Chess.com I made as a chess enjoyer to make this service even better. 
-I love Chess.com, but... There's always thing that you want to improve just because you use it a lot. Especially when you got that annoying profile popup several times in HyperBullet (huhhh...). Soo yep, hope you find it useful as I did. Because I spend almost 3 week to make it perfect. <br><br> Most of the pieces, boards also created by me (thanks to some design knowledge that I kept with me). Let me know what you think about this. Even if you hate it :)) Because I want to make it as good as possible. Also don't forget to donate, or leave a comment if you enjoy it.
+I love Chess.com, but... There's always thing that you want to improve just because you use it a lot. Especially when you got that annoying profile popup several times in HyperBullet (huhhh...). Soo yep, I hope you find it as useful as I did. Because I spent almost 3 weeks to make it perfect. <br><br> Most of the pieces, and boards were also created by me (thanks to some design knowledge that I kept with me). Let me know what you think about this. Even if you hate it :)) Because I want to make it as good as possible. Also don't forget to donate, or leave a comment if you enjoy it.
 
 
 ## Installation
