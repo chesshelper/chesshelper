@@ -22,7 +22,7 @@ I love Chess.com, but... There's always thing that you want to improve just beca
 
 ## Installation
 
-ChessHelper is available on the [Google Chrome Store](https://chrome.google.com/webstore/detail/ChessHelper-extension/example-link), [Firefox Web Store](https://chrome.google.com/webstore/detail/ChessHelper-extension/example-link) and [Microsoft Edge Store](https://chrome.google.com/webstore/detail/ChessHelper-extension/example-link). Visit the store page and click on the "Add" button to install the extension directly to your browser.
+ChessHelper is available on the [Google Chrome Store](https://chrome.google.com/webstore/detail/kdkckejnngdmlcephpnfaggaeofloode/), [Firefox Web Store](https://addons.mozilla.org/en-US/firefox/addon/chesshelper/) and [Microsoft Edge Store](#ms). Visit the store page and click on the "Add" button to install the extension directly to your browser.
 
 You can also download the latest version of ChessHelper Extension from the [Releases](https://github.com/username/repo/releases) page. Choose the appropriate version for your operating system and follow the installation instructions provided.
 
