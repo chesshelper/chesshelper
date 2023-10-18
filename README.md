@@ -18,7 +18,7 @@ Get new Chess.com themes, pieces and boards. Disable annoying notification, add 
 ## About
 
 Basically, I'ts a plugin for Chess.com I made as a chess enjoyer to make this service even better. 
-I love Chess.com, but... There's always thing that you want to improve just because you use it a lot. Especially when you got that annoying profile popup several times in HyperBullet (huhhh...). So yep, hope you find it useful as I did. Because I spend almost 3 week to make it perfect. <br><br> Most of the pieces, boards also created by me (thanks to some design knowledge that I keep with me). So yeah, let me know what you think about this. Even if you hate it :)) Because I want to make it as good as possible. And also don't forget to donate, or leave a comment if you enjoy it.
+I love Chess.com, but... There's always thing that you want to improve just because you use it a lot. Especially when you got that annoying profile popup several times in HyperBullet (huhhh...). So yep, hope you find it useful as I did. Because I spend almost 3 week to make it perfect. <br><br> Most of the pieces, boards also created by me (thanks to some design knowledge that I kept with me). So yeah, let me know what you think about this. Even if you hate it :)) Because I want to make it as good as possible. And also don't forget to donate, or leave a comment if you enjoy it.
 
 
 ## Installation
