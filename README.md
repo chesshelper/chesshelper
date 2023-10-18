@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/chesshelper/chesshelper/assets/47056812/82ccd275-f36b-4268-bcf5-9b5b9999e685" width="450px" height="auto"/>
+  <img src="https://raw.githubusercontent.com/chesshelper/chesshelper/9c769c34bdac9ef0f4f7bd07dfb94afd0793ca0d/chrome/assets/img/text.svg" width="450px" height="auto"/>
 </p>
 
 <p align="center">
