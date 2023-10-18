@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Get new Chess.com themes, pieces, and boards. Disable annoying notifications, add fullscreen mode, "fixed" mode, change font, disable stream on the main page to reduce bandwidth usage... And many more!
+Get new Chess.com themes, pieces, and boards. Disable annoying notifications, add fullscreen mode, and "fixed" mode, change font, disable stream on the main page to reduce bandwidth usage... And many more!
 </p>
 
 ***
@@ -32,12 +32,12 @@ Once the extension is installed, follow these steps to start working with it:
 
 1. **Activation:** Open Chess.com in your browser.
 2. **Extension Access:** Click on the ChessHelper Extension icon in the browser toolbar to activate it.
-3. **Customization:** Access the extension options to start customizing by your preference. Each settings saves even after cleaning cache, so don't worry about it.
+3. **Customization:** Access the extension options to start customizing by your preference. Each setting saves even after cleaning the cache, so don't worry about it.
 4. **Enjoy!** Sit back, relax, and enjoy your personalized Chess.com experience. I spent a good amount of time just to make it work well. So it should work well. If not, then let me know and I'll fix it!
 
 ## License
 
-ChessHelper Extension is released under the Creative Commons Attribution-NonCommercial License (CC BY-NC-ND 4.0). This means that others are free to use, and distribute the extension for non-commercial purposes, as long as they provide attribution to the original creator. Commercial use of the extension or publishing modified versions is not allowed without explicit permission.
+ChessHelper Extension is released under the Creative Commons Attribution-NonCommercial License (CC BY-NC-ND 4.0). This means that others are free to use and distribute the extension for non-commercial purposes, as long as they provide attribution to the original creator. Commercial use of the extension or publishing modified versions is not allowed without explicit permission.
 
 See the [LICENSE](LICENSE) file for more details.
 
