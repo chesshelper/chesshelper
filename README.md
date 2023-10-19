@@ -12,7 +12,9 @@ Get new Chess.com themes, pieces, and boards. Disable annoying notifications, ad
 
 ***
 
-<p align="center"><a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/kdkckejnngdmlcephpnfaggaeofloode/"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>  <a rel="noreferrer noopener" href="https://addons.mozilla.org/en-US/firefox/addon/chesshelper/"><img alt="Firefox Add-ons" src="https://img.shields.io/badge/Firefox-141e24.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>  <a rel="noreferrer noopener" href="#mc"><img alt="Edge Addons" src="https://img.shields.io/badge/Edge-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>  <a style="opacity: 0.4;" rel="noreferrer noopener"><img alt="Apple App Store" src="https://img.shields.io/badge/Safari-141e24.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<p align="center"><a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/chesshelper-improve-chess/kdkckejnngdmlcephpnfaggaeofloode/"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>  <a rel="noreferrer noopener" href="https://addons.mozilla.org/en-US/firefox/addon/chesshelper/"><img alt="Firefox Add-ons" src="https://img.shields.io/badge/Firefox-141e24.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>  <a rel="noreferrer noopener" href="#mc"><img alt="Edge Addons" src="https://img.shields.io/badge/Edge-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>  <span rel="noreferrer noopener"><img height="28" alt="Apple App Store" src="https://github.com/chesshelper/chesshelper/assets/47056812/b656b533-2179-46fe-9940-0c01583821d1"></span>
+
+
 
 ## About
 
@@ -22,7 +24,7 @@ I love Chess.com, but... There's always thing that you want to improve just beca
 
 ## Installation
 
-ChessHelper is available on the [Google Chrome Store](https://chrome.google.com/webstore/detail/kdkckejnngdmlcephpnfaggaeofloode/), [Firefox Web Store](https://addons.mozilla.org/en-US/firefox/addon/chesshelper/) and [Microsoft Edge Store](#ms). Visit the store page and click on the "Add" button to install the extension directly to your browser.
+ChessHelper is available on the [Google Chrome Store](https://chrome.google.com/webstore/detail/chesshelper-improve-chess/kdkckejnngdmlcephpnfaggaeofloode/), [Firefox Web Store](https://addons.mozilla.org/en-US/firefox/addon/chesshelper/) and [Microsoft Edge Store](#ms). Visit the store page and click on the "Add" button to install the extension directly to your browser.
 
 You can also download the latest version of ChessHelper Extension from the [Releases](https://github.com/chesshelper/chesshelper/releases) page. Choose the appropriate version for your operating system and follow the installation instructions provided.
 
