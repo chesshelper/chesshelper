@@ -17,7 +17,7 @@ Get new Chess.com themes, pieces, and boards. Disable annoying notifications, ad
 ## About
 
 Extension for Chess.com I made as a chess enjoyer to make this service even better. 
-I love Chess.com, but... There's always thing that you want to improve just because you use it a lot. Especially when you got that annoying profile popup several times in HyperBullet (huhhh...). Soo yep, I hope you find it as useful as I did. Because I spent almost 3 weeks to make it perfect. <br><br> Most of the pieces, and boards were also created by me (thanks to some design knowledge that I kept with me). Let me know what you think about this. Even if you hate it :)) Because I want to make it as good as possible. Also don't forget to donate, or leave a comment if you enjoy it.
+I love Chess.com, but... There's always thing that you want to improve just because you use it a lot. Especially when you got that annoying profile popup several times in HyperBullet (huhhh...). Soo yep, I hope you find it as useful as I did. Because I spent almost 4 weeks to make it perfect. <br><br> Most of the pieces, and boards were also created by me (thanks to some design knowledge that I kept with me). Let me know what you think about this. Even if you hate it :)) Because I want to make it as good as possible. Also don't forget to donate, or leave a comment if you enjoy it.
 
 
 ## Installation
