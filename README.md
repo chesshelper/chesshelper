@@ -24,7 +24,7 @@ I love Chess.com, but... There's always thing that you want to improve just beca
 
 ChessHelper is available on the [Google Chrome Store](https://chrome.google.com/webstore/detail/kdkckejnngdmlcephpnfaggaeofloode/), [Firefox Web Store](https://addons.mozilla.org/en-US/firefox/addon/chesshelper/) and [Microsoft Edge Store](#ms). Visit the store page and click on the "Add" button to install the extension directly to your browser.
 
-You can also download the latest version of ChessHelper Extension from the [Releases](https://github.com/username/repo/releases) page. Choose the appropriate version for your operating system and follow the installation instructions provided.
+You can also download the latest version of ChessHelper Extension from the [Releases](https://github.com/chesshelper/chesshelper/releases) page. Choose the appropriate version for your operating system and follow the installation instructions provided.
 
 ## Usage
 
@@ -39,7 +39,7 @@ Once the extension is installed, follow these steps to start working with it:
 
 ChessHelper Extension is released under the Creative Commons Attribution-NonCommercial License (CC BY-NC-ND 4.0). This means that others are free to use and distribute the extension for non-commercial purposes, as long as they provide attribution to the original creator. Commercial use of the extension or publishing modified versions is not allowed without explicit permission.
 
-See the [LICENSE](LICENSE) file for more details.
+See the [LICENSE](https://github.com/chesshelper/chesshelper/blob/main/LICENSE.md) file for more details.
 
 For any inquiries regarding commercial use or permission, please contact the creator at [pjaworski.dev@gmail.com].
 
