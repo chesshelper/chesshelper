@@ -30,7 +30,7 @@ You can also download the latest version of ChessHelper Extension from the [Rele
 
 Once the extension is installed, follow these steps to start working with it:
 
-1. **Activation:** Open Chess.com in your browser.
+1. **Activation:** Open Chess.com in your browser (better on /game page, so you can see the board & pieces changes).
 2. **Extension Access:** Click on the ChessHelper Extension icon in the browser toolbar to activate it.
 3. **Customization:** Access the extension options to start customizing by your preference. Each setting saves even after cleaning the cache, so don't worry about it.
 4. **Enjoy!** Sit back, relax, and enjoy your personalized Chess.com experience. I spent a good amount of time just to make it work well. So it should work well. If not, then let me know and I'll fix it!
