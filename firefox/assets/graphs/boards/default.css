@@ -14,4 +14,4 @@
 //   - along with ChessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
 */
 
-.highlight{background-color:#3bff00}#board,#board-single,.fade-in-overlay{background-image:var(--theme-board-style-image, url('https://images.chesscomfiles.com/chess-themes/boards/glass/100.png'))!important}
+.highlight{background-color:#3bff00}#board,#board-analysis-board,#board-single,.fade-in-overlay{background-image:var(--theme-board-style-image, url('https://images.chesscomfiles.com/chess-themes/boards/glass/100.png'))!important}

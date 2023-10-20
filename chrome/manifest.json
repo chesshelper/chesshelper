@@ -1,7 +1,7 @@
 {
   "name": "ChessHelper - Improve Chess.com Experience",
   "description": "Chess.com extension that allows you to setup new themes, pieces, boards, fonts, remove annoying notifications, popups, and so on!",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "icons": {
     "128": "/assets/icons/icon128.png"
