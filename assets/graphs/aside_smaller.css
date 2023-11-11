@@ -1,0 +1,3 @@
+#sb .nav-link-component::before {
+    scale: 0.85;
+}

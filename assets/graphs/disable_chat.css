@@ -1,0 +1,14 @@
+.chat-scroll-area-component {
+    position: relative;
+    opacity: 0 !important;
+    user-select: none !important;
+    pointer-events: none !important;
+}
+
+.chat-scroll-area-component::before {
+    content: "Chat disabled by ChessPro Extension.";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    height: 100%;
+}

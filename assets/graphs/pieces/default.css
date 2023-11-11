@@ -1,0 +1,81 @@
+.highlight {
+    background-color: #3bff00;
+}
+
+#board-analysis-board,
+#board-single,
+#board,
+.fade-in-overlay {
+    background-image: var(--theme-board-style-image, url('https://images.chesscomfiles.com/chess-themes/boards/glass/100.png')) !important;
+}
+
+
+.piece.wp,
+.promotion-piece.wp {
+    background-image: var(--theme-piece-set-wp) !important;
+}
+
+.piece.wn,
+.promotion-piece.wn {
+    background-image: var(--theme-piece-set-wn) !important;
+}
+
+.piece.wp,
+.promotion-piece.wp {
+    background-image: var(--theme-piece-set-wp) !important;
+}
+
+.piece.wr,
+.promotion-piece.wr {
+    background-image: var(--theme-piece-set-wr) !important;
+}
+
+.piece.wb,
+.promotion-piece.wb {
+    background-image: var(--theme-piece-set-wb) !important;
+}
+
+.piece.wq,
+.promotion-piece.wq {
+    background-image: var(--theme-piece-set-wq) !important;
+}
+
+.piece.wk,
+.promotion-piece.wk {
+    background-image: var(--theme-piece-set-wk) !important;
+}
+
+.piece.bp,
+.promotion-piece.bp {
+    background-image: var(--theme-piece-set-bp) !important;
+}
+
+.piece.bn,
+.promotion-piece.bn {
+    background-image: var(--theme-piece-set-bn) !important;
+}
+
+.piece.bp,
+.promotion-piece.bp {
+    background-image: var(--theme-piece-set-bp) !important;
+}
+
+.piece.br,
+.promotion-piece.br {
+    background-image: var(--theme-piece-set-br) !important;
+}
+
+.piece.bb,
+.promotion-piece.bb {
+    background-image: var(--theme-piece-set-bb) !important;
+}
+
+.piece.bq,
+.promotion-piece.bq {
+    background-image: var(--theme-piece-set-bq) !important;
+}
+
+.piece.bk,
+.promotion-piece.bk {
+    background-image: var(--theme-piece-set-bk) !important;
+}

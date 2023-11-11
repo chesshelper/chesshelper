@@ -1,0 +1,3 @@
+#sb .nav-link-component::before {
+    filter: grayscale(0.85);
+}

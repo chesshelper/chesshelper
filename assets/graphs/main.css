@@ -1,0 +1,18 @@
+@keyframes appear {
+    0% {
+        opacity: 0;
+    }
+
+    70% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+
+.game-preview-component {
+    animation: appear 300ms linear both;
+}

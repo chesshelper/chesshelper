@@ -1,0 +1,12 @@
+[data-test-element="user-tagline-username"] {
+    pointer-events: none;
+    user-select: none;
+}
+
+#user-popover {
+    display: none;
+}
+
+.floating-modal-component {
+    display: none;
+}

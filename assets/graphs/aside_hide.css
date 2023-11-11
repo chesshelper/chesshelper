@@ -1,0 +1,7 @@
+body {
+    padding: var(--gutter) !important;
+}
+
+#sb {
+    display: none !important;
+}

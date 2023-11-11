@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2_00000159434863399057218840000008439360770035170448_"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 127.6 127.6"
+	 style="enable-background:new 0 0 127.6 127.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);stroke:#231F20;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#FFFFFF;stroke:#231F20;stroke-width:1.5;stroke-miterlimit:10;}
+	.st2{fill:#231F20;stroke:#231F20;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#231F20;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g id="Layer_1-2">
+	<g id="BN">
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="63.7787" y1="17.0101" x2="63.7787" y2="113.7102" gradientTransform="matrix(1 0 0 -1 0 129.1446)">
+			<stop  offset="0" style="stop-color:#CFCFCF"/>
+			<stop  offset="5.000000e-02" style="stop-color:#D9D9D9"/>
+			<stop  offset="0.16" style="stop-color:#EAEAEA"/>
+			<stop  offset="0.29" style="stop-color:#F6F6F6"/>
+			<stop  offset="0.48" style="stop-color:#FDFDFD"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<path class="st0" d="M38.7,112.1h71.2c0,0,1.1-16.6-4.1-35.3C102.5,65.2,95.3,43.3,75.5,32c-2.5-1.5-4.8-2.4-6.3-3
+			c-0.4-2.3-1.7-6.1-4.3-10.2c-1.5-2.3-2.8-3.5-3.9-3.3c-2.1,0.4-3.2,5.6-3.1,13.5l-7.3,0.8c-0.7-1.1-8.6-13.3-11.5-12.1
+			c-2.6,1.1,0.1,12.2,0.6,14.1c0,0-15,15.6-19.9,31.5c-0.9,3.3-6.1,16.2,3.6,20.6c9.7,4.5,14.3,0.4,14.3,0.4
+			c2.5-1.3,8.7-10.2,12.1-13.2c0.9-0.8,5.4-4.7,6.4-3.8c0.7,0.6-0.8,3.5-1.2,4.3c-1.3,2.7-1.8,4.1-3.2,6.2
+			c-3.4,5.2-8.6,13.8-10.4,18.7C40.4,99.9,38.9,105.1,38.7,112.1L38.7,112.1z"/>
+		<g>
+			<circle class="st1" cx="47.9" cy="47.3" r="2"/>
+			<path class="st2" d="M50,43.8c-2.2,0.2-8,4.9-7.4,5.2c0.6,0.2,8.3-3.6,8.2-4.8C50.8,43.9,50.5,43.7,50,43.8L50,43.8z"/>
+			<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -51.0611 61.904)" class="st2" cx="28.1" cy="75.2" rx="1.7" ry="0.9"/>
+		</g>
+		<path class="st3" d="M70.1,37.3c19.6,13.3,27.7,31.8,31.1,56.8"/>
+	</g>
+</g>
+</svg>

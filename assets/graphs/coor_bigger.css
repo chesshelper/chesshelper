@@ -1,0 +1,18 @@
+.coordinates text {
+    font-size: 4px !important;
+    transform: translate(-0.5px, 0.5px);
+}
+
+.coordinates_inj {
+    left: -5px !important;
+
+}
+
+.coordinates_inj text {
+    font-size: 4.5px !important;
+    text-shadow: none !important;
+}
+
+.coordinates.outside {
+    transform: translate(-4.5%, 3.4%);
+}

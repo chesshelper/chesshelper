@@ -1,0 +1,14 @@
+body {
+    --gutter: 5px !important;
+    --modifiedBoardWidth: 99999px !important;
+    --boardControlsHeight: 20px !important;
+    --boardControlsWidth: 25px !important;
+    height: 100vh;
+    box-sizing: border-box;
+    grid-template-rows: [top] calc(100vh - 10px) [bottom] auto;
+    overscroll-behavior: none !important;
+}
+
+.resize::before {
+    display: none;
+}

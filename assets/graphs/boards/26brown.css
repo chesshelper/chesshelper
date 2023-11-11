@@ -1,0 +1,119 @@
+:root {
+    --theme-board-style-image: url('moz-extension://__MSG_@@extension_id__/assets/img/br_main/26brown.png') !important;
+    --theme-board-style-preview-image: url('moz-extension://__MSG_@@extension_id__/assets/img/br_main/26brown.png') !important;
+    --theme-board-style-coordinate-color-light: #D2A69B !important;
+    --theme-board-style-coordinate-color-dark: #B16565 !important;
+    --theme-board-style-highlight-color: rgba(216, 198, 33, 0.5) !important;
+}
+
+.coordinate-dark {
+    fill: var(--theme-board-style-coordinate-color-light, #d7d7d7) !important;
+}
+
+.coordinate-light {
+    fill: var(--theme-board-style-coordinate-color-dark, #2a3c3a) !important;
+}
+
+
+
+#board-analysis-board,
+#board-single,
+#board,
+.fade-in-overlay {
+    background-image: var(--theme-board-style-image, url('https://images.chesscomfiles.com/chess-themes/boards/glass/100.png')) !important;
+}
+
+/* Override styles */
+
+.settings-editor-board-preview-preview .game-preview-component {
+    opacity: 1 !important;
+    background: none !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.settings-editor-board-preview-preview,
+.settings-themes-preview-wrapper>.game-preview-themed-component {
+    background: #3b3b40 !important;
+    background-image: none !important;
+    position: relative;
+    text-shadow: none;
+    border: 2px dashed #8d8d8d;
+    width: 100% !important;
+    height: 100% !important;
+    min-height: 100% !important;
+    max-height: 14.5rem !important;
+    padding: 0;
+}
+
+.settings-modal-content-content .game-preview-themed-component {
+    display: block !important;
+    background: none !important;
+}
+
+.game-preview-themed-component {
+    position: relative;
+}
+
+.settings-editor-board-preview-preview .game-preview-component::before,
+.settings-editor-board-preview-preview>.game-preview-themed-component::before {
+    content: "🎨Board: 26brown (by P Jaworski)";
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 2rem;
+    padding: 0 21px;
+
+    color: #fff !important;
+    font-family: monospace !important;
+    line-height: 140%;
+    font-size: 1.1rem;
+    text-align: center;
+    width: 50%;
+    text-wrap: wrap;
+    overflow-wrap: break-word;
+    z-index: 10;
+    box-sizing: border-box;
+}
+
+
+.settings-editor-board-preview-preview .game-preview-component::after,
+.settings-editor-board-preview-preview>.game-preview-themed-component::after {
+    content: "(Set ChessPro Board field to 'Default' if you want to choose any System Boards!)";
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 6rem;
+    padding: 0 4px;
+
+    color: #c7cad4 !important;
+    font-family: monospace !important;
+    line-height: 140%;
+    font-size: 1.1rem;
+    text-align: center;
+    width: 50%;
+    text-wrap: wrap;
+    overflow-wrap: break-word;
+    z-index: 10;
+    box-sizing: border-box;
+}
+
+.settings-modal-content-content .settings-editor-board-preview-preview::before {
+    top: 2rem;
+    width: 21rem;
+    padding: 0 3.5rem;
+}
+
+
+.settings-modal-content-content .settings-editor-board-preview-preview::after {
+    top: 6rem;
+    width: 21rem;
+}
+
+.settings-themes-options-wrapper .settings-themes-select-wrapper:nth-child(2),
+main.settings-layout-component .settings-board-form form>div:nth-child(2),
+.settings-modal-content-content>div>.settings-field-row:nth-child(3) {
+    opacity: 0.5;
+    user-select: none;
+    pointer-events: none;
+}

@@ -1,0 +1,9 @@
+.promo-item,
+[data-cy="new-game-option-tournaments"],
+.live-stats-text,
+.competition-announcements-component,
+[data-amplitude-nav-selection="subnav-help"],
+[data-amplitude-nav-selection="subnav-uimode"],
+[data-amplitude-nav-selection="news"] {
+    display: none !important;
+}

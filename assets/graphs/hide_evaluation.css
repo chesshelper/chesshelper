@@ -1,0 +1,11 @@
+:root {
+    --evalAndGutter: 0 !important;
+}
+
+body {
+    --evalAndGutter: 0 !important;
+}
+
+.board-layout-evaluation {
+    display: none !important;
+}
