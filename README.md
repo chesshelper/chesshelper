@@ -19,7 +19,7 @@ Get new Chess.com themes, pieces, and boards. Disable annoying notifications, ad
 ## About
 
 Extension for Chess.com I made as a chess enjoyer to make this service even better. 
-I love Chess.com, but... There's always thing that you want to improve just because you use it a lot. Especially when you got that annoying profile popup several times in HyperBullet (huhhh...). Soo yep, I hope you find it as useful as I did. Because I spent almost 4 weeks to make it perfect. <br><br> Most of the pieces, and boards were also created by me (thanks to some design knowledge that I kept with me). Let me know what you think about this. Even if you hate it :)) Because I want to make it as good as possible. Also don't forget to donate, or leave a comment if you enjoy it.
+I love Chess.com, but there are always things that you want to improve just because you use something quite often. <br> Most of the pieces, and boards were also created by me, but some of them are from the web with GNU / CC0 License. Let me know what you think about this - any feedback is appreciated.
 
 
 ## Installation
@@ -35,7 +35,7 @@ Once the extension is installed, follow these steps to start working with it:
 1. **Activation:** Open Chess.com in your browser (better on /game page, so you can see the board & pieces changes).
 2. **Extension Access:** Click on the ChessHelper Extension icon in the browser toolbar to activate it.
 3. **Customization:** Access the extension options to start customizing by your preference. Each setting saves even after cleaning the cache, so don't worry about it.
-4. **Enjoy!** Sit back, relax, and enjoy your personalized Chess.com experience. I spent a good amount of time just to make it work well. So it should work well. If not, then let me know and I'll fix it!
+4. **Enjoy!** Sit back, relax, and enjoy your personalized Chess.com experience. I spent a good amount of time just to make it work well. So it should work well. If not, then let me know and I'll fix it.
 
 ## License
 
