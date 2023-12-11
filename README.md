@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Get new Chess.com themes, pieces, and boards. Disable annoying notifications, add fullscreen mode, and "fixed" mode, change font, disable stream on the main page to reduce bandwidth usage... And many more!
+Add new Chess.com themes, pieces, and boards. Disable annoying notifications, add fullscreen mode, and "fixed" mode, change font, disable stream on the main page to reduce bandwidth usage... and many more.
 </p>
 
 ***
