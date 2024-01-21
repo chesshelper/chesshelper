@@ -1,19 +1,19 @@
 :root {
     --theme-piece-set-perspective: 1;
 
-    --theme-piece-set-wp: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit_lucas312/wp.svg') !important;
-    --theme-piece-set-wn: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit_lucas312/wn.svg') !important;
-    --theme-piece-set-wr: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit_lucas312/wr.svg') !important;
-    --theme-piece-set-wb: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit_lucas312/wb.svg') !important;
-    --theme-piece-set-wq: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit_lucas312/wq.svg') !important;
-    --theme-piece-set-wk: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit_lucas312/wk.svg') !important;
+    --theme-piece-set-wp: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit/wp.svg') !important;
+    --theme-piece-set-wn: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit/wn.svg') !important;
+    --theme-piece-set-wr: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit/wr.svg') !important;
+    --theme-piece-set-wb: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit/wb.svg') !important;
+    --theme-piece-set-wq: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit/wq.svg') !important;
+    --theme-piece-set-wk: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit/wk.svg') !important;
 
-    --theme-piece-set-bp: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit_lucas312/bp.svg') !important;
-    --theme-piece-set-bn: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit_lucas312/bn.svg') !important;
-    --theme-piece-set-bb: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit_lucas312/bb.svg') !important;
-    --theme-piece-set-br: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit_lucas312/br.svg') !important;
-    --theme-piece-set-bq: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit_lucas312/bq.svg') !important;
-    --theme-piece-set-bk: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit_lucas312/bk.svg') !important;
+    --theme-piece-set-bp: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit/bp.svg') !important;
+    --theme-piece-set-bn: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit/bn.svg') !important;
+    --theme-piece-set-bb: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit/bb.svg') !important;
+    --theme-piece-set-br: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit/br.svg') !important;
+    --theme-piece-set-bq: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit/bq.svg') !important;
+    --theme-piece-set-bk: url('moz-extension://__MSG_@@extension_id__/assets/img/32bit/bk.svg') !important;
 }
 
 
@@ -144,7 +144,7 @@
 
 .settings-modal-content-content .settings-editor-board-preview-preview::after,
 .settings-themes-preview-wrapper>.game-preview-themed-component::after {
-    content: "(Set ChessPro Pieces field to 'Default' if you want to choose any System pieces!)";
+    content: "(Set ChessHelper Pieces field to 'Default' if you want to choose any System pieces!)";
     display: block;
     position: absolute;
     left: 0;

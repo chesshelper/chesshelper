@@ -85,7 +85,7 @@
 
 .settings-editor-board-preview-preview .game-preview-component::after,
 .settings-editor-board-preview-preview>.game-preview-themed-component::after {
-    content: "(Set ChessPro Board field to 'Default' if you want to choose any System Boards!)";
+    content: "(Set ChessHelper Board field to 'Default' if you want to choose any System Boards!)";
     display: block;
     position: absolute;
     right: 0;

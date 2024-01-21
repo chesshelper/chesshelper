@@ -159,7 +159,7 @@
 
 .settings-modal-content-content .settings-editor-board-preview-preview::after,
 .settings-themes-preview-wrapper>.game-preview-themed-component::after {
-    content: "(Set ChessPro Pieces field to 'Default' if you want to choose any System pieces!)";
+    content: "(Set ChessHelper Pieces field to 'Default' if you want to choose any System pieces!)";
     display: block;
     position: absolute;
     left: 0;

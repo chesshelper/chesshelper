@@ -1,0 +1,16 @@
+:root {
+    --theme-background-override-color: #000000;
+    --theme-background-color: var(--theme-background-override-color, #000000);
+}
+
+body {
+    transition: background 0ms linear !important;
+}
+
+.archived-games-result-won::before {
+    color: #22b422 !important;
+}
+
+.archived-games-result-lost::before {
+    color: #e46f0f !important;
+}

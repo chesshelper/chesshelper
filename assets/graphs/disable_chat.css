@@ -6,7 +6,7 @@
 }
 
 .chat-scroll-area-component::before {
-    content: "Chat disabled by ChessPro Extension.";
+    content: "Chat disabled by ChessHelper Extension.";
     display: block;
     position: absolute;
     bottom: 0;

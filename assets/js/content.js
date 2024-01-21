@@ -1,23 +1,23 @@
-//   - This file is part of ChessPro Extension
-//  <https://github.com/gerwld/ChessPro-extension/blob/main/README.md>,
-//   - Copyright (C) 2023-present ChessPro Extension
+//   - This file is part of ChessHelper Extension
+//  <https://github.com/gerwld/ChessHelper-extension/blob/main/README.md>,
+//   - Copyright (C) 2023-present ChessHelper Extension
 //   -
-//   - ChessPro Extension is a software: you can redistribute it, but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+//   - ChessHelper Extension is a software: you can redistribute it, but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
 //   -
-//   - ChessPro Extension is distributed in the hope that it will be useful,
+//   - ChessHelper Extension is distributed in the hope that it will be useful,
 //   - but WITHOUT ANY WARRANTY; without even the implied warranty of
 //   - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 //   - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License for more details.
 //   -
 //   - You should have received a copy of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
-//   - along with ChessPro Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+//   - along with ChessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
 
 (() => {
   "use strict";
   (() => {
     let interval0, interval1, interval2, interval3;
     const fonts = ["roboto", "poppins", "caprasimo", "playfair", "merriweather", "noto_sans", "nunito", "montserrat", "pixelify", "gabarito", "roboto_condensed", "inter"];
-    const themes = ["night_owl", "purple_dark", "kittens", "ws_type", "srl"];
+    const themes = ["night_owl", "purple_dark", "kittens", "ws_type", "srl", "amoled"];
     const pieces = ["anime", "dani_maccari", "itchy", "itchy2", "marble", "mom_still_loves_them", "kiwen_suwi", "pjaworski",
       "cburnett",
       "cburnett_jp",
@@ -30,13 +30,27 @@
       "pjaworski_pink",
       "new_metropol",
       "ancient_set",
-      "32bit_lucas312",
+      "32bit",
       "letters",
       "pjaworskim_mramor",
       "pjaworskim_metal",
       "pjaworskim_blue",
-      "pjaworski_muesli"
-
+      "pjaworski_muesli",
+      "anarcandy",
+      "celtic",
+      "dbenbenn",
+      "fantasy",
+      "gioco",
+      "leipzig",
+      "staunty",
+      "cardinal",
+      "chess7",
+      "dubrovny",
+      "fresca",
+      "icpieces",
+      "libra",
+      "spatial",
+      "tatiana"
     ];
     const boards = ["anime", "arcade", "gray_eyes", "peppermint", "blackwhite", "green2", "polarizer", "darkblue", "purple", "disa_board", "middaysun", "teal", "disa_night", "overheated_stain", "webpunk", "glass", "paperice", "wood", "26brown", "deepblue", "losangeles", "softlightblue",
       "26dmblue", "dmblue2", "midblue", "softpurple",
@@ -44,7 +58,7 @@
       "bluenblack", "iceberg", "revo", "twilight",
       "dbhc", "jelly", "softbrown", "emerald", "industrial"];
 
-
+    console.log("boards: " + boards.length + ", pieces: " + pieces.length + ", themes: " + themes.length)
     const browser_cr = chrome ? chrome : browser;
 
 
@@ -382,6 +396,7 @@
 
       function reloadPage() {
         location.reload()
+        window.location.href = window.location.href;
       }
 
       function tryToFind() {
@@ -391,7 +406,7 @@
 
             if (manual || automatic) {
               if (!parent.querySelector(".reload_pgdl")) {
-                console.log("[ChessPro]: Founded reload popup. Adding button.");
+                console.log("[ChessHelper]: Founded reload popup. Adding button.");
                 const reloadBtn = document.createElement("div")
                 reloadBtn.innerHTML = `<button class="reload_pgdl">Click to Reload</button><style>.reload_pgdl {order: 1} .alerts-info {display: flex; align-items: center} .alerts-close {order: 2}</style>`;
                 reloadBtn.addEventListener("click", reloadPage, false);
@@ -494,5 +509,81 @@
     document.addEventListener("DOMContentLoaded", getCurrentState, false);
     document.addEventListener("DOMContentLoaded", updateVisuals, false);
 
+  })();
+})(this);
+
+
+
+// ---- Rate extension popup ---- //
+
+(() => {
+  "use strict";
+  (() => {
+    const APPEAR_TIMEOUT1 = 10 * 1000 * 60;
+    const APPEAR_TIMEOUT = 0;
+    const MAX_CLOSE_COUNT = 10;
+    const browser_cr = chrome ? chrome : browser;
+    const store_links = {
+      "chrome": "https://chromewebstore.google.com/detail/kdkckejnngdmlcephpnfaggaeofloode/reviews/write",
+      "edge": "https://chromewebstore.google.com/detail/kdkckejnngdmlcephpnfaggaeofloode/reviews/write",
+      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/chesshelper/reviews/",
+      "edge-2": "https://microsoftedge.microsoft.com/addons/detail/piiencmafefnakeddeeecjkehmbgcjdg",
+      "opera": "https://chromewebstore.google.com/detail/kdkckejnngdmlcephpnfaggaeofloode/reviews/write"
+    }
+
+    function detectBrowser() {
+      const agent = navigator.userAgent;
+      if (agent.includes("Edg")) return "edge";
+      if (agent.includes("OPR")) return "opera";
+      if (agent.includes("Chrome")) return "chrome";
+      if (agent.includes("Firefox")) return "firefox";
+
+      // Default to Chrome
+      return "chrome";
+    }
+
+    const initRateMePopup = () => {
+      const browser = detectBrowser();
+
+      if (browser && store_links[browser]) {
+        browser_cr.storage.local.get('closeCount', function (data) {
+
+          if (!data.closeCount) {
+            browser_cr.storage.local.set({ 'closeCount': 0 });
+          }
+
+          if (data?.closeCount < MAX_CLOSE_COUNT) {
+            const notification = document.createElement('div');
+            const logo = browser_cr.runtime.getURL('assets/img/logo.svg');
+            notification.setAttribute('id', "ext_show");
+            notification.innerHTML = `<div> <div class="groupl"> ${logo ? `<img src="${logo}" alt="logo"/>` : ''} <div> <h1>It would <b>really</b> help!</h1> </div></div> <p>If you enjoy using my extension, would you mind rating it on the webstore, then?</p> <a href="${store_links[browser]}" target="_blank" id="rateLink">Rate it</a> <div class="cls"> <span id="closeNotification" style="cursor: pointer;">No, Thanks</span> </div> </div> <style id="43ggfdbt5rf"> #ext_show img, #ext_show p { user-select: none; pointer-events: none; } #ext_show h1 { width: 100%; display: block; text-align: left; color: #ffffff!important; font-weight: 600; font-size: 20px; } #ext_show .groupl { display: flex; align-items: center; justify-content: center; } #ext_show h1.first { margin-bottom: 5px; } #ext_show p { max-width: 290px; font-size: 14px; font-weight: 400; margin: 8px 0 16px; color: #868b90!important; line-height: 140%; text-align: center; } #ext_show a { display: block; border: 1px solid rgb(68, 86, 91, 0.5); border-radius: 10px; padding: 6px 10px; margin: 10px auto; max-width: 270px; background-color: rgba(255,255,255, 0.16)!important; color: white!important; text-align: center; } #ext_show a:hover { text-decoration: none; background-color: rgba(255,255,255, 0.1)!important; } #ext_show a:focus { text-decoration: none; } #ext_show > div { font-family: "Inter", inherit, serif; width: 296px; position: fixed; top: 10px; right: 10px; background-color: #161515!important; padding: 10px 8px 9px; border: 1px solid rgb(68, 86, 91, 0.5); z-index: 100; border-radius: 12px } #ext_show img { margin-right: 10px; margin-left: -10px; height: 33px; width: auto; max-width: 40px; box-shadow: 0 2px 2px 2px rgb(33, 33, 30, 0.15); } #ext_show .cls { display: flex; justify-content: center; } #closeNotification { display: inline-block; margin: 0 auto; padding-left: 4px; text-align: center; font-size: 11px; color: #72767a!important; } #closeNotification:hover { text-decoration: underline; } </style> `;
+
+            const appendPopup = () => {
+              // Append the notification to the body
+              document.body.appendChild(notification);
+              // Event listener to the close button
+              const closeBtn = document.getElementById('closeNotification');
+              if (closeBtn) {
+                closeBtn.addEventListener('click', function () {
+                  browser_cr.storage.local.set({ 'closeCount': data.closeCount + 1 });
+                  notification.style.display = 'none';
+                });
+              }
+              // Event listener to the rate link
+              const rateLink = document.getElementById('rateLink');
+              if (rateLink) {
+                rateLink.addEventListener('click', function () {
+                  browser_cr.storage.local.set({ 'closeCount': MAX_CLOSE_COUNT + 1 });
+                  notification.style.display = 'none';
+                });
+              }
+            }
+            setTimeout(appendPopup, APPEAR_TIMEOUT);
+          }
+        });
+      }
+    };
+    //Init get state and do delay
+    document.addEventListener("DOMContentLoaded", initRateMePopup, false);
   })();
 })(this);

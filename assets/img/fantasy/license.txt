@@ -1,0 +1,3 @@
+Author: Maurizio Monge
+Source: https://github.com/maurimo/chess-art
+Attribution / License: "give credit in a suitable way"

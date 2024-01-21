@@ -11,19 +11,19 @@ import rename from "gulp-rename";
 import replace from "gulp-replace";
 
 let { src, dest, task, series } = gulp;
-const COPYRIGHT = `//   - This file is part of ChessPro Extension
-//  <https://github.com/gerwld/ChessPro-extension/blob/main/README.md>,
-//   - Copyright (C) 2023-present ChessPro Extension
+const COPYRIGHT = `//   - This file is part of ChessHelper Extension
+//  <https://github.com/gerwld/ChessHelper-extension/blob/main/README.md>,
+//   - Copyright (C) 2023-present ChessHelper Extension
 //   -
-//   - ChessPro Extension is a software: you can redistribute it, but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+//   - ChessHelper Extension is a software: you can redistribute it, but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
 //   -
-//   - ChessPro Extension is distributed in the hope that it will be useful,
+//   - ChessHelper Extension is distributed in the hope that it will be useful,
 //   - but WITHOUT ANY WARRANTY; without even the implied warranty of
 //   - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 //   - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License for more details.
 //   -
 //   - You should have received a copy of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
-//   - along with ChessPro Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+//   - along with ChessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
 `
 
 //## Minify Images  ##//
@@ -107,6 +107,10 @@ task('addOther', async function () {
 
     src('./manifest-chrome.json').pipe(rename("manifest.json")).pipe(dest('./public/chrome'));
     src('./manifest-firefox.json').pipe(rename("manifest.json")).pipe(dest('./public/firefox'));
+
+    src(['_locales/**/*'])
+        .pipe(dest('./public/chrome/_locales'))
+        .pipe(dest('./public/firefox/_locales'))
 });
 
 

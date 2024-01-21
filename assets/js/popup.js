@@ -1,16 +1,16 @@
-//   - This file is part of ChessPro Extension
-//  <https://github.com/gerwld/ChessPro-extension/blob/main/README.md>,
-//   - Copyright (C) 2023-present ChessPro Extension
+//   - This file is part of ChessHelper Extension
+//  <https://github.com/gerwld/ChessHelper-extension/blob/main/README.md>,
+//   - Copyright (C) 2023-present ChessHelper Extension
 //   -
-//   - ChessPro Extension is a software: you can redistribute it, but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+//   - ChessHelper Extension is a software: you can redistribute it, but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
 //   -
-//   - ChessPro Extension is distributed in the hope that it will be useful,
+//   - ChessHelper Extension is distributed in the hope that it will be useful,
 //   - but WITHOUT ANY WARRANTY; without even the implied warranty of
 //   - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 //   - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License for more details.
 //   -
 //   - You should have received a copy of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
-//   - along with ChessPro Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+//   - along with ChessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
 
 
 (() => {
@@ -19,6 +19,7 @@
     document.addEventListener("DOMContentLoaded", () => {
       const container = document.getElementById("l3_settings");
       const main_nav = document.getElementById("header_nav");
+      const lang_set = document.getElementById("lang_set");
 
       //Accordion
       const groups = container.querySelectorAll(".ch_group");
@@ -92,6 +93,15 @@
             }
           }
 
+          //Function to update lang state
+          function updateLangState(e) {
+            state["lang_set"] = e.target.value || "en";
+            // Save the updated state to extension storage
+            chrome.storage.local.set({ formState: state }, () => {
+              dispatchFormStateChangeEvent();
+            });
+          }
+
           //Function to update menu state
           function updateMenuState(e) {
             let action = e.target.getAttribute("data-action");
@@ -122,8 +132,9 @@
             } else input.addEventListener("input", updateState);
           });
 
-          //Add event listener to header nav
+          //Add event listener to header nav & lang change
           main_nav.addEventListener("click", updateMenuState);
+          lang_set.addEventListener("change", updateLangState);
 
           // Initialize the form inputs based on the state
           updateFormInputs();
