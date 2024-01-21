@@ -12,7 +12,7 @@
     "message": "ChessHelper Extension"
   },
   "header_subtitle": {
-    "message": "We love Chess.com! Let's make it even better, together."
+    "message": "We love Chess.com! Let's make it even better."
   },
   "btn_donate": {
     "message": "Donate"
@@ -129,7 +129,7 @@
     "message": "Donations keep ChessHelper up and running."
   },
   "d_subtitle": {
-    "message": "I spend hours every week fixing bugs, adding and improving features, and addressing user feedback. Your support is crucial to continued maintenance."
+    "message": "I spend hours every week fixing bugs, adding and improving features, and addressing user feedback. Your support is crucial to continued maintenance!"
   },
   "d_pp": {
     "message": "Donate via PayPal"

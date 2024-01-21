@@ -391,6 +391,21 @@ html.dark_mode .btn_header:hover {
 
 
 /* header styles end */
+.content {
+  min-height: 420px;
+}
+
+[lang="de"] .content {
+  min-height: 426px;
+}
+
+[lang="hi"] .content,
+[lang="es"] .content,
+[lang="uk"] .content,
+[lang="pl"] .content {
+  min-height: 436px;
+}
+
 
 #l3_settings {
   display: flex;
@@ -410,8 +425,7 @@ html.dark_mode .btn_header:hover {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  height: 407px;
-  height: 407.81px;
+  height: 400px;
   font-size: 1.1rem;
   font-weight: 400;
   color: #b2b8be;
@@ -583,7 +597,7 @@ a img {
 .ext_content p {
   margin: 0;
   line-height: 170%;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
 }
 
 .ext_content ul {
@@ -595,7 +609,7 @@ a img {
 }
 
 .donate_nav {
-  max-width: 300px;
+  max-width: 280px;
   padding: 20px 0;
   margin: 0 auto;
   display: flex;
@@ -609,10 +623,10 @@ a img {
   justify-content: flex-start;
   flex: 1;
 
-  padding: 4px 5px;
+  padding: 4px 4px;
   color: #ffffff;
   border: 2px solid #315d96;
-  background-color: #3c74bd;
+  background-color: #3d79c8;
   margin-bottom: 10px;
   text-decoration: none;
   text-align: center;
@@ -707,10 +721,6 @@ a.don_btn {
   justify-content: flex-start;
 }
 
-/* .donate_nav a:hover span.ic {
-  scale: 1.1;
-} */
-
 .donate_nav a:active {
   box-shadow: 0px -2px 0 0 var(--shadow-color-1);
   transform: translateY(3px);
@@ -729,7 +739,6 @@ a.don_btn {
   width: 42px;
   height: 42px;
   background-color: rgba(255, 255, 255, 0.25);
-  border: 1px solid #86aefe;
   border-radius: 50%;
   box-sizing: content-box;
 }
