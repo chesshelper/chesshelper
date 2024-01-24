@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Mada za kawaida za Chess.com, Ubao wa Kipekee - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Weka mandhari, vipande, herufi, na ubao mpya, ondoa taarifa za kero, popups, na kadhalika."
+    },
+    "disabled": {
+        "message": "Umezima ChessHelper"
+    },
+    "header_title": {
+        "message": "ChessHelper Mbadala"
+    },
+    "header_subtitle": {
+        "message": "Tupendayo Chess.com! Tufanye iwe bora zaidi."
+    },
+    "btn_donate": {
+        "message": "Toa"
+    },
+    "btn_support": {
+        "message": "Pata msaada"
+    },
+    "btn_reqfeature": {
+        "message": "Omba kipengee"
+    },
+    "btn_goback": {
+        "message": "rudi nyuma"
+    },
+    "menu_main": {
+        "message": "Vipengele Vikuu:"
+    },
+    "menu_sec": {
+        "message": "Vipengele Vingine:"
+    },
+    "menu_palette": {
+        "message": "Palette ya Rangi / Herufi:"
+    },
+    "n_default": {
+        "message": "Kawaida"
+    },
+    "mi_1": {
+        "message": "Wezesha \"Mode ya Mazingira\" \n (nzuri kwa Matangazo na Bullet)"
+    },
+    "mi_2": {
+        "message": "Zima matangazo kwenye Ukurasa wa Kuu"
+    },
+    "mi_3": {
+        "message": "Ongeza chaguo la HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Zima kidirisha cha \"Kuhusu mimi\""
+    },
+    "mi_5": {
+        "message": "Zima Gumzo"
+    },
+    "mi_6": {
+        "message": "Ficha taarifa ya gumzo: \n\"Usianze mchezo isipokuwa...\""
+    },
+    "mi_7": {
+        "message": "Weka ubao kuwa na urefu wa 100% thabiti"
+    },
+    "mi_8": {
+        "message": "Fanya vitambulisho kuwa vikubwa"
+    },
+    "mi_9": {
+        "message": "Vitambulisho kwenye kila kisanduku"
+    },
+    "mi_10": {
+        "message": "Palette ya Rangi / Herufi:"
+    },
+    "mi_11": {
+        "message": "Wafanye kuwa dhaifu zaidi"
+    },
+    "mi_12": {
+        "message": "Muduli wa Wakati Mkubwa"
+    },
+    "mi_13": {
+        "message": "Zima mabadiliko ya kubonyeza"
+    },
+    "mi_14": {
+        "message": "Onyesha chaguo la kurejesha ikiwa hakuna uhusiano"
+    },
+    "mi_15": {
+        "message": "Sasisha ukurasa kiotomatiki (beta)"
+    },
+    "mi_16": {
+        "message": "Bofya mara mbili kujiuzulu \n(bila kidirisha cha \"Una uhakika\")"
+    },
+    "mi_17": {
+        "message": "Ongeza kitufe cha skrini nzima (chini kulia)"
+    },
+    "fonts_title": {
+        "message": "Chagua Herufi:"
+    },
+    "themes_title": {
+        "message": "Chagua Mandhari:"
+    },
+    "themes_label": {
+        "message": "MPYA"
+    },
+    "themes_msg": {
+        "message": "Chaguzi Mpya v1.1.9"
+    },
+    "theme_1": {
+        "message": "Kawaida (Kijani Chakula)"
+    },
+    "d_title": {
+        "message": "Michango inaendeleza ChessHelper."
+    },
+    "d_subtitle": {
+        "message": "Ninautumia muda wangu kila wiki kurekebisha kasoro, kuongeza na kuboresha vipengele, na kushughulikia maoni ya watumiaji. Msaada wako ni muhimu kwa matunzio endelevu!"
+    },
+    "d_pp": {
+        "message": "Toa kupitia PayPal"
+    },
+    "d_kofi": {
+        "message": "Nisaidie kwenye Ko-Fi"
+    },
+    "d_card": {
+        "message": "Toa kwa kadi ya mkopo au debit"
+    },
+    "d_cred__1": {
+        "message": "Unaweza pia kushiriki ChessHelper na marafiki zako au kuacha"
+    },
+    "d_cred__2": {
+        "message": "mapitio"
+    },
+    "d_cred__3": {
+        "message": "Asante."
+    },
+    "s_title": {
+        "message": "Unakumbana na matatizo na ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Hapa kuna hatua za kutatua unazoweza kujaribu:"
+    },
+    "s_res__1": {
+        "message": "Sasisha ukurasa wa Chess.com."
+    },
+    "s_res__2": {
+        "message": "Zima na kisha wezesha tena ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Zima programu-jalizi nyingine."
+    },
+    "s_res__4": {
+        "message": "Safisha na usakinishe tena ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Futa akiba ya kivinjari."
+    },
+    "s_emailme": {
+        "message": "Ikiwa tatizo bado lipo, tafadhali niandikie barua pepe kwa"
+    },
+    "s_effic": {
+        "message": "Ili kunisaidia kukusaidia kwa ufanisi zaidi, tafadhali jumuisha habari hii:"
+    },
+    "s_detail__1": {
+        "message": "Toleo la ChessHelper unalotumia."
+    },
+    "s_detail__2": {
+        "message": "Picha au video inayoonyesha tatizo."
+    },
+    "s_detail__3": {
+        "message": "Maelezo mafupi ya tatizo."
+    },
+    "s_detail__4": {
+        "message": "Kivinjari chako na toleo lake (k.m., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Vipande / Ubao wa Kipekee:"
+    },
+    "menu_pieces": {
+        "message": "Chagua Vipande:"
+    },
+    "menu_board": {
+        "message": "Chagua Ubao:"
+    },
+    "menu_boardfeat": {
+        "message": "Vipengele vya Ubao:"
+    }
+}

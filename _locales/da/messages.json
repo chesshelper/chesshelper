@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Brugerdefinerede Temaer, Brætter - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Opsæt nye temaer, brikker, skrifter og brætter, fjern irriterende meddelelser, popups og så videre."
+    },
+    "disabled": {
+        "message": "Du har slået ChessHelper fra"
+    },
+    "header_title": {
+        "message": "ChessHelper Udvidelse"
+    },
+    "header_subtitle": {
+        "message": "Vi elsker Chess.com! Lad os gøre det endnu bedre."
+    },
+    "btn_donate": {
+        "message": "Doner"
+    },
+    "btn_support": {
+        "message": "Få support"
+    },
+    "btn_reqfeature": {
+        "message": "Anmod om funktion"
+    },
+    "btn_goback": {
+        "message": "gå tilbage"
+    },
+    "menu_main": {
+        "message": "Hovedfunktioner:"
+    },
+    "menu_sec": {
+        "message": "Yderligere funktioner:"
+    },
+    "menu_palette": {
+        "message": "Farvepalet / skrifttype:"
+    },
+    "n_default": {
+        "message": "Standard"
+    },
+    "mi_1": {
+        "message": "Aktivér \"Fokus-tilstand\" \n (bedst til streams og Bullet)"
+    },
+    "mi_2": {
+        "message": "Deaktiver stream på hovedsiden"
+    },
+    "mi_3": {
+        "message": "Tilføj HyperBullet valg (30s)"
+    },
+    "mi_4": {
+        "message": "Deaktiver \"Om mig\" popup"
+    },
+    "mi_5": {
+        "message": "Deaktiver chat"
+    },
+    "mi_6": {
+        "message": "Skjul chatnotifikation: \n\"Start ikke et spil medmindre...\""
+    },
+    "mi_7": {
+        "message": "Indstil brættet til 100% fast højde"
+    },
+    "mi_8": {
+        "message": "Gør koordinater større"
+    },
+    "mi_9": {
+        "message": "Koordinater på hver kvadrat"
+    },
+    "mi_10": {
+        "message": "Farvepalet / skrifttype:"
+    },
+    "mi_11": {
+        "message": "Gør dem mindre synlige"
+    },
+    "mi_12": {
+        "message": "Større tidskontroller"
+    },
+    "mi_13": {
+        "message": "Deaktiver markørskift ved hover"
+    },
+    "mi_14": {
+        "message": "Vis genindlæsningsmulighed ved frakobling"
+    },
+    "mi_15": {
+        "message": "Opdater side automatisk (beta)"
+    },
+    "mi_16": {
+        "message": "Dobbeltklik for at opgive \n(uden \"Er du sikker\" popup)"
+    },
+    "mi_17": {
+        "message": "Tilføj fuldskærmsknap (nederste højre hjørne)"
+    },
+    "fonts_title": {
+        "message": "Vælg skrifttype:"
+    },
+    "themes_title": {
+        "message": "Vælg tema:"
+    },
+    "themes_label": {
+        "message": "NY"
+    },
+    "themes_msg": {
+        "message": "Nye muligheder v1.1.9"
+    },
+    "theme_1": {
+        "message": "Standard (Mørkegrøn)"
+    },
+    "d_title": {
+        "message": "Donationer holder ChessHelper kørende."
+    },
+    "d_subtitle": {
+        "message": "Jeg bruger timer hver uge på at rette fejl, tilføje og forbedre funktioner samt håndtere brugerfeedback. Din støtte er afgørende for fortsat vedligeholdelse!"
+    },
+    "d_pp": {
+        "message": "Doner via PayPal"
+    },
+    "d_kofi": {
+        "message": "Støt mig på Ko-Fi"
+    },
+    "d_card": {
+        "message": "Doner via kredit- eller betalingskort"
+    },
+    "d_cred__1": {
+        "message": "Du kan også dele ChessHelper med dine venner eller skrive en"
+    },
+    "d_cred__2": {
+        "message": "anmeldelse"
+    },
+    "d_cred__3": {
+        "message": "Tak."
+    },
+    "s_title": {
+        "message": "Har du problemer med ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Her er nogle fejlfindingstrin, du kan prøve:"
+    },
+    "s_res__1": {
+        "message": "Opdater Chess.com-siden."
+    },
+    "s_res__2": {
+        "message": "Deaktiver og aktiver igen ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Deaktiver andre udvidelser."
+    },
+    "s_res__4": {
+        "message": "Afinstaller og geninstaller ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Ryd browserens cache."
+    },
+    "s_emailme": {
+        "message": "Hvis problemet stadig er her, så send mig en e-mail på"
+    },
+    "s_effic": {
+        "message": "For at hjælpe mig med at assistere dig mere effektivt, inkluder venligst disse oplysninger:"
+    },
+    "s_detail__1": {
+        "message": "Versionen af ChessHelper, du bruger."
+    },
+    "s_detail__2": {
+        "message": "En skærmbillede eller video, der demonstrerer problemet."
+    },
+    "s_detail__3": {
+        "message": "En detaljeret beskrivelse af problemet."
+    },
+    "s_detail__4": {
+        "message": "Din browsers navn og version (f.eks. Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Brugerdefinerede brikker / bræt:"
+    },
+    "menu_pieces": {
+        "message": "Vælg brikker:"
+    },
+    "menu_board": {
+        "message": "Vælg bræt:"
+    },
+    "menu_boardfeat": {
+        "message": "Brætfunktioner:"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "extensionTéra": {
+        "message": "Chess.com Temas personalizados, tablas - ChessHelper"
+    },
+    "extensionDescripción": {
+        "message": "2024 Emohenda tema pyahu, pehẽngue, fuente ha tablero, eipe’a momarandu, popup ha mba’e ombopochýva."
+    },
+    "disabled": {
+        "message": "Opavave ndoikóva ChessHelper"
+    },
+    "header_title": {
+        "message": "Extensión ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Ñane mborayhu Chess.com! Añemo peteî ñane ñemomarandu."
+    },
+    "btn_donate": {
+        "message": "Donar"
+    },
+    "btn_support": {
+        "message": "Mborayhu ñane peteî"
+    },
+    "btn_reqfeature": {
+        "message": "Petã feature"
+    },
+    "btn_goback": {
+        "message": "volver"
+    },
+    "menu_main": {
+        "message": "Características principales:"
+    },
+    "menu_sec": {
+        "message": "Características adicionales:"
+    },
+    "menu_palette": {
+        "message": "Paleta de colores / fuente:"
+    },
+    "n_default": {
+        "message": "Preestablecido"
+    },
+    "mi_1": {
+        "message": "Habilitar \"Modo de enfoque\" \n (má'ãnga ñane Streams ha Bullet)"
+    },
+    "mi_2": {
+        "message": "Ñapu'ã ndive ñane Main page-pe"
+    },
+    "mi_3": {
+        "message": "Añemo elección HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Ñapu'ã \"Moo peteî\" popup"
+    },
+    "mi_5": {
+        "message": "Ñapu'ã Chat"
+    },
+    "mi_6": {
+        "message": "Ocultar notificación de chat: \n\"Ñanemo'ã ningo peteî mborayhu oîva...\""
+    },
+    "mi_7": {
+        "message": "Establecer tablero mborayhu 100% altura fija"
+    },
+    "mi_8": {
+        "message": "Hacer coordenadas mborayhu"
+    },
+    "mi_9": {
+        "message": "Coordenadas mborayhu ñane cuadrado"
+    },
+    "mi_10": {
+        "message": "Paleta de colores / fuente:"
+    },
+    "mi_11": {
+        "message": "Hacer menos visibles"
+    },
+    "mi_12": {
+        "message": "Controles mborayhu tiempo mborayhu"
+    },
+    "mi_13": {
+        "message": "Ñapu'ã cambio de cursor peteî hover-pe"
+    },
+    "mi_14": {
+        "message": "Mostrar opción recargar peteî desconectado-pe"
+    },
+    "mi_15": {
+        "message": "Refrescar página automáticamente (beta)"
+    },
+    "mi_16": {
+        "message": "Hä'ã peteî doble-click \n(sólo sin \"Oî va'ekue\" popup)"
+    },
+    "mi_17": {
+        "message": "Añemo botón pantalla completa (mbopi peteî peguasu hendive)"
+    },
+    "fonts_title": {
+        "message": "Seleccionar fuente:"
+    },
+    "themes_title": {
+        "message": "Seleccionar tema:"
+    },
+    "themes_label": {
+        "message": "Ñande"
+    },
+    "themes_msg": {
+        "message": "Nuevas opciones v1.1.9"
+    },
+    "theme_1": {
+        "message": "Preestablecido (Verde Oscuro)"
+    },
+    "d_title": {
+        "message": "Las donaciones mantienen ChessHelper mborayhu ha ñane peteî."
+    },
+    "d_subtitle": {
+        "message": "Peteî horas cada semana mborayhu mborayhu, añemo ha mejoramo peteî, ha peteî feedback ñane ñemomarandu. Ñane mborayhu peteî mbopi ko'ãga ñane peteî ñanembo'ekuéra!"
+    },
+    "d_pp": {
+        "message": "Donar mborayhu PayPal-pe"
+    },
+    "d_kofi": {
+        "message": "Ñamopu'ã mborayhu Ko-Fi-pe"
+    },
+    "d_card": {
+        "message": "Donar mborayhu tarjeta crédito ñane débito-pe"
+    },
+    "d_cred__1": {
+        "message": "Ñane añemo ChessHelper ñane ñamopu'ãngue ñane rekove ñane"
+    },
+    "d_cred__2": {
+        "message": "oparavéi"
+    },
+    "d_cred__3": {
+        "message": "Aguyje."
+    },
+    "s_title": {
+        "message": "Mbopi peteî ñane peteî ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Oîva mborayhu peteî oîva opa ñane ñanemo'ãmborayhu:"
+    },
+    "s_res__1": {
+        "message": "Recargar ñane Chess.com page-pe."
+    },
+    "s_res__2": {
+        "message": "Ñapu'ã ha peteî oîva ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Ñapu'ã mborayhu ñane ñanemo'ã extensions-pe."
+    },
+    "s_res__4": {
+        "message": "Desinstalar ha reinstalar ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Peteî ñane navegador cache."
+    },
+    "s_emailme": {
+        "message": "Oîva peteî oîva, aguyje peteî mborayhu ko'ãga"
+    },
+    "s_effic": {
+        "message": "Peteî oîva mborayhu oîva peteî ñane, oîva añemo ko'ãga ñane"
+    },
+    "s_detail__1": {
+        "message": "La versión de ChessHelper oîva peteî."
+    },
+    "s_detail__2": {
+        "message": "Un screenshot ñane video peteî oîva opa ñane."
+    },
+    "s_detail__3": {
+        "message": "Un descripción mborayhu ñane ñane."
+    },
+    "s_detail__4": {
+        "message": "Ñane navegador ha ñane versión (mbopi, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Peteî ñane piezas ñane tablero:"
+    },
+    "menu_pieces": {
+        "message": "Seleccionar Piezas:"
+    },
+    "menu_board": {
+        "message": "Seleccionar Tablero:"
+    },
+    "menu_boardfeat": {
+        "message": "Características del Tablero:"
+    }
+}

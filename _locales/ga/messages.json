@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Saincheapacha agus Clárúcháin do Chúlraí - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Socraigh téamaí, píosaí, clónna, agus clárúcháin nua, bain cead na fógartha triomaithe, polapaí, agus mar sin de."
+    },
+    "disabled": {
+        "message": "Dhícheall tú ChessHelper"
+    },
+    "header_title": {
+        "message": "Breiseán ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Is breá linn Chess.com! Déanaimis é a dhéanamh níos fearr fiú."
+    },
+    "btn_donate": {
+        "message": "Déan Deonacht"
+    },
+    "btn_support": {
+        "message": "Faigh tacaíocht"
+    },
+    "btn_reqfeature": {
+        "message": "Iarr gné nua"
+    },
+    "btn_goback": {
+        "message": "téigh siar"
+    },
+    "menu_main": {
+        "message": "Gnéithe Príomha:"
+    },
+    "menu_sec": {
+        "message": "Gnéithe Breise:"
+    },
+    "menu_palette": {
+        "message": "Pailléad dath / clónna:"
+    },
+    "n_default": {
+        "message": "Réamhshocraithe"
+    },
+    "mi_1": {
+        "message": "Cumasaigh \"Modh Fócas\" \n (is fearr do Sraimí agus Bullet)"
+    },
+    "mi_2": {
+        "message": "Díchumasaigh sruth ar an leathanach Mór"
+    },
+    "mi_3": {
+        "message": "Cuir rogha HyperBullet leis (30s)"
+    },
+    "mi_4": {
+        "message": "Díchumasaigh uairimh faoi popup \"Maidir liom\""
+    },
+    "mi_5": {
+        "message": "Díchumasaigh Comhrá"
+    },
+    "mi_6": {
+        "message": "Folaigh fógra comhrá: \n\"Ná tosóidh cluiche mura mbíonn...\""
+    },
+    "mi_7": {
+        "message": "Socraigh an clár go hardleibhéal seasta"
+    },
+    "mi_8": {
+        "message": "Déan coiriúnachtaí níos mó"
+    },
+    "mi_9": {
+        "message": "Coiriúnachtaí ar gach cearnóg"
+    },
+    "mi_10": {
+        "message": "Pailléad dath / clónna:"
+    },
+    "mi_11": {
+        "message": "Déan iad níos lú le feiceáil"
+    },
+    "mi_12": {
+        "message": "Socraigh ama níos mó"
+    },
+    "mi_13": {
+        "message": "Díchumasaigh athrú ar an gcoirsair nuair a sheasann tú air"
+    },
+    "mi_14": {
+        "message": "Taispeáin rogha athlódáil más dícheangailte tú"
+    },
+    "mi_15": {
+        "message": "Athnuachanáil gcearnóga go huathoibríoch (beeta)"
+    },
+    "mi_16": {
+        "message": "Dúbailt-chliceáil éirí as \n (gan popup \"An bhfuil tú cinnte\")"
+    },
+    "mi_17": {
+        "message": "Cuir cnaipe scáileánlán leis (cearnóg thíos ar dheis)"
+    },
+    "fonts_title": {
+        "message": "Roghnaigh cló:"
+    },
+    "themes_title": {
+        "message": "Roghnaigh téama:"
+    },
+    "themes_label": {
+        "message": "NUA"
+    },
+    "themes_msg": {
+        "message": "Roghanna Nua v1.1.9"
+    },
+    "theme_1": {
+        "message": "Réamhshocraithe (Glas Dorcha)"
+    },
+    "d_title": {
+        "message": "Cothaíonn deonachtaí an ChessHelper agus coimeádann sé ag feidhmiú."
+    },
+    "d_subtitle": {
+        "message": "Déanaim go leor uaireanta gach seachtain agus mé ag déileáil leithleachtaí, ag cur le gnéithe, agus ag feabhsú, agus ag freagairt ar aiseolas ó úsáideoirí. Tá do thacaíocht riachtanach le coimeádú leanúnach!"
+    },
+    "d_pp": {
+        "message": "Deonacha trí PayPal"
+    },
+    "d_kofi": {
+        "message": "Tacaigh liom ar Ko-Fi"
+    },
+    "d_card": {
+        "message": "Deonacha trí cárta creidmheasa nó dochairt"
+    },
+    "d_cred__1": {
+        "message": "Is féidir leat freisin ChessHelper a roinnt le do chairde nó téacs a"
+    },
+    "d_cred__2": {
+        "message": "léirmheas"
+    },
+    "d_cred__3": {
+        "message": "Go raibh maith agat."
+    },
+    "s_title": {
+        "message": "Trioblóidí agat le ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Seo roinnt céimeanna deighleála a bhféadfá triail a bhaint astu:"
+    },
+    "s_res__1": {
+        "message": "Athnuachanáil leathanach Chess.com."
+    },
+    "s_res__2": {
+        "message": "Díchumasaigh agus ansin cumasaigh arís ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Díchumasaigh aon breiseáin eile."
+    },
+    "s_res__4": {
+        "message": "Bain úsáid as agus athlonnaigh ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Glan an cachóras brabhsála."
+    },
+    "s_emailme": {
+        "message": "Má tá fadhb ann fós, seol ríomhphost chugam ag"
+    },
+    "s_effic": {
+        "message": "Chun dom cuidiú leat níos éifeachtaí, cuir isteach an t-eolas seo le do thoil:"
+    },
+    "s_detail__1": {
+        "message": "An leagan de ChessHelper atá á úsáid agat."
+    },
+    "s_detail__2": {
+        "message": "Grianghraf nó físeán a léiriú ar an bhfadhb."
+    },
+    "s_detail__3": {
+        "message": "Cur síos sonrach ar an bhfadhb."
+    },
+    "s_detail__4": {
+        "message": "Do bhrabhsálaí agus a leagan (m.sh., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Píosaí / Clárúcháin Éigeandála:"
+    },
+    "menu_pieces": {
+        "message": "Roghnaigh Píosaí:"
+    },
+    "menu_board": {
+        "message": "Roghnaigh Clárúchán:"
+    },
+    "menu_boardfeat": {
+        "message": "Gnéithe an Chlárúcháin:"
+    }
+}

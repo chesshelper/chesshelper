@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Qaama Saanii, Dura - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Qorannoo garaa garaa akka bu'uraatti, gabrummaa, qilxummaa, fi duraatti gara hunda ofii jiraachaa ture."
+    },
+    "disabled": {
+        "message": "ChessHelper dhibbaa kennuuf akka ta'e hin beeku"
+    },
+    "header_title": {
+        "message": "ChessHelper Qaama Saanii"
+    },
+    "header_subtitle": {
+        "message": "Chess.com garuu akka nuuf kennuu qabna. Dhaabbannoo hundaaf dhiyoo jabaachuuf ture."
+    },
+    "btn_donate": {
+        "message": "Dhaabbata"
+    },
+    "btn_support": {
+        "message": "Dhiyoo kennuu"
+    },
+    "btn_reqfeature": {
+        "message": "Gara dhihaateef akka qaban kennuu"
+    },
+    "btn_goback": {
+        "message": "irraa dhufu"
+    },
+    "menu_main": {
+        "message": "Gara Uumamaa:"
+    },
+    "menu_sec": {
+        "message": "Gara Duraati:"
+    },
+    "menu_palette": {
+        "message": "Muuqa / qilxummaa:"
+    },
+    "n_default": {
+        "message": "Qorannoo"
+    },
+    "mi_1": {
+        "message": "Qabsoo 'Foocis motti' \n (jaallannoo fi Bullet akka dhufan)"
+    },
+    "mi_2": {
+        "message": "Gara jabeenyaa dubbisuuf maal gochu"
+    },
+    "mi_3": {
+        "message": "Kaaba HyperBullet (30s) qunnamti"
+    },
+    "mi_4": {
+        "message": "Kaaba 'Fuula about me' qunnamti"
+    },
+    "mi_5": {
+        "message": "Chat irraa dubbisuuf maal gochu"
+    },
+    "mi_6": {
+        "message": "Chat gara irraa hin tarrittu \n'Daangaa kaataa laata?..'"
+    },
+    "mi_7": {
+        "message": "Dhukkubsataanii fixxed immoo 100% akka turee gara"
+    },
+    "mi_8": {
+        "message": "Koordinaatii duwwan akka ta'e"
+    },
+    "mi_9": {
+        "message": "Koordinaatii gara garaa keessa akka ta'e"
+    },
+    "mi_10": {
+        "message": "Muuqa / qilxummaa:"
+    },
+    "mi_11": {
+        "message": "Ummanni itti godhaa"
+    },
+    "mi_12": {
+        "message": "Dabalii maal akka turee"
+    },
+    "mi_13": {
+        "message": "Maqaa fiileef akka dhaabbatu maal akka turee"
+    },
+    "mi_14": {
+        "message": "Reload itti fayyadama maal akka turee"
+    },
+    "mi_15": {
+        "message": "Sadaffaa qonnaa hunda irratti \n(biyyoo sadii)"
+    },
+    "mi_16": {
+        "message": "Dabalii-click ture \n(baay'ee 'Maaliin akka ati?' maal akka turee)"
+    },
+    "mi_17": {
+        "message": "Buttoonni fuuldura akka ture \n(bakka ofii ol hin gahu)"
+    },
+    "fonts_title": {
+        "message": "Filannoo afaanii:"
+    },
+    "themes_title": {
+        "message": "Filannoo gara garaa:"
+    },
+    "themes_label": {
+        "message": "DUBBII"
+    },
+    "themes_msg": {
+        "message": "Filannoo Hordofaa v1.1.9"
+    },
+    "theme_1": {
+        "message": "Qorannoo (Darxii Guraachuu)"
+    },
+    "d_title": {
+        "message": "Dhaabbannoo ChessHelper irraa hordofu."
+    },
+    "d_subtitle": {
+        "message": "Isin haadhu hundaaf achi kennanii, gama duraatii, gama dhibbaatii fi qoonqooti ummataa hunda irraa hordofe. Dhaabbannoonni dhiyaa irratti akka hin qabne, haadha isin hordofu!"
+    },
+    "d_pp": {
+        "message": "Dhaabbataa qorannoo PayPal irraa hin fayyadne"
+    },
+    "d_kofi": {
+        "message": "Ni dubbiin Ko-Fi irratti hin fayyadne"
+    },
+    "d_card": {
+        "message": "Dhaabbataa credit card fi debit card irraa hin fayyadne"
+    },
+    "d_cred__1": {
+        "message": "ChessHelper akkamiin ittiin dhiyoo kennachaa akka ta'e hundi kun immoo"
+    },
+    "d_cred__2": {
+        "message": "jaallanne"
+    },
+    "d_cred__3": {
+        "message": "Galatoomi."
+    },
+    "s_title": {
+        "message": "Dhibbaa ChessHelper qofaatti?"
+    },
+    "s_subtitle": {
+        "message": "Dhibbaa qofaa fi dhiyaa irraa hordofaa qofaa kana gara duraatti akka tureefi."
+    },
+    "s_res__1": {
+        "message": "Chess.com saaniif garaa akka ta'e ifa hin argatu"
+    },
+    "s_res__2": {
+        "message": "ChessHelper saaniif garaa akka ta'e akka turee hin qabnu"
+    },
+    "s_res__3": {
+        "message": "Gara biyyaa irratti akka dhaabbannoo isaatti ta'e akka turee hin qabnu"
+    },
+    "s_res__4": {
+        "message": "ChessHelper saaniif garaa akka ta'e akka turee hin qabnu"
+    },
+    "s_res__5": {
+        "message": "Browser cache akka turee akka turee hin qabnu"
+    },
+    "s_emailme": {
+        "message": "Yoo dhibbaa dura akka ta'e hin taane, fayyadhu hin quuqin. Email kanatii hin jiru."
+    },
+    "s_effic": {
+        "message": "Dhaabbanni qabu akka tureefi, fayyadhuudhaaf of irraa hordofaa:"
+    },
+    "s_detail__1": {
+        "message": "ChessHelper akka ta'e akka ta'e duraatti"
+    },
+    "s_detail__2": {
+        "message": "Dhibbaa akka ta'e akka turee qubatanii kan qaban laata?"
+    },
+    "s_detail__3": {
+        "message": "Dhibbaa akka ta'e akka turee gama duraatti qabachaa?"
+    },
+    "s_detail__4": {
+        "message": "Browser akka ta'e akka ta'e (misoomaa Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Filannoo Gara Garaa / Duraati:"
+    },
+    "menu_pieces": {
+        "message": "Filannoo Haalli:"
+    },
+    "menu_board": {
+        "message": "Filannoo Duraati:"
+    },
+    "menu_boardfeat": {
+        "message": "Filannoo Duraati Qunnamtii:"
+    }
+}

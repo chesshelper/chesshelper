@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Mga Pasadyang Tema, Bawat Ilog - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Itakda ang mga bagong tema, piraso, mga font, at mga ilog, alisin ang nakakairitang mga abiso, popups, at iba pa."
+    },
+    "disabled": {
+        "message": "Itinurn-off mo ang ChessHelper"
+    },
+    "header_title": {
+        "message": "Extension ng ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Iniibig natin ang Chess.com! Gawin nating mas maganda."
+    },
+    "btn_donate": {
+        "message": "Mag-donate"
+    },
+    "btn_support": {
+        "message": "Magkaruon ng suporta"
+    },
+    "btn_reqfeature": {
+        "message": "Humiling ng feature"
+    },
+    "btn_goback": {
+        "message": "bumalik"
+    },
+    "menu_main": {
+        "message": "Pangunahing Mga Tampok:"
+    },
+    "menu_sec": {
+        "message": "Karagdagang Mga Tampok:"
+    },
+    "menu_palette": {
+        "message": "Kulay palette / font:"
+    },
+    "n_default": {
+        "message": "Karaniwan"
+    },
+    "mi_1": {
+        "message": "Paganahin ang \"Focus mode\" \n (pinakamahusay para sa Streams at Bullet)"
+    },
+    "mi_2": {
+        "message": "I-disable ang stream sa Main page"
+    },
+    "mi_3": {
+        "message": "Magdagdag ng HyperBullet na pagpipilian (30s)"
+    },
+    "mi_4": {
+        "message": "I-disable ang \"About me\" popup"
+    },
+    "mi_5": {
+        "message": "I-disable ang Chat"
+    },
+    "mi_6": {
+        "message": "Itago ang abiso sa chat: \n\"Huwag magsimula ng laro malibang...\""
+    },
+    "mi_7": {
+        "message": "Itakda ang board sa 100% na tinaas"
+    },
+    "mi_8": {
+        "message": "Gawing mas malaki ang mga coordinates"
+    },
+    "mi_9": {
+        "message": "Coordinates sa bawat parisukat"
+    },
+    "mi_10": {
+        "message": "Kulay palette / font:"
+    },
+    "mi_11": {
+        "message": "Gawing mas hindi mabisa"
+    },
+    "mi_12": {
+        "message": "Mas malaking mga kontrol ng oras"
+    },
+    "mi_13": {
+        "message": "I-disable ang pagbabago ng cursor kapag naka-hover"
+    },
+    "mi_14": {
+        "message": "Ipakita ang pagpipilian na i-reload kung disconected"
+    },
+    "mi_15": {
+        "message": "I-refresh ang pahina nang awtomatiko (beta)"
+    },
+    "mi_16": {
+        "message": "I-double-click ang pagbibitiw \n (walang \"Sigurado ka ba\" na popup)"
+    },
+    "mi_17": {
+        "message": "Magdagdag ng fullscreen na button (sa ibaba kanang sulok)"
+    },
+    "fonts_title": {
+        "message": "Pumili ng font:"
+    },
+    "themes_title": {
+        "message": "Pumili ng tema:"
+    },
+    "themes_label": {
+        "message": "BAGO"
+    },
+    "themes_msg": {
+        "message": "Bagong Mga Pagpipilian v1.1.9"
+    },
+    "theme_1": {
+        "message": "Default (Madilim na Berde)"
+    },
+    "d_title": {
+        "message": "Ang mga Donasyon ay nagpapanatili sa ChessHelper na umuunlad."
+    },
+    "d_subtitle": {
+        "message": "Gumugol ako ng oras kada linggo sa pagsasaayos ng mga bug, pagdaragdag at pagpapabuti ng mga tampok, at pagsasaayos ng feedback ng mga gumagamit. Ang iyong suporta ay mahalaga sa tuloy-tuloy na pagmamantini!"
+    },
+    "d_pp": {
+        "message": "Mag-donate gamit ang PayPal"
+    },
+    "d_kofi": {
+        "message": "Suportahan ako sa Ko-Fi"
+    },
+    "d_card": {
+        "message": "Mag-donate gamit ang credit o debit card"
+    },
+    "d_cred__1": {
+        "message": "Maaari mo rin ibahagi ang ChessHelper sa iyong mga kaibigan o mag-iwan ng isang"
+    },
+    "d_cred__2": {
+        "message": "review"
+    },
+    "d_cred__3": {
+        "message": "Salamat."
+    },
+    "s_title": {
+        "message": "May problema ka ba sa ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Narito ang ilang mga hakbang na maaari mong subukan sa pag-troubleshoot:"
+    },
+    "s_res__1": {
+        "message": "I-refresh ang pahina ng Chess.com."
+    },
+    "s_res__2": {
+        "message": "I-disable at pagkatapos ay paganahin muli ang ChessHelper."
+    },
+    "s_res__3": {
+        "message": "I-disable ang iba pang mga extension."
+    },
+    "s_res__4": {
+        "message": "I-uninstall at i-reinstall ang ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Burahin ang cache ng browser."
+    },
+    "s_emailme": {
+        "message": "Kung ang problema ay narito pa rin, mag-email sa akin sa"
+    },
+    "s_effic": {
+        "message": "Upang matulungan akong mas mabilis na makatulong sa iyo, mangyaring isama ang sumusunod na impormasyon:"
+    },
+    "s_detail__1": {
+        "message": "Ang bersyon ng ChessHelper na iyong ginagamit."
+    },
+    "s_detail__2": {
+        "message": "Isang screenshot o video na nagpapakita ng problema."
+    },
+    "s_detail__3": {
+        "message": "Isang detalyadong paglalarawan ng isyu."
+    },
+    "s_detail__4": {
+        "message": "Ang iyong browser at ang kanyang bersyon (hal., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Pasadyang mga Piraso / Ilog:"
+    },
+    "menu_pieces": {
+        "message": "Pumili ng mga Piraso:"
+    },
+    "menu_board": {
+        "message": "Pumili ng Ilog:"
+    },
+    "menu_boardfeat": {
+        "message": "Mga Tampok ng Ilog:"
+    }
+}

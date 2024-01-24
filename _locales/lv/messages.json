@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Pielāgoti Tēmas, Damas - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Iestatiet jaunas tēmas, figūriņas, fontus un dēļus, noņemiet ērtības paziņojumus, uznirstošos logus un tā tālāk."
+    },
+    "disabled": {
+        "message": "Jūs izslēdzāt ChessHelper"
+    },
+    "header_title": {
+        "message": "ChessHelper Paplašinājums"
+    },
+    "header_subtitle": {
+        "message": "Mēs mīlam Chess.com! Padarīsim to vēl labāku."
+    },
+    "btn_donate": {
+        "message": "Ziedot"
+    },
+    "btn_support": {
+        "message": "Saņemt atbalstu"
+    },
+    "btn_reqfeature": {
+        "message": "Pieprasīt funkciju"
+    },
+    "btn_goback": {
+        "message": "atgriezties"
+    },
+    "menu_main": {
+        "message": "Galvenās funkcijas:"
+    },
+    "menu_sec": {
+        "message": "Papildu funkcijas:"
+    },
+    "menu_palette": {
+        "message": "Krāsu palete / fonts:"
+    },
+    "n_default": {
+        "message": "Noklusējums"
+    },
+    "mi_1": {
+        "message": "Iespējot \"Fokusa režīmu\" \n (labākais straumēšanai un Bullets)"
+    },
+    "mi_2": {
+        "message": "Atslēgt straumēšanu galvenajā lapā"
+    },
+    "mi_3": {
+        "message": "Pievienot HyperBullet izvēli (30s)"
+    },
+    "mi_4": {
+        "message": "Atslēgt \"Par mani\" uznirstošo logu"
+    },
+    "mi_5": {
+        "message": "Atslēgt čatu"
+    },
+    "mi_6": {
+        "message": "Paslēpt čata paziņojumu: \n\"Nesāciet spēli, ja nav...\""
+    },
+    "mi_7": {
+        "message": "Iestatīt dēli 100% fiksētā augstumā"
+    },
+    "mi_8": {
+        "message": "Padarīt koordinātes lielākas"
+    },
+    "mi_9": {
+        "message": "Koordinātes katrā kvadrātā"
+    },
+    "mi_10": {
+        "message": "Krāsu palete / fonts:"
+    },
+    "mi_11": {
+        "message": "Padarīt tos mazāk redzamus"
+    },
+    "mi_12": {
+        "message": "Lielāki laika kontroli"
+    },
+    "mi_13": {
+        "message": "Atslēgt kursora maiņu pāri"
+    },
+    "mi_14": {
+        "message": "Rādīt pārlādes iespēju, ja ir atlēcis"
+    },
+    "mi_15": {
+        "message": "Atsvaidzināt lapu automātiski (beta)"
+    },
+    "mi_16": {
+        "message": "Dubultklikšķis rezignēt \n(bez \"Vai jūs esat drošs\" uznirstošā loga)"
+    },
+    "mi_17": {
+        "message": "Pievienot pilnekrāna pogu (apakšējā labajā stūrī)"
+    },
+    "fonts_title": {
+        "message": "Atlasīt fontu:"
+    },
+    "themes_title": {
+        "message": "Atlasīt tēmu:"
+    },
+    "themes_label": {
+        "message": "JAUNS"
+    },
+    "themes_msg": {
+        "message": "Jaunās opcijas v1.1.9"
+    },
+    "theme_1": {
+        "message": "Noklusējums (Tumši zaļš)"
+    },
+    "d_title": {
+        "message": "Ziedojumi uztur ChessHelper darbībā."
+    },
+    "d_subtitle": {
+        "message": "Katru nedēļu es pavadu stundas, labojot kļūdas, pievienojot un uzlabojot funkcijas, un risinot lietotāju atsauksmes. Jūsu atbalsts ir būtisks turpmākai uzturēšanai!"
+    },
+    "d_pp": {
+        "message": "Ziedot caur PayPal"
+    },
+    "d_kofi": {
+        "message": "Atbalstīt mani uz Ko-Fi"
+    },
+    "d_card": {
+        "message": "Ziedot ar kredītkarti vai debetkarti"
+    },
+    "d_cred__1": {
+        "message": "Jūs varat arī dalīties ar ChessHelper ar saviem draugiem vai atstāt"
+    },
+    "d_cred__2": {
+        "message": "atsauksmi"
+    },
+    "d_cred__3": {
+        "message": "Paldies."
+    },
+    "s_title": {
+        "message": "Problēmas ar ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Šeit ir daži risinājumu soļi, ko varat izmēģināt:"
+    },
+    "s_res__1": {
+        "message": "Atsvaidziniet Chess.com lapu."
+    },
+    "s_res__2": {
+        "message": "Izslēdziet un pēc tam ieslēdziet ChessHelper vēlreiz."
+    },
+    "s_res__3": {
+        "message": "Izslēdziet citas paplašinājumus."
+    },
+    "s_res__4": {
+        "message": "Atinstalējiet un atkārtoti instalējiet ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Notīriet pārlūka kešatmiņu."
+    },
+    "s_emailme": {
+        "message": "Ja problēma joprojām pastāv, lūdzu, rakstiet man uz"
+    },
+    "s_effic": {
+        "message": "Lai palīdzētu man efektīvāk jums palīdzēt, lūdzu, iekļaujiet šo informāciju:"
+    },
+    "s_detail__1": {
+        "message": "ChessHelper versija, kuru jūs izmantojat."
+    },
+    "s_detail__2": {
+        "message": "Ekrānuzņēmums vai video, kas demonstrē problēmu."
+    },
+    "s_detail__3": {
+        "message": "Detalizēts apraksts par problēmu."
+    },
+    "s_detail__4": {
+        "message": "Jūsu pārlūka veids un tā versija (piemēram, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Pielāgoti gabali / dēlis:"
+    },
+    "menu_pieces": {
+        "message": "Atlasīt gabalus:"
+    },
+    "menu_board": {
+        "message": "Atlasīt dēli:"
+    },
+    "menu_boardfeat": {
+        "message": "Dēļa funkcijas:"
+    }
+}

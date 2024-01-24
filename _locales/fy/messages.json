@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Oanpaste Tema's, Boeien - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Stel nije tema's, stikjes, letters en boeien yn, ferwider ferfelende meldingen, pop-ups, en sa fierder."
+    },
+    "disabled": {
+        "message": "Jo hawwe ChessHelper útskeakele"
+    },
+    "header_title": {
+        "message": "ChessHelper Utbreding"
+    },
+    "header_subtitle": {
+        "message": "Wy hâlde fan Chess.com! Lit ús it noch better meitsje."
+    },
+    "btn_donate": {
+        "message": "Schenkje"
+    },
+    "btn_support": {
+        "message": "Krige stipe"
+    },
+    "btn_reqfeature": {
+        "message": "Fersyk funksje"
+    },
+    "btn_goback": {
+        "message": "gean werom"
+    },
+    "menu_main": {
+        "message": "Haadfunksjes:"
+    },
+    "menu_sec": {
+        "message": "Oanfoljende Funksjes:"
+    },
+    "menu_palette": {
+        "message": "Kleurenpalet / lettertype:"
+    },
+    "n_default": {
+        "message": "Standaard"
+    },
+    "mi_1": {
+        "message": "Skakel \"Fokusmodus\" yn \n (bêst foar Streams en Bullet)"
+    },
+    "mi_2": {
+        "message": "Skakel stream út op Haadside"
+    },
+    "mi_3": {
+        "message": "Foech HyperBullet kar ta (30s)"
+    },
+    "mi_4": {
+        "message": "Skakel \"Oer my\" popup út"
+    },
+    "mi_5": {
+        "message": "Skakel Chat út"
+    },
+    "mi_6": {
+        "message": "Ferbergje chatmelding: \n\"Begjin gjin spul ûnless...\""
+    },
+    "mi_7": {
+        "message": "Stel boerd yn op 100% fêste heechte"
+    },
+    "mi_8": {
+        "message": "Meitsje koördinaten grutter"
+    },
+    "mi_9": {
+        "message": "Koördinaten op elke fjouwerkant"
+    },
+    "mi_10": {
+        "message": "Kleurenpalet / lettertype:"
+    },
+    "mi_11": {
+        "message": "Meitsje se minder sichtber"
+    },
+    "mi_12": {
+        "message": "Gruttere tiidkontroallen"
+    },
+    "mi_13": {
+        "message": "Skakel cursorferoaring út by hover"
+    },
+    "mi_14": {
+        "message": "Lit werlade-opje sjen as ferbining ferbrikt is"
+    },
+    "mi_15": {
+        "message": "Side automatysk opfrisse (beta)"
+    },
+    "mi_16": {
+        "message": "Dûbelklik ôfsjen \n(sûnder \"Binne jo wis\" popup)"
+    },
+    "mi_17": {
+        "message": "Foech folskermknop ta (ûnder yn 'e hok)"
+    },
+    "fonts_title": {
+        "message": "Selektearje lettertype:"
+    },
+    "themes_title": {
+        "message": "Selektearje tema:"
+    },
+    "themes_label": {
+        "message": "NIEU"
+    },
+    "themes_msg": {
+        "message": "Nije Opsjes v1.1.9"
+    },
+    "theme_1": {
+        "message": "Standaard (Donker Grien)"
+    },
+    "d_title": {
+        "message": "Schenkingen hâlde ChessHelper yn 'e loft."
+    },
+    "d_subtitle": {
+        "message": "Ik besteegje oeren alle wike om bugs te fiksen, funksjes ta te foegjen en te ferbetterjen, en brûkersfeedback oan te pakken. Jo stipe is essensjeel foar de trochgeande ûnderhâld!"
+    },
+    "d_pp": {
+        "message": "Sjoch ús PayPal"
+    },
+    "d_kofi": {
+        "message": "Stipe my op Ko-Fi"
+    },
+    "d_card": {
+        "message": "Donearje mei kredyt- of debetkaart"
+    },
+    "d_cred__1": {
+        "message": "Jo kinne ChessHelper ek dielen mei jo freonen of in"
+    },
+    "d_cred__2": {
+        "message": "review achterlitte"
+    },
+    "d_cred__3": {
+        "message": "Tankewol."
+    },
+    "s_title": {
+        "message": "Problemen mei ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Hjir binne in pear oplossingsstappen dy't jo probearje kinne:"
+    },
+    "s_res__1": {
+        "message": "Fris de Chess.com side op."
+    },
+    "s_res__2": {
+        "message": "Skakel ChessHelper út en dan wer oan."
+    },
+    "s_res__3": {
+        "message": "Skakel alle oare útwikselingen út."
+    },
+    "s_res__4": {
+        "message": "Deïnstallearje en op 'en nij ynstallearje ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Leeg de browser-cache."
+    },
+    "s_emailme": {
+        "message": "As it probleem oanhâldt, email my dan op"
+    },
+    "s_effic": {
+        "message": "Om my helpe jo effisjinter te stipe, nim dizze ynformaasje op:"
+    },
+    "s_detail__1": {
+        "message": "De ferzje fan ChessHelper dy't jo brûke."
+    },
+    "s_detail__2": {
+        "message": "In skermkopie of video dy't it probleem toant."
+    },
+    "s_detail__3": {
+        "message": "In gedetaillearre beskriuwing fan it probleem."
+    },
+    "s_detail__4": {
+        "message": "Jo browser en syn ferzje (bygelyks, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Oanpaste Stikjes / Boerd:"
+    },
+    "menu_pieces": {
+        "message": "Selektearje Stikjes:"
+    },
+    "menu_board": {
+        "message": "Selektearje Boerd:"
+    },
+    "menu_boardfeat": {
+        "message": "Boerdfunksjes:"
+    }
+}

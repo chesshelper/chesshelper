@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Aangepaste Thema's, Borden - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Stel nieuwe thema's, stukken, lettertypen en borden in, verwijder vervelende meldingen, pop-ups, enzovoort."
+    },
+    "disabled": {
+        "message": "Je hebt ChessHelper uitgeschakeld"
+    },
+    "header_title": {
+        "message": "ChessHelper Uitbreiding"
+    },
+    "header_subtitle": {
+        "message": "We houden van Chess.com! Laten we het nog beter maken."
+    },
+    "btn_donate": {
+        "message": "Doneren"
+    },
+    "btn_support": {
+        "message": "Ondersteuning krijgen"
+    },
+    "btn_reqfeature": {
+        "message": "Functie aanvragen"
+    },
+    "btn_goback": {
+        "message": "terug gaan"
+    },
+    "menu_main": {
+        "message": "Belangrijkste Kenmerken:"
+    },
+    "menu_sec": {
+        "message": "Aanvullende Kenmerken:"
+    },
+    "menu_palette": {
+        "message": "Kleurpalet / lettertype:"
+    },
+    "n_default": {
+        "message": "Standaard"
+    },
+    "mi_1": {
+        "message": "Schakel \"Focusmodus\" in \n (het beste voor Streams en Bullet)"
+    },
+    "mi_2": {
+        "message": "Schakel stream uit op Hoofdpagina"
+    },
+    "mi_3": {
+        "message": "Voeg HyperBullet-optie toe (30s)"
+    },
+    "mi_4": {
+        "message": "Schakel \"Over mij\" pop-up uit"
+    },
+    "mi_5": {
+        "message": "Schakel Chat uit"
+    },
+    "mi_6": {
+        "message": "Verberg chatmelding: \n\"Begin geen spel tenzij...\""
+    },
+    "mi_7": {
+        "message": "Stel het bord in op 100% vaste hoogte"
+    },
+    "mi_8": {
+        "message": "Maak coördinaten groter"
+    },
+    "mi_9": {
+        "message": "Coördinaten op elk vierkant"
+    },
+    "mi_10": {
+        "message": "Kleurpalet / lettertype:"
+    },
+    "mi_11": {
+        "message": "Maak ze minder zichtbaar"
+    },
+    "mi_12": {
+        "message": "Grotere tijdcontroles"
+    },
+    "mi_13": {
+        "message": "Schakel cursorwijziging bij zweven uit"
+    },
+    "mi_14": {
+        "message": "Toon herladen-optie bij verbreking"
+    },
+    "mi_15": {
+        "message": "Vernieuw pagina automatisch (bèta)"
+    },
+    "mi_16": {
+        "message": "Dubbelklik opgeven \n(zonder \"Weet je het zeker\" pop-up)"
+    },
+    "mi_17": {
+        "message": "Voeg volledig schermknop toe (rechtsonder)"
+    },
+    "fonts_title": {
+        "message": "Selecteer lettertype:"
+    },
+    "themes_title": {
+        "message": "Selecteer thema:"
+    },
+    "themes_label": {
+        "message": "NIEUW"
+    },
+    "themes_msg": {
+        "message": "Nieuwe Opties v1.1.9"
+    },
+    "theme_1": {
+        "message": "Standaard (Donkergroen)"
+    },
+    "d_title": {
+        "message": "Donaties houden ChessHelper draaiende."
+    },
+    "d_subtitle": {
+        "message": "Ik besteed elke week uren aan het oplossen van bugs, toevoegen en verbeteren van functies, en het behandelen van feedback van gebruikers. Jouw steun is cruciaal voor voortdurend onderhoud!"
+    },
+    "d_pp": {
+        "message": "Doneer via PayPal"
+    },
+    "d_kofi": {
+        "message": "Steun me op Ko-Fi"
+    },
+    "d_card": {
+        "message": "Doneer via creditcard of pinpas"
+    },
+    "d_cred__1": {
+        "message": "Je kunt ChessHelper ook delen met je vrienden of een"
+    },
+    "d_cred__2": {
+        "message": "recensie achterlaten"
+    },
+    "d_cred__3": {
+        "message": "Bedankt."
+    },
+    "s_title": {
+        "message": "Problemen met ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Hier zijn enkele probleemoplossende stappen die je kunt proberen:"
+    },
+    "s_res__1": {
+        "message": "Vernieuw de Chess.com-pagina."
+    },
+    "s_res__2": {
+        "message": "Schakel ChessHelper uit en schakel het vervolgens weer in."
+    },
+    "s_res__3": {
+        "message": "Schakel andere extensies uit."
+    },
+    "s_res__4": {
+        "message": "De-installeer en herinstalleer ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Wis de cache van de browser."
+    },
+    "s_emailme": {
+        "message": "Als het probleem aanhoudt, stuur dan een e-mail naar mij op"
+    },
+    "s_effic": {
+        "message": "Om mij te helpen jou efficiënter te ondersteunen, voeg alsjeblieft deze informatie toe:"
+    },
+    "s_detail__1": {
+        "message": "De versie van ChessHelper die je gebruikt."
+    },
+    "s_detail__2": {
+        "message": "Een screenshot of video die het probleem aantoont."
+    },
+    "s_detail__3": {
+        "message": "Een gedetailleerde beschrijving van het probleem."
+    },
+    "s_detail__4": {
+        "message": "Jouw browser en de versie ervan (bijv., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Aangepaste Stukken / Bord:"
+    },
+    "menu_pieces": {
+        "message": "Selecteer Stukken:"
+    },
+    "menu_board": {
+        "message": "Selecteer Bord:"
+    },
+    "menu_boardfeat": {
+        "message": "Bordfuncties:"
+    }
+}

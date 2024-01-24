@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com自定义主题、棋盘 - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024年设置新主题、棋子、字体和棋盘，去除烦人的通知、弹窗等。"
+    },
+    "disabled": {
+        "message": "您已关闭ChessHelper"
+    },
+    "header_title": {
+        "message": "ChessHelper扩展"
+    },
+    "header_subtitle": {
+        "message": "我们热爱Chess.com！让我们让它变得更好。"
+    },
+    "btn_donate": {
+        "message": "捐赠"
+    },
+    "btn_support": {
+        "message": "获取支持"
+    },
+    "btn_reqfeature": {
+        "message": "请求功能"
+    },
+    "btn_goback": {
+        "message": "返回"
+    },
+    "menu_main": {
+        "message": "主要功能："
+    },
+    "menu_sec": {
+        "message": "附加功能："
+    },
+    "menu_palette": {
+        "message": "调色板 / 字体："
+    },
+    "n_default": {
+        "message": "默认"
+    },
+    "mi_1": {
+        "message": "启用“焦点模式”（最适合流媒体和Bullet）"
+    },
+    "mi_2": {
+        "message": "在主页上禁用流媒体"
+    },
+    "mi_3": {
+        "message": "添加HyperBullet选择（30秒）"
+    },
+    "mi_4": {
+        "message": "禁用“关于我”弹窗"
+    },
+    "mi_5": {
+        "message": "禁用聊天"
+    },
+    "mi_6": {
+        "message": "隐藏聊天通知：\n\"除非...不要开始游戏\""
+    },
+    "mi_7": {
+        "message": "将棋盘设置为100%固定高度"
+    },
+    "mi_8": {
+        "message": "使坐标更大"
+    },
+    "mi_9": {
+        "message": "每个方格上的坐标"
+    },
+    "mi_10": {
+        "message": "调色板 / 字体："
+    },
+    "mi_11": {
+        "message": "使它们不那么显眼"
+    },
+    "mi_12": {
+        "message": "更大的时间控制"
+    },
+    "mi_13": {
+        "message": "悬停时禁用光标更改"
+    },
+    "mi_14": {
+        "message": "如果断开连接，显示重新加载选项"
+    },
+    "mi_15": {
+        "message": "自动刷新页面（测试版）"
+    },
+    "mi_16": {
+        "message": "双击认输\n（无\"您确定吗\"弹窗）"
+    },
+    "mi_17": {
+        "message": "添加全屏按钮（右下角）"
+    },
+    "fonts_title": {
+        "message": "选择字体："
+    },
+    "themes_title": {
+        "message": "选择主题："
+    },
+    "themes_label": {
+        "message": "新"
+    },
+    "themes_msg": {
+        "message": "新选项 v1.1.9"
+    },
+    "theme_1": {
+        "message": "默认（深绿色）"
+    },
+    "d_title": {
+        "message": "捐赠使ChessHelper保持运行。"
+    },
+    "d_subtitle": {
+        "message": "我每周花费数小时修复错误，添加和改进功能，并解决用户反馈。您的支持对于持续维护至关重要！"
+    },
+    "d_pp": {
+        "message": "通过PayPal捐赠"
+    },
+    "d_kofi": {
+        "message": "在Ko-Fi上支持我"
+    },
+    "d_card": {
+        "message": "通过信用卡或借记卡捐赠"
+    },
+    "d_cred__1": {
+        "message": "您还可以与朋友分享ChessHelper或留下"
+    },
+    "d_cred__2": {
+        "message": "评论"
+    },
+    "d_cred__3": {
+        "message": "谢谢。"
+    },
+    "s_title": {
+        "message": "ChessHelper出现问题吗？"
+    },
+    "s_subtitle": {
+        "message": "您可以尝试一些故障排除步骤："
+    },
+    "s_res__1": {
+        "message": "刷新Chess.com页面。"
+    },
+    "s_res__2": {
+        "message": "禁用然后重新启用ChessHelper。"
+    },
+    "s_res__3": {
+        "message": "禁用任何其他扩展。"
+    },
+    "s_res__4": {
+        "message": "卸载并重新安装ChessHelper。"
+    },
+    "s_res__5": {
+        "message": "清除浏览器缓存。"
+    },
+    "s_emailme": {
+        "message": "如果问题仍然存在，请给我发送电子邮件至"
+    },
+    "s_effic": {
+        "message": "为了帮助我更有效地协助您，请包含以下信息："
+    },
+    "s_detail__1": {
+        "message": "您正在使用的ChessHelper版本。"
+    },
+    "s_detail__2": {
+        "message": "显示问题的截图或视频。"
+    },
+    "s_detail__3": {
+        "message": "问题的详细描述。"
+    },
+    "s_detail__4": {
+        "message": "您的浏览器及其版本（例如，Firefox 86.0）。"
+    },
+    "menu_pboard": {
+        "message": "自定义棋子 / 棋盘："
+    },
+    "menu_pieces": {
+        "message": "选择棋子："
+    },
+    "menu_board": {
+        "message": "选择棋盘："
+    },
+    "menu_boardfeat": {
+        "message": "棋盘功能："
+    }
+}

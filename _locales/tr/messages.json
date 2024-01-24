@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Özel Temalar, Tahtalar - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Yeni temalar, taşlar, yazı tipleri ve tahtalar kurun, rahatsız edici bildirimleri, açılır pencereleri ve benzerlerini kaldırın."
+    },
+    "disabled": {
+        "message": "ChessHelper'ı kapattınız"
+    },
+    "header_title": {
+        "message": "ChessHelper Uzantısı"
+    },
+    "header_subtitle": {
+        "message": "Chess.com'u seviyoruz! Daha da iyileştirelim."
+    },
+    "btn_donate": {
+        "message": "Bağış Yap"
+    },
+    "btn_support": {
+        "message": "Destek Al"
+    },
+    "btn_reqfeature": {
+        "message": "Özellik İste"
+    },
+    "btn_goback": {
+        "message": "geri git"
+    },
+    "menu_main": {
+        "message": "Ana Özellikler:"
+    },
+    "menu_sec": {
+        "message": "Ek Özellikler:"
+    },
+    "menu_palette": {
+        "message": "Renk paleti / yazı tipi:"
+    },
+    "n_default": {
+        "message": "Varsayılan"
+    },
+    "mi_1": {
+        "message": "\"Odak Modu\"nu etkinleştir \n (Yayınlar ve Bullet için en iyisi)"
+    },
+    "mi_2": {
+        "message": "Ana sayfadaki yayını devre dışı bırak"
+    },
+    "mi_3": {
+        "message": "HyperBullet seçeneği ekle (30s)"
+    },
+    "mi_4": {
+        "message": "\"Hakkımda\" açılır penceresini devre dışı bırak"
+    },
+    "mi_5": {
+        "message": "Sohbeti devre dışı bırak"
+    },
+    "mi_6": {
+        "message": "Sohbet bildirimini gizle: \n\"Oyun başlatma, eğer...\""
+    },
+    "mi_7": {
+        "message": "Tahtayı %100 sabit yükseklikte ayarla"
+    },
+    "mi_8": {
+        "message": "Koordinatları büyüt"
+    },
+    "mi_9": {
+        "message": "Her karede koordinatlar"
+    },
+    "mi_10": {
+        "message": "Renk paleti / yazı tipi:"
+    },
+    "mi_11": {
+        "message": "Daha az görünür yap"
+    },
+    "mi_12": {
+        "message": "Daha büyük zaman kontrolleri"
+    },
+    "mi_13": {
+        "message": "Üzerine gelindiğinde imleci değiştirme"
+    },
+    "mi_14": {
+        "message": "Bağlantı kesildiğinde yeniden yükle seçeneğini göster"
+    },
+    "mi_15": {
+        "message": "Sayfayı otomatik olarak yenile (beta)"
+    },
+    "mi_16": {
+        "message": "Çift tıkla istifa et \n(\"Emin misiniz\" açılır penceresiz)"
+    },
+    "mi_17": {
+        "message": "Tam ekran düğmesi ekle (sağ alt köşe)"
+    },
+    "fonts_title": {
+        "message": "Yazı tipi seçin:"
+    },
+    "themes_title": {
+        "message": "Tema Seçin:"
+    },
+    "themes_label": {
+        "message": "YENİ"
+    },
+    "themes_msg": {
+        "message": "Yeni Seçenekler v1.1.9"
+    },
+    "theme_1": {
+        "message": "Varsayılan (Koyu Yeşil)"
+    },
+    "d_title": {
+        "message": "Bağışlar ChessHelper'ın devam etmesini sağlar."
+    },
+    "d_subtitle": {
+        "message": "Her hafta hataları düzeltme, özellikler ekleme ve geliştirme, kullanıcı geri bildirimlerine yanıt verme konusunda saatler harcıyorum. Desteğiniz sürekli bakım için hayati önem taşıyor!"
+    },
+    "d_pp": {
+        "message": "PayPal aracılığıyla bağış yapın"
+    },
+    "d_kofi": {
+        "message": "Ko-Fi üzerinden bana destek olun"
+    },
+    "d_card": {
+        "message": "Kredi veya banka kartı ile bağış yapın"
+    },
+    "d_cred__1": {
+        "message": "Ayrıca ChessHelper'ı arkadaşlarınızla paylaşabilir veya bir"
+    },
+    "d_cred__2": {
+        "message": "inceleme"
+    },
+    "d_cred__3": {
+        "message": "bırakabilirsiniz"
+    },
+    "s_title": {
+        "message": "ChessHelper ile sorun mu yaşıyorsunuz?"
+    },
+    "s_subtitle": {
+        "message": "Denemeniz gereken bazı sorun giderme adımları:"
+    },
+    "s_res__1": {
+        "message": "Chess.com sayfasını yenileyin."
+    },
+    "s_res__2": {
+        "message": "ChessHelper'ı devre dışı bırakın ve sonra tekrar etkinleştirin."
+    },
+    "s_res__3": {
+        "message": "Diğer uzantıları devre dışı bırakın."
+    },
+    "s_res__4": {
+        "message": "ChessHelper'ı kaldırın ve yeniden yükleyin."
+    },
+    "s_res__5": {
+        "message": "Tarayıcı önbelleğini temizleyin."
+    },
+    "s_emailme": {
+        "message": "Sorun hala devam ediyorsa, lütfen bana şu adreste e-posta gönderin"
+    },
+    "s_effic": {
+        "message": "Size daha etkili bir şekilde yardımcı olabilmem için lütfen şu bilgileri ekleyin:"
+    },
+    "s_detail__1": {
+        "message": "Kullandığınız ChessHelper sürümü."
+    },
+    "s_detail__2": {
+        "message": "Problemı gösteren bir ekran görüntüsü veya video."
+    },
+    "s_detail__3": {
+        "message": "Sorunun detaylı açıklaması."
+    },
+    "s_detail__4": {
+        "message": "Tarayıcınız ve sürümü (örneğin, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Özel Taşlar / Tahta:"
+    },
+    "menu_pieces": {
+        "message": "Taşları Seçin:"
+    },
+    "menu_board": {
+        "message": "Tahta Seçin:"
+    },
+    "menu_boardfeat": {
+        "message": "Tahta özellikleri:"
+    }
+}

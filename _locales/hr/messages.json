@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Prilagođene teme, ploče - ChessHelper na Chess.com"
+    },
+    "extensionDescription": {
+        "message": "2024 Postavljanje novih tema, figura, fontova i ploča, uklanjanje dosadnih obavijesti, skočnih prozora i slično."
+    },
+    "disabled": {
+        "message": "Isključili ste ChessHelper"
+    },
+    "header_title": {
+        "message": "Proširenje ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Volimo Chess.com! Hajmo ga učiniti još boljim."
+    },
+    "btn_donate": {
+        "message": "Doniraj"
+    },
+    "btn_support": {
+        "message": "Dobij podršku"
+    },
+    "btn_reqfeature": {
+        "message": "Zatraži mogućnost"
+    },
+    "btn_goback": {
+        "message": "natrag"
+    },
+    "menu_main": {
+        "message": "Glavne značajke:"
+    },
+    "menu_sec": {
+        "message": "Dodatne značajke:"
+    },
+    "menu_palette": {
+        "message": "Paleta boja / font:"
+    },
+    "n_default": {
+        "message": "Zadano"
+    },
+    "mi_1": {
+        "message": "Omogući \"Način fokusa\"\n (najbolje za prijenose uživo i Bullet)"
+    },
+    "mi_2": {
+        "message": "Onemogući prijenos na glavnoj stranici"
+    },
+    "mi_3": {
+        "message": "Dodaj izbor HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Onemogući skočni prozor \"O meni\""
+    },
+    "mi_5": {
+        "message": "Onemogući chat"
+    },
+    "mi_6": {
+        "message": "Sakrij obavijest u chatu:\n\"Nemoj započinjati igru osim ako...\""
+    },
+    "mi_7": {
+        "message": "Postavi ploču na 100% fiksnu visinu"
+    },
+    "mi_8": {
+        "message": "Učini koordinate većima"
+    },
+    "mi_9": {
+        "message": "Koordinate na svakom kvadratu"
+    },
+    "mi_10": {
+        "message": "Paleta boja / font:"
+    },
+    "mi_11": {
+        "message": "Učini ih manje vidljivima"
+    },
+    "mi_12": {
+        "message": "Veće vremenske kontrole"
+    },
+    "mi_13": {
+        "message": "Onemogući promjenu kursora pri pomicanju"
+    },
+    "mi_14": {
+        "message": "Prikaži opciju ponovnog učitavanja ako je veza prekinuta"
+    },
+    "mi_15": {
+        "message": "Osveži stranicu automatski (beta)"
+    },
+    "mi_16": {
+        "message": "Dvostruki klik za odustajanje \n(bez skočnog prozora \"Jeste li sigurni\")"
+    },
+    "mi_17": {
+        "message": "Dodaj gumb za preko cijelog ekrana (donji desni kut)"
+    },
+    "fonts_title": {
+        "message": "Odaberi font:"
+    },
+    "themes_title": {
+        "message": "Odaberi temu:"
+    },
+    "themes_label": {
+        "message": "NOVO"
+    },
+    "themes_msg": {
+        "message": "Nove opcije v1.1.9"
+    },
+    "theme_1": {
+        "message": "Zadano (Tamno Zeleno)"
+    },
+    "d_title": {
+        "message": "Donacije održavaju ChessHelper u pogonu."
+    },
+    "d_subtitle": {
+        "message": "Svaki tjedan trošim sate na popravljanje bugova, dodavanje i poboljšanje značajki te rješavanje povratnih informacija korisnika. Vaša podrška ključna je za daljnje održavanje!"
+    },
+    "d_pp": {
+        "message": "Donirajte putem PayPal-a"
+    },
+    "d_kofi": {
+        "message": "Podržite me na Ko-Fi"
+    },
+    "d_card": {
+        "message": "Donirajte putem kreditne ili debitne kartice"
+    },
+    "d_cred__1": {
+        "message": "Također možete podijeliti ChessHelper sa svojim prijateljima ili ostaviti"
+    },
+    "d_cred__2": {
+        "message": "recenziju"
+    },
+    "d_cred__3": {
+        "message": "Hvala vam."
+    },
+    "s_title": {
+        "message": "Imate li problema s ChessHelperom?"
+    },
+    "s_subtitle": {
+        "message": "Evo nekoliko koraka za rješavanje problema koje možete isprobati:"
+    },
+    "s_res__1": {
+        "message": "Osvježite stranicu Chess.com."
+    },
+    "s_res__2": {
+        "message": "Onemogućite, pa ponovno omogućite ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Onemogućite druge ekstenzije."
+    },
+    "s_res__4": {
+        "message": "Deinstalirajte i ponovno instalirajte ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Očistite predmemoriju preglednika."
+    },
+    "s_emailme": {
+        "message": "Ako problem i dalje postoji, molimo pošaljite mi e-mail na"
+    },
+    "s_effic": {
+        "message": "Kako biste mi pomogli da vam brže pomognem, uključite sljedeće informacije:"
+    },
+    "s_detail__1": {
+        "message": "Verziju ChessHelpera koju koristite."
+    },
+    "s_detail__2": {
+        "message": "Screenshot ili video koji pokazuje problem."
+    },
+    "s_detail__3": {
+        "message": "Detaljan opis problema."
+    },
+    "s_detail__4": {
+        "message": "Vaš preglednik i njegova verzija (npr. Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Prilagođene figure / ploča:"
+    },
+    "menu_pieces": {
+        "message": "Odaberi figure:"
+    },
+    "menu_board": {
+        "message": "Odaberi ploču:"
+    },
+    "menu_boardfeat": {
+        "message": "Značajke ploče:"
+    }
+}

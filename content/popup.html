@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="background-color: #000; transition: none!important;">
 
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>ChessHelper Extension</title>
-  <link rel="stylesheet" href="assets/graphs/index.css" />
+  <link rel="stylesheet" href="../assets/graphs/index.css" />
 </head>
 
 <body class="main_screen">
@@ -16,17 +16,27 @@
         <span class="logo_subtitle" data-i18n="header_subtitle">We love Chess.com! Let's make it even better,
           together</span>
       </div>
-      <img src="./assets/img/logo.svg" alt="ChessHelper Classic Plugin" class="logo_img" />
+      <img src="../assets/img/logo.svg" alt="ChessHelper Classic Plugin" class="logo_img" />
     </div>
 
     <nav class="header_nav" id="header_nav">
       <button class="btn_header" data-action="disabled">Disable plugin</button>
       <button class="btn_header" data-action="dark_mode">Dark mode</button>
       <select class="btn_header lang_set emojiesfix" name="lang_set" id="lang_set">
+        <option value="en">English</option>
+        <option value="de">German - Deutsch</option>
+        <option value="es">Spanish - español</option>
+        <option value="pl">Polish - polski</option>
+        <option value="uk">Ukrainian - українська</option>
+        <option value="sv">Swedish - svenska</option>
+        <option value="ar">Arabic - العربية</option>
+        <option value="_" disabled> -------------- beta options -------------- </option>
+
+        <option value="fr">French - français</option>
+        <option value="nl">Dutch - Nederlands</option>
         <option value="af">Afrikaans</option>
         <option value="sq">Albanian - shqip</option>
         <option value="am">Amharic - አማርኛ</option>
-        <option value="ar">Arabic - العربية</option>
         <option value="an">Aragonese - aragonés</option>
         <option value="hy">Armenian - հայերեն</option>
         <option value="ast">Asturian - asturianu</option>
@@ -38,30 +48,26 @@
         <option value="br">Breton - brezhoneg</option>
         <option value="bg">Bulgarian - български</option>
         <option value="ca">Catalan - català</option>
+        <option value="hi">Hindi - हिन्दी</option>
         <option value="ckb">Central Kurdish - کوردی (دەستنوسی عەرەبی)</option>
         <option value="zh">Chinese - 中文</option>
         <option value="co">Corsican</option>
         <option value="hr">Croatian - hrvatski</option>
         <option value="cs">Czech - čeština</option>
         <option value="da">Danish - dansk</option>
-        <option value="nl">Dutch - Nederlands</option>
-        <option value="en">English</option>
         <option value="eo">Esperanto - esperanto</option>
         <option value="et">Estonian - eesti</option>
         <option value="fo">Faroese - føroyskt</option>
         <option value="fil">Filipino</option>
         <option value="fi">Finnish - suomi</option>
-        <option value="fr">French - français</option>
         <option value="gl">Galician - galego</option>
         <option value="ka">Georgian - ქართული</option>
-        <option value="de">German - Deutsch</option>
         <option value="el">Greek - Ελληνικά</option>
         <option value="gn">Guarani</option>
         <option value="gu">Gujarati - ગુજરાતી</option>
         <option value="ha">Hausa</option>
         <option value="haw">Hawaiian - ʻŌlelo Hawaiʻi</option>
         <option value="he">Hebrew - עברית</option>
-        <option value="hi">Hindi - हिन्दी</option>
         <option value="hu">Hungarian - magyar</option>
         <option value="is">Icelandic - íslenska</option>
         <option value="id">Indonesian - Indonesia</option>
@@ -95,7 +101,6 @@
         <option value="om">Oromo - Oromoo</option>
         <option value="ps">Pashto - پښتو</option>
         <option value="fa">Persian - فارسی</option>
-        <option value="pl">Polish - polski</option>
         <option value="pt">Portuguese - português</option>
         <option value="qu">Quechua</option>
         <option value="ro">Romanian - română</option>
@@ -111,21 +116,17 @@
         <option value="sl">Slovenian - slovenščina</option>
         <option value="so">Somali - Soomaali</option>
         <option value="st">Southern Sotho</option>
-        <option value="es">Spanish - español</option>
         <option value="su">Sundanese</option>
         <option value="sw">Swahili - Kiswahili</option>
-        <option value="sv">Swedish - svenska</option>
         <option value="tg">Tajik - тоҷикӣ</option>
         <option value="ta">Tamil - தமிழ்</option>
         <option value="tt">Tatar</option>
         <option value="te">Telugu - తెలుగు</option>
         <option value="th">Thai - ไทย</option>
-        <option value="ti">Tigrinya - ትግርኛ</option>
         <option value="to">Tongan - lea fakatonga</option>
         <option value="tr">Turkish - Türkçe</option>
         <option value="tk">Turkmen</option>
         <option value="tw">Twi</option>
-        <option value="uk">Ukrainian - українська</option>
         <option value="ur">Urdu - اردو</option>
         <option value="ug">Uyghur</option>
         <option value="uz">Uzbek - o‘zbek</option>
@@ -136,7 +137,6 @@
         <option value="xh">Xhosa</option>
         <option value="yi">Yiddish</option>
         <option value="yo">Yoruba - Èdè Yorùbá</option>
-        <option value="zu">Zulu - isiZulu</option>
       </select>
     </nav>
   </header>
@@ -346,7 +346,7 @@
             <option value="anime">Kawaii 1 (System Pieces + Anime Pawns)</option>
             <option value="anime">Piece Set (by Dbenbenn, edited by Darklama, Cäsium137)</option>
             <!-- new options: -->
-            <option value="_" disabled>-------------- <span data-i18n="themes_msg">New Options v1.1.2</span>
+            <option value="_" disabled>-------------- <span data-i18n="themes_msg">New Options v1.1.4</span>
               --------------
             </option>
 
@@ -436,9 +436,10 @@
 
   <footer>
     <nav class="links">
-      <a href="#" class="version">v1.1.2</a>
+      <a href="#" class="version">v1.1.4</a>
+      <a href="contribute.html" data-i18n="btn_h18n">Contribute</a>
       <a href="donate.html" class="don_btn"><span data-i18n="btn_donate">Donate</span><img class="ko-img"
-          src="./assets/img/cup-border.png"></a>
+          src="../assets/img/cup-border.png"></a>
 
       <a href="support.html" data-i18n="btn_support">Get support</a>
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsaWF8KP6wENVf_mUbIf64Zm3Hn6NZcSyqcuKBQ9QJ1NF4Gg/viewform?usp=sf_link"
@@ -446,9 +447,8 @@
     </nav>
   </footer>
 
-  <script type="module" src="/assets/js/popup.js"></script>
-  <script type="module" src="/int_fields.js"></script>
-  <script type="module" src="./assets/js/locales.js"></script>
+  <script type="module" src="../assets/js/popup.js"></script>
+  <script type="module" src="../assets/js/locales.js"></script>
 
 </body>
 

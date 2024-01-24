@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Custom Themes, Boards - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 ନ୍ୱ Setup ନୂୱ themes, pieces, fonts, and boards, remove annoying notifications, popups, and so on."
+    },
+    "disabled": {
+        "message": "ତୁମେ ChessHelper ବନ୍ଦ କରିଛୁ"
+    },
+    "header_title": {
+        "message": "ChessHelper Extension"
+    },
+    "header_subtitle": {
+        "message": "ଆମେ Chess.com କୁ ଭଲପାଇ! ଚାଲନ୍ତୁ ଏତି ଭଲ କରିବା."
+    },
+    "btn_donate": {
+        "message": "Donate"
+    },
+    "btn_support": {
+        "message": "Get support"
+    },
+    "btn_reqfeature": {
+        "message": "Request feature"
+    },
+    "btn_goback": {
+        "message": "ପୂର୍ବରେ ଯାଅ"
+    },
+    "menu_main": {
+        "message": "ମୁଖ୍ୟ ବିଶେଷ:"
+    },
+    "menu_sec": {
+        "message": "ଅତିରିକ୍ତ ବିଶେଷ:"
+    },
+    "menu_palette": {
+        "message": "ରଙ୍ଗ ପାଲେଟ / ଫଣ୍ଟ:"
+    },
+    "n_default": {
+        "message": "Default"
+    },
+    "mi_1": {
+        "message": "Enable \"Focus mode\" \n (best for Streams and Bullet)"
+    },
+    "mi_2": {
+        "message": "Disable stream on Main page"
+    },
+    "mi_3": {
+        "message": "Add HyperBullet choice (30s)"
+    },
+    "mi_4": {
+        "message": "Disable \"About me\" popup"
+    },
+    "mi_5": {
+        "message": "Disable Chat"
+    },
+    "mi_6": {
+        "message": "Hide chat notification: \n\"Do not start a game unless...\""
+    },
+    "mi_7": {
+        "message": "Set board to 100% fixed height"
+    },
+    "mi_8": {
+        "message": "Make coordinates bigger"
+    },
+    "mi_9": {
+        "message": "Coordinates on each square"
+    },
+    "mi_10": {
+        "message": "ରଙ୍ଗ ପାଲେଟ / ଫଣ୍ଟ:"
+    },
+    "mi_11": {
+        "message": "Make them less visible"
+    },
+    "mi_12": {
+        "message": "Bigger time controls"
+    },
+    "mi_13": {
+        "message": "Disable cursor change on hover"
+    },
+    "mi_14": {
+        "message": "Show reload option if disconnected"
+    },
+    "mi_15": {
+        "message": "Refresh page automatically (beta)"
+    },
+    "mi_16": {
+        "message": "Double-click resign \n(without \"Are you sure\" popup)"
+    },
+    "mi_17": {
+        "message": "Add fullscreen button (bottom right corner)"
+    },
+    "fonts_title": {
+        "message": "Select font:"
+    },
+    "themes_title": {
+        "message": "Select theme:"
+    },
+    "themes_label": {
+        "message": "NEW"
+    },
+    "themes_msg": {
+        "message": "New Options v1.1.9"
+    },
+    "theme_1": {
+        "message": "Default (Dark Green)"
+    },
+    "d_title": {
+        "message": "Donations keep ChessHelper up and running."
+    },
+    "d_subtitle": {
+        "message": "I spend hours every week fixing bugs, adding and improving features, and addressing user feedback. Your support is crucial to continued maintenance!"
+    },
+    "d_pp": {
+        "message": "Donate via PayPal"
+    },
+    "d_kofi": {
+        "message": "Support me on Ko-Fi"
+    },
+    "d_card": {
+        "message": "Donate via credit or debit card"
+    },
+    "d_cred__1": {
+        "message": "You can also share ChessHelper with your friends or leave a"
+    },
+    "d_cred__2": {
+        "message": "review"
+    },
+    "d_cred__3": {
+        "message": "Thank you."
+    },
+    "s_title": {
+        "message": "Having troubles with ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Here are some troubleshooting steps you can try:"
+    },
+    "s_res__1": {
+        "message": "Refresh the Chess.com page."
+    },
+    "s_res__2": {
+        "message": "Disable and then enable again ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Disable any other extensions."
+    },
+    "s_res__4": {
+        "message": "Uninstall and re-install ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Clear browser cache."
+    },
+    "s_emailme": {
+        "message": "If the problem still here, please email me at"
+    },
+    "s_effic": {
+        "message": "To help me assist you more efficiently, please include this information:"
+    },
+    "s_detail__1": {
+        "message": "The version of ChessHelper you are using."
+    },
+    "s_detail__2": {
+        "message": "A screenshot or video demonstrating the problem."
+    },
+    "s_detail__3": {
+        "message": "A detailed description of the issue."
+    },
+    "s_detail__4": {
+        "message": "Your browser and its version (e.g., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Custom Pieces / Board:"
+    },
+    "menu_pieces": {
+        "message": "Select Pieces:"
+    },
+    "menu_board": {
+        "message": "Select Board:"
+    },
+    "menu_boardfeat": {
+        "message": "Board features:"
+    }
+}

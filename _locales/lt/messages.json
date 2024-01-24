@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Pasirinktinė Temos, Lentos - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Naujų temų, figūrų, šriftų ir lentų nustatymas, nušalinamos erzinančios pranešimai, iškylantys langai ir tt."
+    },
+    "disabled": {
+        "message": "Jūs išjungėte ChessHelper"
+    },
+    "header_title": {
+        "message": "ChessHelper Plėtinys"
+    },
+    "header_subtitle": {
+        "message": "Mes mylime Chess.com! Padarykime tai dar geriau."
+    },
+    "btn_donate": {
+        "message": "Paaukoti"
+    },
+    "btn_support": {
+        "message": "Gauti pagalbą"
+    },
+    "btn_reqfeature": {
+        "message": "Prašyti funkcijos"
+    },
+    "btn_goback": {
+        "message": "grįžti atgal"
+    },
+    "menu_main": {
+        "message": "Pagrindinės funkcijos:"
+    },
+    "menu_sec": {
+        "message": "Papildomos funkcijos:"
+    },
+    "menu_palette": {
+        "message": "Spalvų paletė / šriftas:"
+    },
+    "n_default": {
+        "message": "Numatytasis"
+    },
+    "mi_1": {
+        "message": "Įgalinti „Dėmesio režimą“ \n (geriausiai tinka transliacijoms ir Bullet žaidimams)"
+    },
+    "mi_2": {
+        "message": "Išjungti srautą pagrindiniame puslapyje"
+    },
+    "mi_3": {
+        "message": "Pridėti HyperBullet pasirinkimą (30 s)"
+    },
+    "mi_4": {
+        "message": "Išjungti „Apie mane“ iškylantį langą"
+    },
+    "mi_5": {
+        "message": "Išjungti pokalbį"
+    },
+    "mi_6": {
+        "message": "Slėpti pokalbio pranešimą: \n„Nesikreipkite į žaidimą, jei...“"
+    },
+    "mi_7": {
+        "message": "Nustatyti lentą 100% fiksuoto aukščio"
+    },
+    "mi_8": {
+        "message": "Padaryti koordinates didesnes"
+    },
+    "mi_9": {
+        "message": "Koordinatės ant kiekvieno kvadrato"
+    },
+    "mi_10": {
+        "message": "Spalvų paletė / šriftas:"
+    },
+    "mi_11": {
+        "message": "Padaryti juos mažiau pastebimus"
+    },
+    "mi_12": {
+        "message": "Didesnės laiko kontrolės"
+    },
+    "mi_13": {
+        "message": "Išjungti pelės keitimą užvedus"
+    },
+    "mi_14": {
+        "message": "Rodyti perkrovimo galimybę, jei atsijungta"
+    },
+    "mi_15": {
+        "message": "Automatiškai atnaujinti puslapį (beta versija)"
+    },
+    "mi_16": {
+        "message": "Spustelėti dvigubai atsisakyti \n(be „Ar tikrai“ iškylantys langai)"
+    },
+    "mi_17": {
+        "message": "Pridėti viso ekrano mygtuką (apačioje dešinėje)"
+    },
+    "fonts_title": {
+        "message": "Pasirinkite šriftą:"
+    },
+    "themes_title": {
+        "message": "Pasirinkite temą:"
+    },
+    "themes_label": {
+        "message": "NAUJA"
+    },
+    "themes_msg": {
+        "message": "Nauji variantai v1.1.9"
+    },
+    "theme_1": {
+        "message": "Numatytasis (Tamsiai žalia)"
+    },
+    "d_title": {
+        "message": "Aukos išlaiko ChessHelper veikimą."
+    },
+    "d_subtitle": {
+        "message": "Aš praleidžiu valandas kiekvieną savaitę taisydamas klaidas, pridedant ir tobulindamas funkcijas bei atsižvelgdamas į naudotojų atsiliepimus. Jūsų parama yra būtina tolesniam palaikymui!"
+    },
+    "d_pp": {
+        "message": "Paaukokite per PayPal"
+    },
+    "d_kofi": {
+        "message": "Palaikykite mane per Ko-Fi"
+    },
+    "d_card": {
+        "message": "Paaukokite per kreditinę ar debetinę kortelę"
+    },
+    "d_cred__1": {
+        "message": "Jūs taip pat galite pasidalinti ChessHelper su savo draugais arba palikti"
+    },
+    "d_cred__2": {
+        "message": "atsiliepimą"
+    },
+    "d_cred__3": {
+        "message": "Ačiū."
+    },
+    "s_title": {
+        "message": "Turite problemų su ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Štai keletas problemų sprendimo žingsnių, kuriuos galite išbandyti:"
+    },
+    "s_res__1": {
+        "message": "Atnaujinkite Chess.com puslapį."
+    },
+    "s_res__2": {
+        "message": "Išjunkite ir vėl įjunkite ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Išjunkite kitas plėtines."
+    },
+    "s_res__4": {
+        "message": "Pašalinkite ir vėl įdiekite ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Išvalykite naršyklės talpyklą."
+    },
+    "s_emailme": {
+        "message": "Jei problema vis dar egzistuoja, prašome man parašyti el. paštu"
+    },
+    "s_effic": {
+        "message": "Kad galėčiau jums efektyviau padėti, prašome įtraukti šią informaciją:"
+    },
+    "s_detail__1": {
+        "message": "ChessHelper versija, kurią naudojate."
+    },
+    "s_detail__2": {
+        "message": "Ekrano nuotrauka ar vaizdo įrašas, rodantis problemą."
+    },
+    "s_detail__3": {
+        "message": "Išsami problema."
+    },
+    "s_detail__4": {
+        "message": "Jūsų naršyklė ir jos versija (pvz., „Firefox 86.0“)."
+    },
+    "menu_pboard": {
+        "message": "Pasirinktinės figūros / lenta:"
+    },
+    "menu_pieces": {
+        "message": "Pasirinkite figūras:"
+    },
+    "menu_board": {
+        "message": "Pasirinkite lentą:"
+    },
+    "menu_boardfeat": {
+        "message": "Lentos ypatybės:"
+    }
+}

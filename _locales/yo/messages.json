@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Awọn Temi Ayelujara, Tabili - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Pese awọn ẹ̀tọ̀ tó kéré, ẹ̀dá, àtí àwọn bọọlu, bọ̀ wọn gbogbo gbogbo, fẹ̀yẹ jẹ̀ dandan."
+    },
+    "disabled": {
+        "message": "O ti wọ ChessHelper sì"
+    },
+    "header_title": {
+        "message": "Awọn Iṣẹlẹ ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "A nifẹ̀ Chess.com! Jé kí a ṣe irò ayé rẹ lọ."
+    },
+    "btn_donate": {
+        "message": "Dúdúń"
+    },
+    "btn_support": {
+        "message": "Fọwọ́ ra'gba"
+    },
+    "btn_reqfeature": {
+        "message": "Gba àlẹ̀"
+    },
+    "btn_goback": {
+        "message": "lọ sí ibè"
+    },
+    "menu_main": {
+        "message": "Awọn ẹ̀tọ̀ Kọọkan:"
+    },
+    "menu_sec": {
+        "message": "Awọn ẹ̀tọ̀ Pẹ̀lú:"
+    },
+    "menu_palette": {
+        "message": "Pálẹtì àwòrán / àkọọlẹ:"
+    },
+    "n_default": {
+        "message": "Ìgbà"
+    },
+    "mi_1": {
+        "message": "Fẹ̀sì \"Iṣẹ Rẹ\" \n (tó ṣètò ní ìtàkùn àti Bullet)"
+    },
+    "mi_2": {
+        "message": "Kí ní ilé-èdá ló ní ìlànà tó ní àtòótọ́"
+    },
+    "mi_3": {
+        "message": "Tún HyperBullet wọn dá (30s)"
+    },
+    "mi_4": {
+        "message": "Dá ọrọ̀ \"Níbè\" àtọ́kọ"
+    },
+    "mi_5": {
+        "message": "Dá ọrọ̀ Chat"
+    },
+    "mi_6": {
+        "message": "Fífò chat notification: \n\"Kí o bá bẹ̀rẹ̀ láti bẹ̀ ní ìtọ́kasí...\""
+    },
+    "mi_7": {
+        "message": "Ṣeto bọọlu sí 100% ìbè"
+    },
+    "mi_8": {
+        "message": "Yàn àkọọlẹlẹ ní kọọkan"
+    },
+    "mi_9": {
+        "message": "Yàn àkọọlẹlẹ ní gbogbo ẹsẹ"
+    },
+    "mi_10": {
+        "message": "Pálẹtì àwòrán / àkọọlẹ:"
+    },
+    "mi_11": {
+        "message": "Yàn wọn ló lèyìn rẹ"
+    },
+    "mi_12": {
+        "message": "Yàn àkọọlẹ tó kéré"
+    },
+    "mi_13": {
+        "message": "Dá ọrọ̀ àbí a kí wọn kúrò ní ilẹ̀"
+    },
+    "mi_14": {
+        "message": "Wọn rí ọkan bí ó bá lọ ní ilẹ̀"
+    },
+    "mi_15": {
+        "message": "Pípè rẹ dá ilẹ̀ ló mọ̀ (beta)"
+    },
+    "mi_16": {
+        "message": "Rán ìtúṣe rẹ sìlẹ̀ lọ́pọ̀ \n(kí o bá fẹ̀ràn \"Ṣé o yí\" àtọ́kọ)"
+    },
+    "mi_17": {
+        "message": "Tún ní ibè ìgbàlẹ̀ ní èdá tí ètò míràn"
+    },
+    "fonts_title": {
+        "message": "Yọ àkọọlẹ:"
+    },
+    "themes_title": {
+        "message": "Yọ àlẹ̀:"
+    },
+    "themes_label": {
+        "message": "TÍÍWỌN"
+    },
+    "themes_msg": {
+        "message": "ẹ̀dá rẹ v1.1.9 TÍÍWỌN"
+    },
+    "theme_1": {
+        "message": "Ìgbà (Dúró Alawọ)"
+    },
+    "d_title": {
+        "message": "Ibè wọn rẹ jẹ kó ChessHelper mọ̀"
+    },
+    "d_subtitle": {
+        "message": "Mo kó lèéwọ̀ ní ìtú mẹta kọọkan ní ọsè tí mo ní ìsáńsí, mọ̀ ètò àti ìdájọ. Rọ̀ọ̀ yẹn jé kó mọ̀ ní ìdájọ tó dá lọ."
+    },
+    "d_pp": {
+        "message": "Dúdúń níwájú PayPal"
+    },
+    "d_kofi": {
+        "message": "Fọwọ́ mi ní Ko-Fi"
+    },
+    "d_card": {
+        "message": "Dúdúń ní ilẹ̀ ìtọ́kọ̀ àbí àtẹ́lẹ̀wọ̀"
+    },
+    "d_cred__1": {
+        "message": "O le yẹ ChessHelper rẹ pẹ̀lú àwon ọrẹ̣ rẹ tabi kó sì bá àkèwùní rẹ"
+    },
+    "d_cred__2": {
+        "message": "ètò"
+    },
+    "d_cred__3": {
+        "message": "Ẹ ṣé."
+    },
+    "s_title": {
+        "message": "Kọọkan pẹ̀lú ChessHelper ni wọn bá wo?"
+    },
+    "s_subtitle": {
+        "message": "Níbè yẹn ní àwọn ilẹ̀rẹ̀ tó ó lè kọọkan:"
+    },
+    "s_res__1": {
+        "message": "Pípè Chess.com rẹ pẹ̀lú."
+    },
+    "s_res__2": {
+        "message": "Kí wọn bá ChessHelper wọn rẹ jẹ̀ kí wọn bá."
+    },
+    "s_res__3": {
+        "message": "Kí wọn sì lèyin kí wọn bá ní àwọn ilẹ̀"
+    },
+    "s_res__4": {
+        "message": "Gbe ilẹ̀-èdá sì gbá wọn ní ìtàkọ."
+    },
+    "s_res__5": {
+        "message": "Jí ìlọsí àṣìkò rẹ."
+    },
+    "s_emailme": {
+        "message": "Tó bá jé kí ìbè tí ko bá wo, ṣíṣẹ láti kọ email rẹ sí"
+    },
+    "s_effic": {
+        "message": "Láti ran mi bá a wọn lè sáré rẹ, jọ̀wọ fi mí ní àwọn ní ìdájọ wọn:"
+    },
+    "s_detail__1": {
+        "message": "Awọn èdá ChessHelper tí o bá wo."
+    },
+    "s_detail__2": {
+        "message": "Ẹ̀dá rẹ tabi ìfọ̀rọ̀ ní àṣìṣè dá."
+    },
+    "s_detail__3": {
+        "message": "Àyọkùú ní ìfọ̀rọ̀ èrò."
+    },
+    "s_detail__4": {
+        "message": "Ọ̀sẹ rẹ àti èdá rẹ (e.g., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Àwọn ẹ̀tọ̀ Àwọn ẹ̀dá / Ilẹ̀"
+    },
+    "menu_pieces": {
+        "message": "Yọ Àwọn ẹ̀tọ̀:"
+    },
+    "menu_board": {
+        "message": "Yọ Ilẹ̀:"
+    },
+    "menu_boardfeat": {
+        "message": "Awọn àtìlẹyìn ilẹ̀:"
+    }
+}

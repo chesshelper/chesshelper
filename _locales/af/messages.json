@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com-aangepaste temas, borde - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Stel nuwe temas, stukke, lettertipes, en borde op, verwyder hinderlike kennisgewings, popups, ensovoorts."
+    },
+    "disabled": {
+        "message": "Jy het ChessHelper afgeskakel"
+    },
+    "header_title": {
+        "message": "ChessHelper-uitbreiding"
+    },
+    "header_subtitle": {
+        "message": "Ons is mal oor Chess.com! Laat ons dit selfs beter maak."
+    },
+    "btn_donate": {
+        "message": "Skenk"
+    },
+    "btn_support": {
+        "message": "Kry ondersteuning"
+    },
+    "btn_reqfeature": {
+        "message": "Versoek eienskap"
+    },
+    "btn_goback": {
+        "message": "gaan terug"
+    },
+    "menu_main": {
+        "message": "Hoofkenmerke:"
+    },
+    "menu_sec": {
+        "message": "Ekstra kenmerke:"
+    },
+    "menu_palette": {
+        "message": "Kleurpalet / lettertipe:"
+    },
+    "n_default": {
+        "message": "Standaard"
+    },
+    "mi_1": {
+        "message": "Skakel \"Fokusmodus\" aan \n (beste vir Strome en Bullet)"
+    },
+    "mi_2": {
+        "message": "Skakel stroom af op Hoofblad"
+    },
+    "mi_3": {
+        "message": "Voeg HyperBullet-keuse (30s) by"
+    },
+    "mi_4": {
+        "message": "Skakel \"Oor my\" popup af"
+    },
+    "mi_5": {
+        "message": "Skakel geselskap af"
+    },
+    "mi_6": {
+        "message": "Verberg geselskap kennisgewing: \n\"Moenie 'n spel begin tensy...\""
+    },
+    "mi_7": {
+        "message": "Stel bord tot 100% vas hoogte"
+    },
+    "mi_8": {
+        "message": "Maak koördinate groter"
+    },
+    "mi_9": {
+        "message": "Koördinate op elke blokkie"
+    },
+    "mi_10": {
+        "message": "Kleurpalet / lettertipe:"
+    },
+    "mi_11": {
+        "message": "Maak hulle minder sigbaar"
+    },
+    "mi_12": {
+        "message": "Groter tydbeheer"
+    },
+    "mi_13": {
+        "message": "Skakel kursorverandering af wanneer oor beweeg word"
+    },
+    "mi_14": {
+        "message": "Wys herlaaioptie as ontkoppel"
+    },
+    "mi_15": {
+        "message": "Vernuut bladsy outomaties (beta)"
+    },
+    "mi_16": {
+        "message": "Dubbelklik ontslag \n(sonder \"Is jy seker\" popup)"
+    },
+    "mi_17": {
+        "message": "Voeg volle skerm-knoppie by (onder regs hoek)"
+    },
+    "fonts_title": {
+        "message": "Kies lettertipe:"
+    },
+    "themes_title": {
+        "message": "Kies tema:"
+    },
+    "themes_label": {
+        "message": "NUUT"
+    },
+    "themes_msg": {
+        "message": "Nuwe Opsies v1.1.9"
+    },
+    "theme_1": {
+        "message": "Standaard (Donkergroen)"
+    },
+    "d_title": {
+        "message": "Donasies hou ChessHelper aan die gang."
+    },
+    "d_subtitle": {
+        "message": "Ek spandeer ure elke week om foute reg te maak, eienskappe by te voeg en te verbeter, en gebruikers terugvoer aan te spreek. Jou ondersteuning is noodsaaklik vir volgehoue instandhouding!"
+    },
+    "d_pp": {
+        "message": "Skenk via PayPal"
+    },
+    "d_kofi": {
+        "message": "Ondersteun my op Ko-Fi"
+    },
+    "d_card": {
+        "message": "Skenk via krediet- of debietkaart"
+    },
+    "d_cred__1": {
+        "message": "Jy kan ook ChessHelper met jou vriende deel of 'n"
+    },
+    "d_cred__2": {
+        "message": "resensie"
+    },
+    "d_cred__3": {
+        "message": "Dankie."
+    },
+    "s_title": {
+        "message": "Probleme met ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Hier is 'n paar oplossingstappe wat jy kan probeer:"
+    },
+    "s_res__1": {
+        "message": "Herlaai die Chess.com-bladsy."
+    },
+    "s_res__2": {
+        "message": "Skakel ChessHelper af en dan weer aan."
+    },
+    "s_res__3": {
+        "message": "Skakel enige ander uitbreidings af."
+    },
+    "s_res__4": {
+        "message": "Deïnstalleer en herïnstalleer ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Skoon jou blaaier-kas."
+    },
+    "s_emailme": {
+        "message": "As die probleem steeds voorkom, stuur asseblief 'n e-pos na my by"
+    },
+    "s_effic": {
+        "message": "Om my te help om jou meer doeltreffend te ondersteun, sluit asseblief hierdie inligting in:"
+    },
+    "s_detail__1": {
+        "message": "Die weergawe van ChessHelper wat jy gebruik."
+    },
+    "s_detail__2": {
+        "message": "'n Skermfoto of video wat die probleem demonstreer."
+    },
+    "s_detail__3": {
+        "message": "'n Gedetailleerde beskrywing van die probleem."
+    },
+    "s_detail__4": {
+        "message": "Jou blaaier en sy weergawe (bv., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Aangepaste Stukke / Bord:"
+    },
+    "menu_pieces": {
+        "message": "Kies Stukke:"
+    },
+    "menu_board": {
+        "message": "Kies Bord:"
+    },
+    "menu_boardfeat": {
+        "message": "Bord kenmerke:"
+    }
+}

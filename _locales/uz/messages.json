@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Maxsus Temalar, Taxmalar - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 yangi temalar, qo'llanmalar, shriftlar va taxmalar qo'yish, zerikkaning xabardorliklarini, oyna chiqaruvchilarni yoki boshqa narsalarni o'chirish."
+    },
+    "disabled": {
+        "message": "Siz ChessHelper'ni o'chirdingiz"
+    },
+    "header_title": {
+        "message": "ChessHelper Kengaytma"
+    },
+    "header_subtitle": {
+        "message": "Biz Chess.com ni sevamiz! Uni yanada yaxshi qilamiz."
+    },
+    "btn_donate": {
+        "message": "Xayriya qilish"
+    },
+    "btn_support": {
+        "message": "Yordam olish"
+    },
+    "btn_reqfeature": {
+        "message": "Xususiyat so'rang"
+    },
+    "btn_goback": {
+        "message": "orqaga qaytish"
+    },
+    "menu_main": {
+        "message": "Asosiy xususiyatlar:"
+    },
+    "menu_sec": {
+        "message": "Qo'shimcha xususiyatlar:"
+    },
+    "menu_palette": {
+        "message": "Rang palitrasi / shrift:"
+    },
+    "n_default": {
+        "message": "Standart"
+    },
+    "mi_1": {
+        "message": "\"Fokus rejimi\"ni yoqish \n (streamlar va Bullet uchun eng yaxshi)"
+    },
+    "mi_2": {
+        "message": "Bosh sahifadagi streamni o'chirish"
+    },
+    "mi_3": {
+        "message": "HyperBullet tanlashni qo'shish (30 s)"
+    },
+    "mi_4": {
+        "message": "\"Men haqimda\" chiqozi ni o'chirish"
+    },
+    "mi_5": {
+        "message": "Chatni o'chirish"
+    },
+    "mi_6": {
+        "message": "Chat xabarnomasi ni yashirish: \n\"O'yin boshlanmasin, agar...\""
+    },
+    "mi_7": {
+        "message": "Taxmani 100% mo'ljallangan balandlikka sozlash"
+    },
+    "mi_8": {
+        "message": "Koordinatalarni kattaroq qilish"
+    },
+    "mi_9": {
+        "message": "Har bir kvadratdagi koordinatalar"
+    },
+    "mi_10": {
+        "message": "Rang palitrasi / shrift:"
+    },
+    "mi_11": {
+        "message": "Ular kamroq ko'rinadilar qilish"
+    },
+    "mi_12": {
+        "message": "Katta vaqtni boshqarish"
+    },
+    "mi_13": {
+        "message": "Hover qilganda o'zgaruvchanini o'chirish"
+    },
+    "mi_14": {
+        "message": "Agar bog'lanmagan bo'lsangiz qayta yuklashni ko'rsatish"
+    },
+    "mi_15": {
+        "message": "Sahifani avtomatik yangilash (beta)"
+    },
+    "mi_16": {
+        "message": "Ikki marta bosish orqali taqdim etish \n(\"Siz ishonchingiz komilmi\" chiqozi yozilmasdan)"
+    },
+    "mi_17": {
+        "message": "To'liq ekran tugmasini qo'shish (pastki o'ng burchak)"
+    },
+    "fonts_title": {
+        "message": "Shriftni tanlash:"
+    },
+    "themes_title": {
+        "message": "Temani tanlash:"
+    },
+    "themes_label": {
+        "message": "YANGI"
+    },
+    "themes_msg": {
+        "message": "Yangi variantlar v1.1.9"
+    },
+    "theme_1": {
+        "message": "Standart (qora yashil)"
+    },
+    "d_title": {
+        "message": "Xayriyalar ChessHelper'ni faol va ishlashda saqlaydi."
+    },
+    "d_subtitle": {
+        "message": "Har hafta xato'ni tuzatish, xususiyatlar qo'shish va yaxshilash, foydalanuvchi fikrlariga javob bermoq uchun soatlar sarflayman. Sizning yordamingiz davom etish uchun juda muhim."
+    },
+    "d_pp": {
+        "message": "PayPal orqali xayriya bering"
+    },
+    "d_kofi": {
+        "message": "Meni Ko-Fi da qo'llab-quvvatlang"
+    },
+    "d_card": {
+        "message": "Kredit yoki debet kartasi orqali xayriya bering"
+    },
+    "d_cred__1": {
+        "message": "Siz ChessHelper'ni do'stlaringiz bilan baham ko'ra yoki"
+    },
+    "d_cred__2": {
+        "message": "reyting qoldirishingiz mumkin"
+    },
+    "d_cred__3": {
+        "message": "Rahmat."
+    },
+    "s_title": {
+        "message": "ChessHelper bilan muammo tugaganmi?"
+    },
+    "s_subtitle": {
+        "message": "Siz sinab ko'rishingiz mumkin bo'lgan ba'zi muammo hal qilish yo'llarini quyidagilar:"
+    },
+    "s_res__1": {
+        "message": "Chess.com sahifasini yangilang."
+    },
+    "s_res__2": {
+        "message": "ChessHelper ni o'chirib, keyin qayta yoqish."
+    },
+    "s_res__3": {
+        "message": "Boshqa kengaytmalarni o'chirish."
+    },
+    "s_res__4": {
+        "message": "ChessHelper'ni o'chirib, keyin qayta o'rnatish."
+    },
+    "s_res__5": {
+        "message": "Brauzer kechirasini tozalang."
+    },
+    "s_emailme": {
+        "message": "Agar muammo hali qolsa, iltimos, men bilan elektron pochta orqali bog'laning"
+    },
+    "s_effic": {
+        "message": "Sizga ko'mak qilishim uchun, iltimos, quyidagi ma'lumotlarni qo'shing:"
+    },
+    "s_detail__1": {
+        "message": "Siz qanday versiyasini ishlatayotganligingiz."
+    },
+    "s_detail__2": {
+        "message": "Muammo ko'rsatadigan skrinshot yoki video."
+    },
+    "s_detail__3": {
+        "message": "Muammo haqida tafsilotli ta'rif."
+    },
+    "s_detail__4": {
+        "message": "Sizning brauzer va uning versiyasi (masalan, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Maxsus Burchaklar / Taxma:"
+    },
+    "menu_pieces": {
+        "message": "Burchakni tanlash:"
+    },
+    "menu_board": {
+        "message": "Taxmani tanlash:"
+    },
+    "menu_boardfeat": {
+        "message": "Taxma xususiyatlari:"
+    }
+}

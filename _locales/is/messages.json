@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com sértæk þema, borð - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Setja upp nýja þemu, brikur, leturgerðir og borð, fjarlægja pirrandi tilkynningar, glugga og annað."
+    },
+    "disabled": {
+        "message": "Þú hefur slökkt á ChessHelper"
+    },
+    "header_title": {
+        "message": "ChessHelper Viðbót"
+    },
+    "header_subtitle": {
+        "message": "Við elskum Chess.com! Látum það verða enn betra."
+    },
+    "btn_donate": {
+        "message": "Gefa"
+    },
+    "btn_support": {
+        "message": "Fá stuðning"
+    },
+    "btn_reqfeature": {
+        "message": "Biðja um eiginleika"
+    },
+    "btn_goback": {
+        "message": "farðu til baka"
+    },
+    "menu_main": {
+        "message": "Aðal eiginleikar:"
+    },
+    "menu_sec": {
+        "message": "Aukaeiginleikar:"
+    },
+    "menu_palette": {
+        "message": "Liturpaletta / letur:"
+    },
+    "n_default": {
+        "message": "Sjálfgefið"
+    },
+    "mi_1": {
+        "message": "Virkja \"Hagnýt nálgun\" \n (best fyrir beinn flutning og Bullet)"
+    },
+    "mi_2": {
+        "message": "Aftengja flutning á aðalsíðu"
+    },
+    "mi_3": {
+        "message": "Bæta við HyperBullet möguleika (30s)"
+    },
+    "mi_4": {
+        "message": "Aftengja glugga um \"Um mig\""
+    },
+    "mi_5": {
+        "message": "Aftengja spjall"
+    },
+    "mi_6": {
+        "message": "Fela tilkynningu um spjall: \n\"Ekki byrja leik nema...\""
+    },
+    "mi_7": {
+        "message": "Stilltu borð á 100% fastri hæð"
+    },
+    "mi_8": {
+        "message": "Gera hnit stærri"
+    },
+    "mi_9": {
+        "message": "Hnit á hverjum reit"
+    },
+    "mi_10": {
+        "message": "Liturpaletta / letur:"
+    },
+    "mi_11": {
+        "message": "Gera þau minna sýnileg"
+    },
+    "mi_12": {
+        "message": "Stærri tímatjáningar"
+    },
+    "mi_13": {
+        "message": "Aftengja markaraðgerð á yfirferð"
+    },
+    "mi_14": {
+        "message": "Sýna endurlaun möguleika ef tenging tapast"
+    },
+    "mi_15": {
+        "message": "Endurnýja síðu sjálfkrafa (beta)"
+    },
+    "mi_16": {
+        "message": "Tvöfaldur-smella gefst upp \n(án \"Ertu viss\" glugga)"
+    },
+    "mi_17": {
+        "message": "Bæta við skjá inn í fullskjá (neðst til hægri)"
+    },
+    "fonts_title": {
+        "message": "Veldu letur:"
+    },
+    "themes_title": {
+        "message": "Veldu þemu:"
+    },
+    "themes_label": {
+        "message": "NYTT"
+    },
+    "themes_msg": {
+        "message": "Nýjar Möguleikar v1.1.9"
+    },
+    "theme_1": {
+        "message": "Sjálfgefið (Dökkt Grænt)"
+    },
+    "d_title": {
+        "message": "Gjafir halda ChessHelper gangandi."
+    },
+    "d_subtitle": {
+        "message": "Ég eyði klukkustundum hverju viku að laga villa, bæta við og bæta eiginleika, og bregðast við notandahugsunum. Stuðningur þinn er nauðsynlegur fyrir framhaldandi viðhald!"
+    },
+    "d_pp": {
+        "message": "Gefa í gegnum PayPal"
+    },
+    "d_kofi": {
+        "message": "Stuðningur á Ko-Fi"
+    },
+    "d_card": {
+        "message": "Gefa með greiðslukorti eða debetkorti"
+    },
+    "d_cred__1": {
+        "message": "Þú getur einnig deilt ChessHelper með vinum þínum eða skrifað"
+    },
+    "d_cred__2": {
+        "message": "umsögn"
+    },
+    "d_cred__3": {
+        "message": "Takk fyrir."
+    },
+    "s_title": {
+        "message": "Ertu að upplifa vandamál með ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Hér eru nokkrar leysistigar sem þú getur prófað:"
+    },
+    "s_res__1": {
+        "message": "Endurnýja síðu Chess.com."
+    },
+    "s_res__2": {
+        "message": "Aftengja og tengja ChessHelper aftur."
+    },
+    "s_res__3": {
+        "message": "Aftengja önnur viðbætur."
+    },
+    "s_res__4": {
+        "message": "Afhenda og setja upp ChessHelper aftur."
+    },
+    "s_res__5": {
+        "message": "Hreinsa vafra skyndilega."
+    },
+    "s_emailme": {
+        "message": "Ef vandamálið er ennþá til staðar, vinsamlegast sendu mér tölvupóst á"
+    },
+    "s_effic": {
+        "message": "Til að hjálpa mér að aðstoða þig á hraðvirkari hátt, vinsamlegast innifeldu þessa upplýsingar:"
+    },
+    "s_detail__1": {
+        "message": "Útgáfa ChessHelper sem þú ert að nota."
+    },
+    "s_detail__2": {
+        "message": "Skjámynd eða myndband sem sýnir vandamálið."
+    },
+    "s_detail__3": {
+        "message": "Skýring á vandamáli."
+    },
+    "s_detail__4": {
+        "message": "Vafra þinn og útgáfa þess (t.d., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Sérsniðin Brot / Borð:"
+    },
+    "menu_pieces": {
+        "message": "Veldu Brikur:"
+    },
+    "menu_board": {
+        "message": "Veldu Borð:"
+    },
+    "menu_boardfeat": {
+        "message": "Eiginleikar borðs:"
+    }
+}

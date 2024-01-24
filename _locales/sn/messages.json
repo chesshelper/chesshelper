@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Maitiro aChess.com, Zvikonzero Zvemabhodi - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Tambisa maitiro emaitema, maitiro, maitiro, nezvikonzero, sviba nhengo dzisina kukanganisira, maitiro ekukanganisira, nemaitiro ekupop-up, nokudaro."
+    },
+    "disabled": {
+        "message": "Wakakanganwirwa ChessHelper"
+    },
+    "header_title": {
+        "message": "Kugadzirisa ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Tapinda neChess.com! Tiite zvakawanda."
+    },
+    "btn_donate": {
+        "message": "Pindura"
+    },
+    "btn_support": {
+        "message": "Pindura kumutoro"
+    },
+    "btn_reqfeature": {
+        "message": "Pinda chisarudzo"
+    },
+    "btn_goback": {
+        "message": "enda kumusangano"
+    },
+    "menu_main": {
+        "message": "Maitiro Kuparadzwa:"
+    },
+    "menu_sec": {
+        "message": "Maitiro Akawanda:"
+    },
+    "menu_palette": {
+        "message": "Kupasika kwemaitiro / maiti:"
+    },
+    "n_default": {
+        "message": "Dzakakosha"
+    },
+    "mi_1": {
+        "message": "Wandibatsira \"Maitiro ekusarudza\" \n (zvikonzero zvakawanda kwekutanga kwekutanga neBullet)"
+    },
+    "mi_2": {
+        "message": "Disablera Stream pamaitiro echitsva"
+    },
+    "mi_3": {
+        "message": "Pindura Kukanganisira cheHyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Disablera maitiro ekusangana neni popup"
+    },
+    "mi_5": {
+        "message": "Disablera Chitsa"
+    },
+    "mi_6": {
+        "message": "Jecha notification: \n\"Usarudze kamweche uye kana...\""
+    },
+    "mi_7": {
+        "message": "Sarudza bhodi kune 100% kumusangano"
+    },
+    "mi_8": {
+        "message": "Bigger Coordinates"
+    },
+    "mi_9": {
+        "message": "Coordinates pamusoro pemutengo"
+    },
+    "mi_10": {
+        "message": "Kupasika kwemaitiro / maiti:"
+    },
+    "mi_11": {
+        "message": "Zvicherechedzwa"
+    },
+    "mi_12": {
+        "message": "Maitiro akakosha ekupinzira"
+    },
+    "mi_13": {
+        "message": "Disablera kuratidza kwekamuti pakuisa"
+    },
+    "mi_14": {
+        "message": "Ratidza kuvhura kwekudhindiswa kwechete kwechete"
+    },
+    "mi_15": {
+        "message": "Refresh peji kwechete kwechete (beta)"
+    },
+    "mi_16": {
+        "message": "Double-click kugadzirisa \n (pawakatora \"Unosarudza sei\" popup)"
+    },
+    "mi_17": {
+        "message": "Pindura kupurazi kwekupfuura (paside pedunhu revanhu)"
+    },
+    "fonts_title": {
+        "message": "Sarudza maiti:"
+    },
+    "themes_title": {
+        "message": "Sarudza tema:"
+    },
+    "themes_label": {
+        "message": "KUNA"
+    },
+    "themes_msg": {
+        "message": "Maitiro Akukosha v1.1.9"
+    },
+    "theme_1": {
+        "message": "Dzakakosha (Dhodho Remusango)"
+    },
+    "d_title": {
+        "message": "Zvicherechedzwa dzako dzinoita kugadzirisa ChessHelper."
+    },
+    "d_subtitle": {
+        "message": "Ndiri kuda masaa ehupenyu kugadzirisa nhengo, kupa uye kugadzirisa maitiro, uye kubvuma maitiro evanhu. Kugadzirisa kwako kunezvimwe kwechokwadi kwezvinhu!"
+    },
+    "d_pp": {
+        "message": "Pindura nepayi pese pePayPal"
+    },
+    "d_kofi": {
+        "message": "Ndarumbidzai kumutoro kweKo-Fi"
+    },
+    "d_card": {
+        "message": "Pindura nepakati kana debit card"
+    },
+    "d_cred__1": {
+        "message": "Unogona kuita kuti ChessHelper icherechedzwe nevamwe vako kana kubvuma"
+    },
+    "d_cred__2": {
+        "message": "ruregerero"
+    },
+    "d_cred__3": {
+        "message": "Ndatenda."
+    },
+    "s_title": {
+        "message": "Kukanganwira neChessHelper here?"
+    },
+    "s_subtitle": {
+        "message": "Izvi ndizvo zvinhu zvemaitiro unoita:"
+    },
+    "s_res__1": {
+        "message": "Refresh peji yeChess.com."
+    },
+    "s_res__2": {
+        "message": "Disablera uye kusarudza ChessHelper kugadzirisa kwechokwadi."
+    },
+    "s_res__3": {
+        "message": "Disablera zvikonzero zvamaitiro."
+    },
+    "s_res__4": {
+        "message": "Uninstall uye re-install ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Pakururumisa bhurugwa yebhurugwa."
+    },
+    "s_emailme": {
+        "message": "Kana zvakakosha, ndokumbira imweyo yangu kune"
+    },
+    "s_effic": {
+        "message": "Kukumbira kukumbira maitiro zvikonzero kwawakaita here:"
+    },
+    "s_detail__1": {
+        "message": "Maitiro aChessHelper akakosha here."
+    },
+    "s_detail__2": {
+        "message": "Screenshot kana video inoratidza kubvuma."
+    },
+    "s_detail__3": {
+        "message": "Zvikonzero zvakaita maitiro."
+    },
+    "s_detail__4": {
+        "message": "Chero bhurugwa uye shanduko rake (se.g., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Zvinyorwa / Bhodi dzakakosha:"
+    },
+    "menu_pieces": {
+        "message": "Sarudza Zvinhu:"
+    },
+    "menu_board": {
+        "message": "Sarudza Bhodi:"
+    },
+    "menu_boardfeat": {
+        "message": "Zvinyorwa zvebhodi:"
+    }
+}

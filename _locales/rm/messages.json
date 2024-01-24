@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Themes persunalisads da Chess.com, Tavlas - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Configurar novs themes, pieces, fonts e tavlas, disactivar notificaziuns molests, popups, e aschia vi da si."
+    },
+    "disabled": {
+        "message": "Tas disactivà ChessHelper"
+    },
+    "header_title": {
+        "message": "Extension ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Nus amain Chess.com! Faciam els anc pli buns."
+    },
+    "btn_donate": {
+        "message": "Dunar"
+    },
+    "btn_support": {
+        "message": "Avair sustegn"
+    },
+    "btn_reqfeature": {
+        "message": "Reclamar funcziun"
+    },
+    "btn_goback": {
+        "message": "ira enavos"
+    },
+    "menu_main": {
+        "message": "Funcziuns principala:"
+    },
+    "menu_sec": {
+        "message": "Funcziuns addiziunalas:"
+    },
+    "menu_palette": {
+        "message": "Palette da culurs / font:"
+    },
+    "n_default": {
+        "message": "Predefinit"
+    },
+    "mi_1": {
+        "message": "Activar modus \"Focus\" \n (meglier per Streams e Bullet)"
+    },
+    "mi_2": {
+        "message": "Disactivar stream en pagina principala"
+    },
+    "mi_3": {
+        "message": "Agir scelta HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Disactivar popup \"Nuschs me\""
+    },
+    "mi_5": {
+        "message": "Disactivar Chat"
+    },
+    "mi_6": {
+        "message": "Scheindar notificaziun chat: \n\"Betg avrir ina partida senza...\""
+    },
+    "mi_7": {
+        "message": "Fissar tavla a 100% d'altura"
+    },
+    "mi_8": {
+        "message": "Far cudeschs pli gronds"
+    },
+    "mi_9": {
+        "message": "Cudeschs sin mintga quadrat"
+    },
+    "mi_10": {
+        "message": "Palette da culurs / font:"
+    },
+    "mi_11": {
+        "message": "Far els damain blers pitschens"
+    },
+    "mi_12": {
+        "message": "Cuntruls da temp pli gronds"
+    },
+    "mi_13": {
+        "message": "Disactivar cambiament cursor sin hover"
+    },
+    "mi_14": {
+        "message": "Mussar optiun da rechargiar sche disconneschì"
+    },
+    "mi_15": {
+        "message": "Refreschar pagina automaticamain (beta)"
+    },
+    "mi_16": {
+        "message": "Resignar cun dopple click \n(senza popup \"Es ti segur?\")"
+    },
+    "mi_17": {
+        "message": "Agir button fullscreen (cunfin deretg anteriur)"
+    },
+    "fonts_title": {
+        "message": "Selazium da font:"
+    },
+    "themes_title": {
+        "message": "Selazium da theme:"
+    },
+    "themes_label": {
+        "message": "NOV"
+    },
+    "themes_msg": {
+        "message": "Novas opziuns v1.1.9"
+    },
+    "theme_1": {
+        "message": "Predefinit (Verd scur)"
+    },
+    "d_title": {
+        "message": "Las dunaziuns mantegnan ChessHelper en funcziun."
+    },
+    "d_subtitle": {
+        "message": "Gasto uras mintgamai fixand bugs, agiustand e melhorand funcziuns, e surtut enconuschiend als utilisaders. Voss sustegn è decisiv per la manutenziun contunua!"
+    },
+    "d_pp": {
+        "message": "Dunar via PayPal"
+    },
+    "d_kofi": {
+        "message": "Sustegnair me sin Ko-Fi"
+    },
+    "d_card": {
+        "message": "Dunar cun carta da credit o debito"
+    },
+    "d_cred__1": {
+        "message": "Ti po era divider ChessHelper cun tia fanadad u lassar ina"
+    },
+    "d_cred__2": {
+        "message": "recensiun"
+    },
+    "d_cred__3": {
+        "message": "Grazia."
+    },
+    "s_title": {
+        "message": "Problems cun ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Aqui èn blers pass per cuntentar."
+    },
+    "s_res__1": {
+        "message": "Refreschar la pagina da Chess.com."
+    },
+    "s_res__2": {
+        "message": "Disactivar e lura reactivar ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Disactivar tut autras extensiuns."
+    },
+    "s_res__4": {
+        "message": "Deinstallar e reinstallar ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Evacuar la cache da browser."
+    },
+    "s_emailme": {
+        "message": "Sche il problem persista, e-mail me a"
+    },
+    "s_effic": {
+        "message": "Per m'ajudar a tschertgar te pli efficace, inditgia questa infurmaziun:"
+    },
+    "s_detail__1": {
+        "message": "La versiun da ChessHelper che ti utilizeschas."
+    },
+    "s_detail__2": {
+        "message": "Ina captira u video che mussa il problem."
+    },
+    "s_detail__3": {
+        "message": "Ina descripziun detagliada dal problem."
+    },
+    "s_detail__4": {
+        "message": "Tua browser e sia versiun (p.ex., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Pieces persunalisadas / Tavla:"
+    },
+    "menu_pieces": {
+        "message": "Selazium da pieces:"
+    },
+    "menu_board": {
+        "message": "Selazium da tavla:"
+    },
+    "menu_boardfeat": {
+        "message": "Caracteristicas da tavla:"
+    }
+}
