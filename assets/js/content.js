@@ -15,6 +15,7 @@
 (() => {
   "use strict";
   (() => {
+    const browser_cr = chrome ? chrome : browser;
     let interval0, interval1, interval2, interval3;
     const fonts = ["roboto", "poppins", "caprasimo", "playfair", "merriweather", "noto_sans", "nunito", "montserrat", "pixelify", "gabarito", "roboto_condensed", "inter"];
     const themes = ["night_owl", "purple_dark", "kittens", "ws_type", "srl", "amoled"];
@@ -58,9 +59,7 @@
       "bluenblack", "iceberg", "revo", "twilight",
       "dbhc", "jelly", "softbrown", "emerald", "industrial"];
 
-    console.log("boards: " + boards.length + ", pieces: " + pieces.length + ", themes: " + themes.length)
-    const browser_cr = chrome ? chrome : browser;
-
+    console.log("boards: " + boards.length + ", pieces: " + pieces.length + ", themes: " + themes.length);
 
     function locReloadIfCanvas() {
       const board = document.getElementById('board') || document.getElementById('board-single');
@@ -487,7 +486,6 @@
         setOrRemoveStylesOfItem("/assets/graphs/focus_mode.css", state.focus_mode, "focus_mode");
 
 
-
         addConcCoordinates(state.coor_each)
         disableStream(state.disable_stream);
         addHyperbullet(state.add_hyperbullet);
@@ -519,8 +517,7 @@
 (() => {
   "use strict";
   (() => {
-    const APPEAR_TIMEOUT1 = 10 * 1000 * 60;
-    const APPEAR_TIMEOUT = 0;
+    const APPEAR_TIMEOUT = 10 * 1000 * 60;
     const MAX_CLOSE_COUNT = 10;
     const browser_cr = chrome ? chrome : browser;
     const store_links = {
@@ -573,7 +570,7 @@
               const rateLink = document.getElementById('rateLink');
               if (rateLink) {
                 rateLink.addEventListener('click', function () {
-                  browser_cr.storage.local.set({ 'closeCount': MAX_CLOSE_COUNT + 1 });
+                  browser_cr.storage.local.set({ 'closeCount': MAX_CLOSE_COUNT });
                   notification.style.display = 'none';
                 });
               }

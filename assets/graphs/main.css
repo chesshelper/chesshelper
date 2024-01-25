@@ -16,3 +16,28 @@
 .game-preview-component {
     animation: appear 300ms linear both;
 }
+
+.board-layout-chessboard {
+    position: relative !important;
+}
+
+.top.promotion-window,
+.promotion-window {
+    opacity: 1 !important;
+    position: absolute !important;
+    z-index: 10000 !important;
+    pointer-events: all !important;
+    user-select: all !important;
+    background-color: #fff;
+}
+
+.promotion-window>* {
+    opacity: 1 !important;
+    user-select: auto !important;
+}
+
+.coordinates_inj>*,
+.coordinates_inj {
+    user-select: none !important;
+    pointer-events: none !important;
+}

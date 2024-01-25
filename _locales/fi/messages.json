@@ -1,182 +1,203 @@
 {
     "extensionName": {
-        "message": "Chess.com Mga Pasadyang Tema, Bawat Ilog - ChessHelper"
+        "message": "Chess.com Mukautetut Teemat, Laudat - ChessHelper"
     },
     "extensionDescription": {
-        "message": "2024 Itakda ang mga bagong tema, piraso, mga font, at mga ilog, alisin ang nakakairitang mga abiso, popups, at iba pa."
+        "message": "2024 Aseta uusia teemoja, nappuloita, fontteja ja lautoja, poista ärsyttävät ilmoitukset, ponnahdusikkunat ja niin edelleen."
     },
     "disabled": {
-        "message": "Itinurn-off mo ang ChessHelper"
+        "message": "Sammutit ChessHelperin"
     },
     "header_title": {
-        "message": "Extension ng ChessHelper"
+        "message": "ChessHelper Laajennus"
     },
     "header_subtitle": {
-        "message": "Iniibig natin ang Chess.com! Gawin nating mas maganda."
+        "message": "Rakastamme Chess.comia! Tehdään siitä vielä parempi."
     },
     "btn_donate": {
-        "message": "Mag-donate"
+        "message": "lahjoita"
     },
     "btn_support": {
-        "message": "Magkaruon ng suporta"
+        "message": "Hanki tukea"
     },
     "btn_reqfeature": {
-        "message": "Humiling ng feature"
+        "message": "Pyydä ominaisuutta"
     },
     "btn_goback": {
-        "message": "bumalik"
+        "message": "palaa takaisin"
     },
     "menu_main": {
-        "message": "Pangunahing Mga Tampok:"
+        "message": "Pääominaisuudet:"
     },
     "menu_sec": {
-        "message": "Karagdagang Mga Tampok:"
+        "message": "Lisäominaisuudet:"
     },
     "menu_palette": {
-        "message": "Kulay palette / font:"
+        "message": "Väripaletti / fontti:"
     },
     "n_default": {
-        "message": "Karaniwan"
+        "message": "Oletusarvo"
     },
     "mi_1": {
-        "message": "Paganahin ang \"Focus mode\" \n (pinakamahusay para sa Streams at Bullet)"
+        "message": "Ota käyttöön \"Keskitystila\" \n (paras striimeihin ja Bulletiin)"
     },
     "mi_2": {
-        "message": "I-disable ang stream sa Main page"
+        "message": "Poista stream pääsivulta"
     },
     "mi_3": {
-        "message": "Magdagdag ng HyperBullet na pagpipilian (30s)"
+        "message": "Lisää HyperBullet-vaihtoehto (30s)"
     },
     "mi_4": {
-        "message": "I-disable ang \"About me\" popup"
+        "message": "Poista \"Tietoni\"-ponnahdusikkuna"
     },
     "mi_5": {
-        "message": "I-disable ang Chat"
+        "message": "Poista chat"
     },
     "mi_6": {
-        "message": "Itago ang abiso sa chat: \n\"Huwag magsimula ng laro malibang...\""
+        "message": "Piilota chat-ilmoitus: \n\"Älä aloita peliä, ellei...\""
     },
     "mi_7": {
-        "message": "Itakda ang board sa 100% na tinaas"
+        "message": "Aseta lauta 100% kiinteään korkeuteen"
     },
     "mi_8": {
-        "message": "Gawing mas malaki ang mga coordinates"
+        "message": "Tee koordinaatit suuremmiksi"
     },
     "mi_9": {
-        "message": "Coordinates sa bawat parisukat"
+        "message": "Koordinaatit jokaiselle ruudulle"
     },
     "mi_10": {
-        "message": "Kulay palette / font:"
+        "message": "Väripaletti / fontti:"
     },
     "mi_11": {
-        "message": "Gawing mas hindi mabisa"
+        "message": "Tee ne vähemmän näkyviksi"
     },
     "mi_12": {
-        "message": "Mas malaking mga kontrol ng oras"
+        "message": "Suuremmat aikavalvonnat"
     },
     "mi_13": {
-        "message": "I-disable ang pagbabago ng cursor kapag naka-hover"
+        "message": "Poista kursorin vaihto leijuttaessa"
     },
     "mi_14": {
-        "message": "Ipakita ang pagpipilian na i-reload kung disconected"
+        "message": "Näytä latausvaihtoehto, jos yhteys katkeaa"
     },
     "mi_15": {
-        "message": "I-refresh ang pahina nang awtomatiko (beta)"
+        "message": "Päivitä sivu automaattisesti (beta)"
     },
     "mi_16": {
-        "message": "I-double-click ang pagbibitiw \n (walang \"Sigurado ka ba\" na popup)"
+        "message": "Kaksoisnapsauta luovuttamista \n(ilman \"Oletko varma\"-ponnahdusikkunaa)"
     },
     "mi_17": {
-        "message": "Magdagdag ng fullscreen na button (sa ibaba kanang sulok)"
+        "message": "Lisää koko näytön painike (oikea alakulma)"
     },
     "fonts_title": {
-        "message": "Pumili ng font:"
+        "message": "Valitse fontti:"
     },
     "themes_title": {
-        "message": "Pumili ng tema:"
+        "message": "Valitse teema:"
     },
     "themes_label": {
-        "message": "BAGO"
+        "message": "UUSI"
     },
     "themes_msg": {
-        "message": "Bagong Mga Pagpipilian v1.1.9"
+        "message": "Uudet vaihtoehdot v1.1.9"
     },
     "theme_1": {
-        "message": "Default (Madilim na Berde)"
+        "message": "Oletus (Tummanvihreä)"
+    },
+    "theme_2": {
+        "message": "Vaaleanvihreä"
+    },
+    "theme_3": {
+        "message": "Tummanpunainen"
+    },
+    "theme_4": {
+        "message": "Tummanpunainen (kissat)"
+    },
+    "theme_5": {
+        "message": "Vaaleanpunainen"
+    },
+    "theme_6": {
+        "message": "Tummansininen"
+    },
+    "theme_7": {
+        "message": "Tummanpunainen"
+    },
+    "theme_8": {
+        "message": "Tummankeltainen"
     },
     "d_title": {
-        "message": "Ang mga Donasyon ay nagpapanatili sa ChessHelper na umuunlad."
+        "message": "lahjoitukset pitävät ChessHelperin käynnissä."
     },
     "d_subtitle": {
-        "message": "Gumugol ako ng oras kada linggo sa pagsasaayos ng mga bug, pagdaragdag at pagpapabuti ng mga tampok, at pagsasaayos ng feedback ng mga gumagamit. Ang iyong suporta ay mahalaga sa tuloy-tuloy na pagmamantini!"
+        "message": "Käytän tunteja joka viikko vikojen korjaamiseen, ominaisuuksien lisäämiseen ja parantamiseen sekä käyttäjäpalautteeseen vastaamiseen. Tukesi on ratkaisevan tärkeää jatkuvan ylläpidon kannalta!"
     },
     "d_pp": {
-        "message": "Mag-donate gamit ang PayPal"
+        "message": "Lahjoita PayPalin kautta"
     },
     "d_kofi": {
-        "message": "Suportahan ako sa Ko-Fi"
+        "message": "Tue minua Ko-Fi:ssa"
     },
     "d_card": {
-        "message": "Mag-donate gamit ang credit o debit card"
+        "message": "Lahjoita luotto- tai pankkikortilla"
     },
     "d_cred__1": {
-        "message": "Maaari mo rin ibahagi ang ChessHelper sa iyong mga kaibigan o mag-iwan ng isang"
+        "message": "Voit myös jakaa ChessHelperin ystäviesi kanssa tai jättää"
     },
     "d_cred__2": {
-        "message": "review"
+        "message": "arvostelu"
     },
     "d_cred__3": {
-        "message": "Salamat."
+        "message": "Kiitos."
     },
     "s_title": {
-        "message": "May problema ka ba sa ChessHelper?"
+        "message": "Ongelmia ChessHelperin kanssa?"
     },
     "s_subtitle": {
-        "message": "Narito ang ilang mga hakbang na maaari mong subukan sa pag-troubleshoot:"
+        "message": "Tässä muutamia vianmääritysvaiheita, joita voit kokeilla:"
     },
     "s_res__1": {
-        "message": "I-refresh ang pahina ng Chess.com."
+        "message": "Päivitä Chess.com-sivu."
     },
     "s_res__2": {
-        "message": "I-disable at pagkatapos ay paganahin muli ang ChessHelper."
+        "message": "Poista ChessHelper käytöstä ja ota se sitten uudelleen käyttöön."
     },
     "s_res__3": {
-        "message": "I-disable ang iba pang mga extension."
+        "message": "Poista muut laajennukset käytöstä."
     },
     "s_res__4": {
-        "message": "I-uninstall at i-reinstall ang ChessHelper."
+        "message": "Poista ChessHelper ja asenna se uudelleen."
     },
     "s_res__5": {
-        "message": "Burahin ang cache ng browser."
+        "message": "Tyhjennä selaimen välimuisti."
     },
     "s_emailme": {
-        "message": "Kung ang problema ay narito pa rin, mag-email sa akin sa"
+        "message": "Jos ongelma ei korjaannu, lähetä sähköpostia osoitteeseen"
     },
     "s_effic": {
-        "message": "Upang matulungan akong mas mabilis na makatulong sa iyo, mangyaring isama ang sumusunod na impormasyon:"
+        "message": "Auttaaksesi minua avustamaan sinua tehokkaammin, sisällytäthän nämä tiedot:"
     },
     "s_detail__1": {
-        "message": "Ang bersyon ng ChessHelper na iyong ginagamit."
+        "message": "ChessHelperin käyttämä versio."
     },
     "s_detail__2": {
-        "message": "Isang screenshot o video na nagpapakita ng problema."
+        "message": "Ongelman esittävä kuvakaappaus tai video."
     },
     "s_detail__3": {
-        "message": "Isang detalyadong paglalarawan ng isyu."
+        "message": "Yksityiskohtainen kuvaus ongelmasta."
     },
     "s_detail__4": {
-        "message": "Ang iyong browser at ang kanyang bersyon (hal., Firefox 86.0)."
+        "message": "Selain ja sen versio (esim. Firefox 86.0)."
     },
     "menu_pboard": {
-        "message": "Pasadyang mga Piraso / Ilog:"
+        "message": "Mukautetut Nappulat / Lauta:"
     },
     "menu_pieces": {
-        "message": "Pumili ng mga Piraso:"
+        "message": "Valitse Nappulat:"
     },
     "menu_board": {
-        "message": "Pumili ng Ilog:"
+        "message": "Valitse Lauta:"
     },
     "menu_boardfeat": {
-        "message": "Mga Tampok ng Ilog:"
+        "message": "Laudan ominaisuudet:"
     }
 }
