@@ -15,13 +15,6 @@ Add new Chess.com themes, pieces, and boards. Disable annoying notifications, ad
 <p align="center"><a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/chesshelper-improve-chess/kdkckejnngdmlcephpnfaggaeofloode/"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>  <a rel="noreferrer noopener" href="https://addons.mozilla.org/en-US/firefox/addon/chesshelper/"><img alt="Firefox Add-ons" src="https://img.shields.io/badge/Firefox-141e24.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>  <a rel="noreferrer noopener" href="https://microsoftedge.microsoft.com/addons/detail/chess-pro-better-chessc/piiencmafefnakeddeeecjkehmbgcjdg"><img alt="Edge Addons" src="https://img.shields.io/badge/Edge-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>  <a href="#soon" title="Soon" rel="noreferrer noopener"><img height="28" alt="Apple App Store" src="https://img.shields.io/badge/Safari-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>
 
 
-
-## About
-
-Extension for Chess.com I made as a chess enjoyer to make this service even better. 
-I love Chess.com, but there are always things that you want to improve just because you use something quite often. <br> Most of the pieces, and boards were also created by me, but some of them are from the web with GNU / CC0 License. Let me know what you think about this - any feedback is appreciated.
-
-
 ## Installation
 
 ChessHelper is available on the [Google Chrome Store](https://chrome.google.com/webstore/detail/chesshelper-improve-chess/kdkckejnngdmlcephpnfaggaeofloode/), [Firefox Web Store](https://addons.mozilla.org/en-US/firefox/addon/chesshelper/) and [Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/chess-pro-better-chessc/piiencmafefnakeddeeecjkehmbgcjdg). Visit the store page and click on the "Add" button to install the extension directly to your browser.
