@@ -3,7 +3,7 @@
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
   "default_locale": "en",
-  "version": "1.1.4.1",
+  "version": "1.1.4.3",
   "icons": {
     "128": "/assets/icons/icon128.png"
   },
@@ -62,12 +62,21 @@
         "/assets/graphs/themes/kittens.css",
         "/assets/graphs/themes/srl.css",
         "/assets/graphs/themes/amoled.css",
+        "/assets/graphs/themes/chains.css",
+        "/assets/graphs/themes/frutiger_aero.css",
+        "/assets/graphs/themes/glitter.css",
+        "/assets/graphs/themes/greener_green.css",
+        "/assets/graphs/themes/pink.css",
+        "/assets/graphs/themes/yellow.css",
         "/assets/graphs/pieces/anime.css",
         "/assets/graphs/pieces/itchy.css",
+        "/assets/img/chain-seamless.png",
+        "/assets/img/glitter-seamless.png",
         "/assets/graphs/pieces/itchy2.css",
         "/assets/graphs/pieces/dani_maccari.css",
         "/assets/img/anime_st/wp.png",
         "/assets/img/anime_st/wn.png",
+        "/assets/img/frt_bg.png",
         "/assets/img/anime_st/wr.png",
         "/assets/img/anime_st/wb.png",
         "/assets/img/anime_st/wq.png",
@@ -647,23 +656,14 @@
         "/assets/img/tatiana/bq.svg",
         "/assets/img/tatiana/bk.svg"
       ],
-      "matches": [
-        "<all_urls>"
-      ]
+      "matches": ["<all_urls>"]
     }
   ],
   "content_scripts": [
     {
-      "matches": [
-        "*://www.chess.com/*",
-        "*://chess.com/"
-      ],
-      "js": [
-        "/assets/js/content.js"
-      ],
-      "css": [
-        "/assets/graphs/main.css"
-      ],
+      "matches": ["*://www.chess.com/*", "*://chess.com/"],
+      "js": ["/assets/js/content.js"],
+      "css": ["/assets/graphs/main.css"],
       "run_at": "document_start"
     }
   ],
@@ -671,7 +671,5 @@
     "service_worker": "/assets/js/background.js",
     "type": "module"
   },
-  "permissions": [
-    "storage"
-  ]
+  "permissions": ["storage"]
 }

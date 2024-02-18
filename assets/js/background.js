@@ -35,10 +35,10 @@ const initialState = {
   add_fullscreen: true,
   reload_disconnect_1: true,
   reload_disconnect_2: false,
-  theme: "night_owl",
+  theme: "frutiger_aero",
   font: "inter",
-  pieces: "default",
-  board: "default",
+  pieces: "pjaworski",
+  board: "nightindesert",
 };
 
 const browser_cr = chrome ? chrome : browser;
@@ -56,10 +56,10 @@ browser_cr.runtime.onInstalled.addListener(function (details) {
   if (details.reason === 'install' || details.reason === 'update') {
     chrome.storage.local.get('welcomePageDisplayed', function (data) {
       if (!data.welcomePageDisplayed && details.reason === 'install') {
-        chrome.tabs.create({ url: "https://chesscolibri.pro/welcome" });
+        chrome.tabs.create({ url: "https://chesscolibri.pro/ch/welcome" });
         chrome.storage.local.set({ 'welcomePageDisplayed': true });
-      } else {
-        // chrome.tabs.create({ url: "https://chesscolibri.pro/update-sp" });
+      } else if (details.reason === 'update') {
+        chrome.tabs.create({ url: "https://chesscolibri.pro/ch/update" });
       }
     });
   }

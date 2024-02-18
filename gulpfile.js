@@ -59,15 +59,15 @@ task('minifyCSS', async function () {
         .pipe(autoprefix('last 2 versions'))
         .pipe(insert.prepend(`/*\n${COPYRIGHT}*/\n\n`))
         .pipe(gulpFlatten({ includeParents: 4 }))
-        .pipe(dest('./public/firefox/assets/graphs/'))
+        .pipe(dest('./public/chrome/assets/graphs/'))
 
     src(['./assets/graphs/*.css', './assets/graphs/**/*.css', './assets/graphs/**/**/*.css'])
-        .pipe(replace('moz-extension://', 'chrome-extension://'))
+        .pipe(replace('chrome-extension://', 'moz-extension://'))
         .pipe(cleanCSS({ compatibility: 'ie8' }))
         .pipe(autoprefix('last 2 versions'))
         .pipe(insert.prepend(`/*\n${COPYRIGHT}*/\n\n`))
         .pipe(gulpFlatten({ includeParents: 4 }))
-        .pipe(dest('./public/chrome/assets/graphs/'))
+        .pipe(dest('./public/firefox/assets/graphs/'))
 });
 
 //## Minify JS ##//

@@ -3,7 +3,7 @@
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
   "default_locale": "en",
-  "version": "1.1.4.1",
+  "version": "1.1.4.3",
   "icons": {
     "128": "assets/icons/icon128.png"
   },
@@ -13,28 +13,17 @@
       "128": "assets/icons/icon128.png"
     }
   },
-  "permissions": [
-    "storage"
-  ],
+  "permissions": ["storage"],
   "content_scripts": [
     {
-      "matches": [
-        "*://www.chess.com/*",
-        "*://chess.com/"
-      ],
-      "js": [
-        "assets/js/content.js"
-      ],
-      "css": [
-        "assets/graphs/main.css"
-      ],
+      "matches": ["*://www.chess.com/*", "*://chess.com/"],
+      "js": ["assets/js/content.js"],
+      "css": ["assets/graphs/main.css"],
       "run_at": "document_start"
     }
   ],
   "background": {
-    "scripts": [
-      "assets/js/background.js"
-    ],
+    "scripts": ["assets/js/background.js"],
     "persistent": false
   },
   "web_accessible_resources": [
@@ -84,6 +73,12 @@
     "/assets/graphs/themes/kittens.css",
     "/assets/graphs/themes/srl.css",
     "/assets/graphs/themes/amoled.css",
+    "/assets/graphs/themes/chains.css",
+    "/assets/graphs/themes/frutiger_aero.css",
+    "/assets/graphs/themes/glitter.css",
+    "/assets/graphs/themes/greener_green.css",
+    "/assets/graphs/themes/pink.css",
+    "/assets/graphs/themes/yellow.css",
     "/assets/graphs/pieces/anime.css",
     "/assets/graphs/pieces/itchy.css",
     "/assets/graphs/pieces/itchy2.css",
@@ -499,6 +494,9 @@
     "/assets/img/dbenbenn/br.svg",
     "/assets/img/dbenbenn/bq.svg",
     "/assets/img/dbenbenn/bk.svg",
+    "/assets/img/chain-seamless.png",
+    "/assets/img/frt_bg.png",
+    "/assets/img/glitter-seamless.png",
     "/assets/graphs/pieces/fantasy.css",
     "/assets/img/fantasy/wp.svg",
     "/assets/img/fantasy/wn.svg",

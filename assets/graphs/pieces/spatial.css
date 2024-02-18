@@ -1,25 +1,27 @@
 :root {
   --theme-piece-set-perspective: 1;
 
-  --theme-piece-set-wp: url('moz-extension://__MSG_@@extension_id__/assets/img/spatial/wp.svg') !important;
-  --theme-piece-set-wn: url('moz-extension://__MSG_@@extension_id__/assets/img/spatial/wn.svg') !important;
-  --theme-piece-set-wr: url('moz-extension://__MSG_@@extension_id__/assets/img/spatial/wr.svg') !important;
-  --theme-piece-set-wb: url('moz-extension://__MSG_@@extension_id__/assets/img/spatial/wb.svg') !important;
-  --theme-piece-set-wq: url('moz-extension://__MSG_@@extension_id__/assets/img/spatial/wq.svg') !important;
-  --theme-piece-set-wk: url('moz-extension://__MSG_@@extension_id__/assets/img/spatial/wk.svg') !important;
+  --theme-piece-set-wp: url("chrome-extension://__MSG_@@extension_id__/assets/img/spatial/wp.svg") !important;
+  --theme-piece-set-wn: url("chrome-extension://__MSG_@@extension_id__/assets/img/spatial/wn.svg") !important;
+  --theme-piece-set-wr: url("chrome-extension://__MSG_@@extension_id__/assets/img/spatial/wr.svg") !important;
+  --theme-piece-set-wb: url("chrome-extension://__MSG_@@extension_id__/assets/img/spatial/wb.svg") !important;
+  --theme-piece-set-wq: url("chrome-extension://__MSG_@@extension_id__/assets/img/spatial/wq.svg") !important;
+  --theme-piece-set-wk: url("chrome-extension://__MSG_@@extension_id__/assets/img/spatial/wk.svg") !important;
 
-  --theme-piece-set-bp: url('moz-extension://__MSG_@@extension_id__/assets/img/spatial/bp.svg') !important;
-  --theme-piece-set-bn: url('moz-extension://__MSG_@@extension_id__/assets/img/spatial/bn.svg') !important;
-  --theme-piece-set-bb: url('moz-extension://__MSG_@@extension_id__/assets/img/spatial/bb.svg') !important;
-  --theme-piece-set-br: url('moz-extension://__MSG_@@extension_id__/assets/img/spatial/br.svg') !important;
-  --theme-piece-set-bq: url('moz-extension://__MSG_@@extension_id__/assets/img/spatial/bq.svg') !important;
-  --theme-piece-set-bk: url('moz-extension://__MSG_@@extension_id__/assets/img/spatial/bk.svg') !important;
+  --theme-piece-set-bp: url("chrome-extension://__MSG_@@extension_id__/assets/img/spatial/bp.svg") !important;
+  --theme-piece-set-bn: url("chrome-extension://__MSG_@@extension_id__/assets/img/spatial/bn.svg") !important;
+  --theme-piece-set-bb: url("chrome-extension://__MSG_@@extension_id__/assets/img/spatial/bb.svg") !important;
+  --theme-piece-set-br: url("chrome-extension://__MSG_@@extension_id__/assets/img/spatial/br.svg") !important;
+  --theme-piece-set-bq: url("chrome-extension://__MSG_@@extension_id__/assets/img/spatial/bq.svg") !important;
+  --theme-piece-set-bk: url("chrome-extension://__MSG_@@extension_id__/assets/img/spatial/bk.svg") !important;
 }
-
 
 #board-single,
 #board {
-  background-image: var(--theme-board-style-image, url('https://images.chesscomfiles.com/chess-themes/boards/glass/100.png')) !important;
+  background-image: var(
+    --theme-board-style-image,
+    url("https://images.chesscomfiles.com/chess-themes/boards/glass/100.png")
+  ) !important;
 }
 
 .piece.wp,
@@ -102,7 +104,7 @@
 }
 
 .settings-editor-board-preview-preview,
-.settings-themes-preview-wrapper>.game-preview-themed-component {
+.settings-themes-preview-wrapper > .game-preview-themed-component {
   background: #3b3b40 !important;
   background-image: none !important;
   position: relative;
@@ -120,7 +122,7 @@
 }
 
 .settings-editor-board-preview-preview::before,
-.settings-themes-preview-wrapper>.game-preview-themed-component::before {
+.settings-themes-preview-wrapper > .game-preview-themed-component::before {
   content: "🎨Pieces: spatial (by @sadsnake1)";
   display: block;
   position: absolute;
@@ -143,7 +145,7 @@
 }
 
 .settings-modal-content-content .settings-editor-board-preview-preview::after,
-.settings-themes-preview-wrapper>.game-preview-themed-component::after {
+.settings-themes-preview-wrapper > .game-preview-themed-component::after {
   content: "(Set ChessHelper Pieces field to 'Default' if you want to choose any System pieces!)";
   display: block;
   position: absolute;
@@ -170,15 +172,14 @@
   padding: 0 3.5rem;
 }
 
-
 .settings-modal-content-content .settings-editor-board-preview-preview::after {
   top: 6rem;
   width: 21rem;
 }
 
 .settings-themes-options-wrapper .settings-themes-select-wrapper:nth-child(1),
-main.settings-layout-component .settings-board-form form>div:nth-child(1),
-.settings-modal-content-content>div>.settings-field-row:nth-child(2) {
+main.settings-layout-component .settings-board-form form > div:nth-child(1),
+.settings-modal-content-content > div > .settings-field-row:nth-child(2) {
   opacity: 0.5;
   user-select: none;
   pointer-events: none;

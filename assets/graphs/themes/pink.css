@@ -1,0 +1,40 @@
+:root {
+  --theme-background-override-color: #3c1337;
+  --theme-background-color: var(--theme-background-override-color, #2c202c);
+  --color-green-25: #ffe3fd;
+  --color-green-50: #ffcffc;
+  --color-green-75: #febdff;
+  --color-green-100: #e69dfa;
+  --color-green-200: #e068dc;
+  --color-green-300: #d12bc0;
+  --color-green-400: #5f305d;
+  --color-green-500: #9e2791;
+  --color-green-600: #573056;
+}
+
+* {
+  font-weight: 400 !important;
+}
+
+.ui_v5-button-component.ui_v5-button-primary {
+  --bgHoverColor: #984899 !important;
+  --innerBoxShadow: rgba(117, 60, 108, 0.5) !important;
+  --secondaryBorderColor: rgba(153, 72, 148, 0.2);
+}
+
+body {
+  transition: background 0ms linear !important;
+}
+
+.promo-icon.promo-review,
+.chess-logo {
+  filter: hue-rotate(190deg) !important;
+}
+
+.archived-games-result-won::before {
+  color: #22b422 !important;
+}
+
+.archived-games-result-lost::before {
+  color: #e46f0f !important;
+}

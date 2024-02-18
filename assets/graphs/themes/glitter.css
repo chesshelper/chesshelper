@@ -1,0 +1,152 @@
+:root {
+  --theme-background-override-color: #000000;
+  --theme-background-color: var(--theme-background-override-color, #000000);
+
+  --color-text-boldest: var(--color-neutrals-white) !important;
+  --color-text-bolder: var(--color-transparent-white-85) !important;
+  --color-text-default: var(--color-transparent-white-72) !important;
+  --color-text-default-hovered: var(--color-transparent-white-85) !important;
+  --color-text-subtle: var(--color-transparent-white-50) !important;
+  --color-text-placeholder: var(--color-transparent-white-40) !important;
+  --color-text-inverse: var(--color-gray-800) !important;
+  --color-text-link: var(--color-blue-200) !important;
+  --color-text-link-hovered: var(--color-blue-100) !important;
+}
+
+body {
+  transition: background 0ms linear !important;
+  background-repeat: repeat !important;
+  background-color: #a20cff !important;
+  background-size: 150px 150px !important;
+}
+
+body,
+.dark-mode,
+.dark-mode .v5-section-shadow,
+.dark-mode .v5-section-shadow-hover {
+  --global: rgba(43, 40, 45, 0.95);
+  --globalBackground: var(--global) !important;
+  --color-bg-secondary: var(--global) !important;
+  --linkHoverBackground: rgba(37, 37, 37, 0.85) !important;
+}
+
+.archived-games-result-won::before {
+  color: #22b422 !important;
+}
+
+.archived-games-result-lost::before {
+  color: #e46f0f !important;
+}
+
+:root {
+  --theme-background-override-color: #292628;
+  --theme-background-color: var(--theme-background-override-color, #292628);
+  --color-green-25: #f5e3ff;
+  --color-green-50: rgb(232, 207, 255);
+  --color-green-75: #ddbdff;
+  --color-green-100: #cf9dfa;
+  --color-green-200: rgb(164, 104, 224);
+  --color-green-300: rgb(120, 76, 182);
+  --color-green-400: #3e305f;
+  --color-green-500: #4e396e;
+  --color-green-600: #3d3057;
+}
+
+.dark-mode {
+  --globalBackground: rgba(37, 44, 51, 0.8);
+  --globalBackgroundOpaque: #262421;
+  --globalSecondaryBackground: rgba(0, 0, 0, 0.2);
+  --globalTertiaryBackground: rgba(0, 0, 0, 0.3);
+  --globalAccentBackground: hsla(0, 0%, 100%, 0.14);
+  --globalSecondaryAccentBackground: hsla(0, 0%, 100%, 0.05);
+}
+
+.archived-games-result-won::before {
+  color: #22b422 !important;
+}
+
+.archived-games-result-lost::before {
+  color: #e46f0f !important;
+}
+
+#sb {
+  background-color: var(--globalBackground, #262421);
+}
+
+.dark-mode .v5-section-shadow,
+.dark-mode .v5-section-shadow-hover {
+  --linkBoxShadow: 0 0.5rem 0 0 rgba(0, 0, 0, 0.9) !important;
+}
+
+.ui_v5-button-component.ui_v5-button-primary {
+  --bgHoverColor: #353236 !important;
+  --innerBoxShadow: rgba(103, 60, 117, 0.5) !important;
+  --secondaryBorderColor: rgba(127, 72, 153, 0.2);
+}
+
+body,
+html {
+  overscroll-behavior: none !important;
+  text-shadow: 2px 2px 3px var(--globalBackground, #393440);
+}
+
+.promo-subtitle {
+  padding-bottom: 5px;
+}
+
+*::before,
+*::after,
+span.chevron-right::before {
+  color: #eee;
+}
+
+#tb *::before,
+#tb *::after {
+  text-shadow: none;
+  color: var(--globalBackground, #262421);
+  text-shadow: #d4d4e6 1px 0px 0px, #d4d4e6 0.540302px 0.841471px 0px,
+    #d4d4e6 -0.416147px 0.909297px 0px, #d4d4e6 -0.989992px 0.14112px 0px,
+    #d4d4e6 -0.653644px -0.756802px 0px, #d4d4e6 0.283662px -0.958924px 0px,
+    #d4d4e6 0.96017px -0.279415px 0px;
+}
+
+.selector-button-button span::before,
+.selector-button-button span::after,
+.time-selector-section-icon::before,
+.time-selector-section-icon::after {
+  color: var(--color-icon-bullet, #c59a00) !important;
+}
+
+span.chevron-right::before {
+  color: #eee !important;
+}
+
+body {
+  transition: background 0ms linear !important;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav-panel-shade {
+  background: #262421 !important;
+  background-image: none !important;
+}
+
+.promo-icon.promo-review,
+.chess-logo {
+  /* filter: hue-rotate(-110deg) !important; */
+}
+
+.user-tagline-component a.user-tagline-username {
+  padding: 0 5px 1px 0;
+}
+
+.clock-time-monospace {
+  text-shadow: none;
+}
+
+/* Background */
+body {
+  --theme-background-image: url("chrome-extension://__MSG_@@extension_id__/assets/img/glitter-seamless.png");
+}
