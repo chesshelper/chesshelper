@@ -9,8 +9,16 @@ import uglify from 'gulp-uglify';
 import htmlmin from "gulp-htmlmin";
 import rename from "gulp-rename";
 import replace from "gulp-replace";
+import filter from 'gulp-filter';
+import zip from 'gulp-zip';
+import chalk from 'chalk';
+
 
 let { src, dest, task, series } = gulp;
+const link = chalk.hex('#5e98d9');
+const EXTENSION_NAME = 'chesshelper'
+const EXTENSION_V = 'v.1.1.4.4'
+
 const COPYRIGHT = `//   - This file is part of ChessHelper Extension
 //  <https://github.com/gerwld/ChessHelper-extension/blob/main/README.md>,
 //   - Copyright (C) 2023-present ChessHelper Extension
@@ -24,6 +32,7 @@ const COPYRIGHT = `//   - This file is part of ChessHelper Extension
 //   -
 //   - You should have received a copy of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
 //   - along with ChessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+
 `
 
 //## Minify Images  ##//
@@ -113,6 +122,50 @@ task('addOther', async function () {
         .pipe(dest('./public/firefox/_locales'))
 });
 
+//## For source code .zip ##//
+task('source', async function (done) {
+    const excludedDirs = ['public', 'node_modules', 'previews', '.git'];
+    const excludedFiles = ['**', '!**/__*.js', '!**/*.zip', '.git', '.gitignore', '.DS_Store', "!**/manifest.json", "!**/pnpm-lock.yaml"];
+
+    src("./**/*")
+        .pipe(filter(['**', ...excludedFiles]))
+        .pipe(filter(['**', ...excludedDirs.map(e => [`!./${e}/**/*`, `!./${e}/`]).flat(2)]))
+        .pipe(dest('./public/__source_code/'))
+
+    src("./**/*")
+        .pipe(filter(['**', ...excludedFiles]))
+        .pipe(filter(['**', ...excludedDirs.map(e => [`!./${e}/**/*`, `!./${e}/`]).flat(2)]))
+        .pipe(zip(`${EXTENSION_NAME}_${EXTENSION_V}_source_code.zip`))
+        .pipe(gulp.dest('./public/'))
+        .on('end', function () {
+            console.log("Source finished, dest: " + link(`./public/${EXTENSION_NAME}_${EXTENSION_V}_source_code.zip`));
+            done();
+        })
+});
+
+task('zipper', async function (done) {
+    setTimeout(function () {
+        const fn_base = `${EXTENSION_NAME}_${EXTENSION_V}`
+        console.log(chalk.green("Zipper started."));
+        src("./public/firefox/**/*")
+            .pipe(zip(`${fn_base}_firefox.zip`))
+            .pipe(gulp.dest('./public/'))
+            .on('end', function () {
+                console.log("Zipper finished, dest: " + link(`./public/${fn_base}_firefox.zip`));
+                done();
+            });
+        src("./public/chrome/**/*")
+            .pipe(zip(`${fn_base}_chromium.zip`))
+            .pipe(gulp.dest('./public/'))
+            .on('end', function () {
+                console.log("Zipper finished, dest: " + link(`./public/${fn_base}_chromium.zip`));
+                done();
+            });
+    }, 12000);
+});
+
+
 
 task('build', series('minifyImg', "minifyCSS", "minifyJS", "minifyHTML", "addOther"));
+task('gbuild', series('minifyImg', "minifyCSS", "minifyJS", "minifyHTML", "addOther", "zipper", "source"));
 export default series('minifyImg');
