@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Themes Custom de Chess.com, Tabulas - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Configura nove themes, pecias, caracteres, e tabulas, remova notificationes molestiose, pop-ups, e cetera."
+    },
+    "disabled": {
+        "message": "Tu disactivava ChessHelper"
+    },
+    "header_title": {
+        "message": "Extension ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Nos ama Chess.com! Faciam illo etiam melior."
+    },
+    "btn_donate": {
+        "message": "Donate"
+    },
+    "btn_support": {
+        "message": "Obtene supporto"
+    },
+    "btn_reqfeature": {
+        "message": "Peti caracteristica"
+    },
+    "btn_goback": {
+        "message": "retrocede"
+    },
+    "menu_main": {
+        "message": "Characteristicas Principal:"
+    },
+    "menu_sec": {
+        "message": "Characteristicas Additional:"
+    },
+    "menu_palette": {
+        "message": "Paletta de Color / carattere:"
+    },
+    "n_default": {
+        "message": "Predefinite"
+    },
+    "mi_1": {
+        "message": "Activa 'Modo de Concentration' \n (optime pro Streams e Bullet)"
+    },
+    "mi_2": {
+        "message": "Disactiva stream in pagina Principal"
+    },
+    "mi_3": {
+        "message": "Adder option HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Disactiva popup 'Sur me'"
+    },
+    "mi_5": {
+        "message": "Disactiva Chat"
+    },
+    "mi_6": {
+        "message": "Celar notification de chat: \n'Non initiates un partida si...'"
+    },
+    "mi_7": {
+        "message": "Fixa altor del tabula a 100%"
+    },
+    "mi_8": {
+        "message": "Faci caracteres plus grande"
+    },
+    "mi_9": {
+        "message": "Coordination in cata quadrato"
+    },
+    "mi_10": {
+        "message": "Paletta de Color / carattere:"
+    },
+    "mi_11": {
+        "message": "Faci les plus evidente"
+    },
+    "mi_12": {
+        "message": "Tempore de controllos plus grande"
+    },
+    "mi_13": {
+        "message": "Disactiva cambio de cursor quando survolate"
+    },
+    "mi_14": {
+        "message": "Monstra option de recargar si disconectate"
+    },
+    "mi_15": {
+        "message": "Refrisca pagina automaticamente (beta)"
+    },
+    "mi_16": {
+        "message": "Resigna con duplo click \n(sin popup 'Es tu securus')"
+    },
+    "mi_17": {
+        "message": "Adder button de fenestra completa (in basso a dextera)"
+    },
+    "fonts_title": {
+        "message": "Selecte caractere:"
+    },
+    "themes_title": {
+        "message": "Selecte theme:"
+    },
+    "themes_label": {
+        "message": "NOVE"
+    },
+    "themes_msg": {
+        "message": "Noval Optiones v1.1.9"
+    },
+    "theme_1": {
+        "message": "Predefinite (Verde Oscure)"
+    },
+    "d_title": {
+        "message": "Donationes mantiene ChessHelper active."
+    },
+    "d_subtitle": {
+        "message": "Io dedica horas cata septimana a reparar errores, adder e meliorar characteristicas, e responder al opiniones del usatores. Tu supporto es crucial pro le mantenentia continue!"
+    },
+    "d_pp": {
+        "message": "Dona via PayPal"
+    },
+    "d_kofi": {
+        "message": "Supporta me in Ko-Fi"
+    },
+    "d_card": {
+        "message": "Dona via carta de credito o debito"
+    },
+    "d_cred__1": {
+        "message": "Tu pote etiam compartir ChessHelper con tu amicos o scriber un"
+    },
+    "d_cred__2": {
+        "message": "recension"
+    },
+    "d_cred__3": {
+        "message": "Gratias."
+    },
+    "s_title": {
+        "message": "Problemas con ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Ecce alcun passos de resolution que tu pote essayar:"
+    },
+    "s_res__1": {
+        "message": "Refrisca le pagina de Chess.com."
+    },
+    "s_res__2": {
+        "message": "Disactiva e postea activa ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Disactiva omne altere extensiones."
+    },
+    "s_res__4": {
+        "message": "Deinstalla e reinstalla ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Clarifica le cache del navigator."
+    },
+    "s_emailme": {
+        "message": "Si le problema ancora persiste, per favore scribe me a"
+    },
+    "s_effic": {
+        "message": "Pro adjutar me a adjutar te plus efficacemente, include iste information:"
+    },
+    "s_detail__1": {
+        "message": "Le version de ChessHelper que tu usa."
+    },
+    "s_detail__2": {
+        "message": "Un screenshot o video que monstrat le problema."
+    },
+    "s_detail__3": {
+        "message": "Un description detallate del problema."
+    },
+    "s_detail__4": {
+        "message": "Tu navigator e su version (e.g., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Pecias / Tabula Personalizate:"
+    },
+    "menu_pieces": {
+        "message": "Selige Pecias:"
+    },
+    "menu_board": {
+        "message": "Selige Tabula:"
+    },
+    "menu_boardfeat": {
+        "message": "Characteristicas del Tabula:"
+    }
+}

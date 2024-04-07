@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Temes Personalitzats, Taules - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "Configura nous temes, peces, tipografies i taules per al 2024, elimina notificacions molestes, finestres emergents, etc."
+    },
+    "disabled": {
+        "message": "Has desactivat ChessHelper"
+    },
+    "header_title": {
+        "message": "Extensió ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Estimem Chess.com! Fem-lo encara millor."
+    },
+    "btn_donate": {
+        "message": "Dona"
+    },
+    "btn_support": {
+        "message": "Obtén suport"
+    },
+    "btn_reqfeature": {
+        "message": "Sol·licita una característica"
+    },
+    "btn_goback": {
+        "message": "torna enrere"
+    },
+    "menu_main": {
+        "message": "Característiques principals:"
+    },
+    "menu_sec": {
+        "message": "Característiques addicionals:"
+    },
+    "menu_palette": {
+        "message": "Paleta de colors / tipografia:"
+    },
+    "n_default": {
+        "message": "Predeterminat"
+    },
+    "mi_1": {
+        "message": "Activa el mode 'Focus' \n (millor per a retransmissions i partides ràpides)"
+    },
+    "mi_2": {
+        "message": "Desactiva les retransmissions a la pàgina principal"
+    },
+    "mi_3": {
+        "message": "Afegeix l'opció HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Desactiva la finestra emergent 'Sobre mi'"
+    },
+    "mi_5": {
+        "message": "Desactiva el xat"
+    },
+    "mi_6": {
+        "message": "Amaga la notificació de xat: \n 'No comencis una partida a menys que...'"
+    },
+    "mi_7": {
+        "message": "Estableix l'altura del tauler al 100%"
+    },
+    "mi_8": {
+        "message": "Fes més grans les coordenades"
+    },
+    "mi_9": {
+        "message": "Coordenades a cada casella"
+    },
+    "mi_10": {
+        "message": "Paleta de colors / tipografia:"
+    },
+    "mi_11": {
+        "message": "Fes-les menys visibles"
+    },
+    "mi_12": {
+        "message": "Controls de temps més grans"
+    },
+    "mi_13": {
+        "message": "Desactiva el canvi de cursor en passar per sobre"
+    },
+    "mi_14": {
+        "message": "Mostra l'opció de recàrrega si es perd la connexió"
+    },
+    "mi_15": {
+        "message": "Actualitza la pàgina automàticament (beta)"
+    },
+    "mi_16": {
+        "message": "Resigna amb doble clic \n (sense finestra emergent 'Estàs segur/a')"
+    },
+    "mi_17": {
+        "message": "Afegeix el botó de pantalla completa (a la cantonada inferior dreta)"
+    },
+    "fonts_title": {
+        "message": "Selecciona la tipografia:"
+    },
+    "themes_title": {
+        "message": "Selecciona el tema:"
+    },
+    "themes_label": {
+        "message": "NOU"
+    },
+    "themes_msg": {
+        "message": "Noves opcions v1.1.9"
+    },
+    "theme_1": {
+        "message": "Predeterminat (Verd Fosc)"
+    },
+    "d_title": {
+        "message": "Les donacions mantenen ChessHelper en marxa."
+    },
+    "d_subtitle": {
+        "message": "Gasto hores cada setmana solucionant errors, afegint i millorant funcionalitats, i tenint en compte els comentaris dels usuaris. El teu suport és crucial per a un manteniment continuat!"
+    },
+    "d_pp": {
+        "message": "Dona via PayPal"
+    },
+    "d_kofi": {
+        "message": "Donam suport a Ko-Fi"
+    },
+    "d_card": {
+        "message": "Dona amb targeta de crèdit o dèbit"
+    },
+    "d_cred__1": {
+        "message": "També pots compartir ChessHelper amb els teus amics o deixar una"
+    },
+    "d_cred__2": {
+        "message": "resenya"
+    },
+    "d_cred__3": {
+        "message": "Gràcies."
+    },
+    "s_title": {
+        "message": "Problemes amb ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Aquí tens alguns passos de resolució de problemes que pots provar:"
+    },
+    "s_res__1": {
+        "message": "Actualitza la pàgina de Chess.com."
+    },
+    "s_res__2": {
+        "message": "Desactiva i torna a activar ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Desactiva altres extensions."
+    },
+    "s_res__4": {
+        "message": "Desinstal·la i torna a instal·lar ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Neteja la memòria cau del navegador."
+    },
+    "s_emailme": {
+        "message": "Si el problema persisteix, envia'm un correu electrònic a"
+    },
+    "s_effic": {
+        "message": "Per ajudar-me a ajudar-te de manera més eficient, inclou aquesta informació:"
+    },
+    "s_detail__1": {
+        "message": "La versió de ChessHelper que estàs utilitzant."
+    },
+    "s_detail__2": {
+        "message": "Captura de pantalla o vídeo que mostri el problema."
+    },
+    "s_detail__3": {
+        "message": "Una descripció detallada del problema."
+    },
+    "s_detail__4": {
+        "message": "El teu navegador i la seva versió (p. ex., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Peces / Tauler personalitzats:"
+    },
+    "menu_pieces": {
+        "message": "Selecciona les peces:"
+    },
+    "menu_board": {
+        "message": "Selecciona el tauler:"
+    },
+    "menu_boardfeat": {
+        "message": "Funcionalitats del tauler:"
+    }
+}

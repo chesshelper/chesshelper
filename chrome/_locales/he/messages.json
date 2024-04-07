@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "ערכות נושא מותאמות אישית של Chess.com, לוחות - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 התקנה של ערכות נושא חדשות, יחידות, גופנים ולוחות, הסרת התראות מציקות, חלונות קופצים וכו'."
+    },
+    "disabled": {
+        "message": "כיבית את ChessHelper"
+    },
+    "header_title": {
+        "message": "תוסף ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "אנו אוהבים את Chess.com! בואו נעשה אותו אפילו טוב יותר."
+    },
+    "btn_donate": {
+        "message": "תרומה"
+    },
+    "btn_support": {
+        "message": "קבל תמיכה"
+    },
+    "btn_reqfeature": {
+        "message": "בקשת יכולת"
+    },
+    "btn_goback": {
+        "message": "חזור"
+    },
+    "menu_main": {
+        "message": "תכונות עיקריות:"
+    },
+    "menu_sec": {
+        "message": "תכונות נוספות:"
+    },
+    "menu_palette": {
+        "message": "פלטת צבעים / גופן:"
+    },
+    "n_default": {
+        "message": "ברירת מחדל"
+    },
+    "mi_1": {
+        "message": "אפשר \"מצב מיקוד\" \n (מומלץ לסטרימים ולמשחקי Bullet)"
+    },
+    "mi_2": {
+        "message": "השבת סטרימים בעמוד הראשי"
+    },
+    "mi_3": {
+        "message": "הוסף אפשרות HyperBullet (30 שניות)"
+    },
+    "mi_4": {
+        "message": "השבת חלון \"אודותי\""
+    },
+    "mi_5": {
+        "message": "השבת צ'אט"
+    },
+    "mi_6": {
+        "message": "הסתר התראת צ'אט: \n\"אל תתחיל משחק אלא אם...\""
+    },
+    "mi_7": {
+        "message": "קבע את הלוח בגובה קבוע של 100%"
+    },
+    "mi_8": {
+        "message": "הגדל קואורדינטות"
+    },
+    "mi_9": {
+        "message": "קואורדינטות בכל ריבוע"
+    },
+    "mi_10": {
+        "message": "פלטת צבעים / גופן:"
+    },
+    "mi_11": {
+        "message": "הפך אותן פחות נראות"
+    },
+    "mi_12": {
+        "message": "זמני שליטה גדולים יותר"
+    },
+    "mi_13": {
+        "message": "השבת שינוי סמן בעת הרחקה"
+    },
+    "mi_14": {
+        "message": "הצג אפשרות לטעינה מחדש אם התנתקת"
+    },
+    "mi_15": {
+        "message": "רענן דף אוטומטית (בטא)"
+    },
+    "mi_16": {
+        "message": "לחץ פעמיים להתפטר \n(בלעדי חלון \"האם אתה בטוח\")"
+    },
+    "mi_17": {
+        "message": "הוסף כפתור למסך מלא (בפינה הימנית התחתונה)"
+    },
+    "fonts_title": {
+        "message": "בחר גופן:"
+    },
+    "themes_title": {
+        "message": "בחר ערכת נושא:"
+    },
+    "themes_label": {
+        "message": "חדש"
+    },
+    "themes_msg": {
+        "message": "אפשרויות חדשות v1.1.9"
+    },
+    "theme_1": {
+        "message": "ברירת מחדל (ירוק כהה)"
+    },
+    "d_title": {
+        "message": "תרומות שומרות על ChessHelper פעיל."
+    },
+    "d_subtitle": {
+        "message": "אני מבלה שעות כל שבוע לתיקון באגים, הוספה ושיפור יכולות, וטיפול במשוב מהמשתמשים. התמיכה שלך חיונית לתחזוקה נמשכת!"
+    },
+    "d_pp": {
+        "message": "תרומה דרך PayPal"
+    },
+    "d_kofi": {
+        "message": "תמכו בי דרך Ko-Fi"
+    },
+    "d_card": {
+        "message": "תרומה דרך כרטיס אשראי או חיוב"
+    },
+    "d_cred__1": {
+        "message": "בנוסף, תוכלו לשתף את ChessHelper עם חברים או להשאיר"
+    },
+    "d_cred__2": {
+        "message": "ביקורות"
+    },
+    "d_cred__3": {
+        "message": "תודה."
+    },
+    "s_title": {
+        "message": "יש בעיות עם ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "להלן כמה שלבי פיתרון שאפשר לנסות:"
+    },
+    "s_res__1": {
+        "message": "רענן את דף Chess.com."
+    },
+    "s_res__2": {
+        "message": "השבת ואז הפעל מחדש את ChessHelper."
+    },
+    "s_res__3": {
+        "message": "השבת כל הרחבות אחרות."
+    },
+    "s_res__4": {
+        "message": "הסר והתקן מחדש את ChessHelper."
+    },
+    "s_res__5": {
+        "message": "נקה את מטמון הדפדפן."
+    },
+    "s_emailme": {
+        "message": "אם הבעיה עדיין קיימת, בבקשה שלח לי אימייל אל"
+    },
+    "s_effic": {
+        "message": "כדי לעזור לי לסייע לך בצורה יעילה יותר, בבקשה כלול את המידע הבא:"
+    },
+    "s_detail__1": {
+        "message": "הגרסה של ChessHelper שאתה משתמש בה."
+    },
+    "s_detail__2": {
+        "message": "צילום מסך או וידאו המדגים את הבעיה."
+    },
+    "s_detail__3": {
+        "message": "תיאור מפורט של הבעיה."
+    },
+    "s_detail__4": {
+        "message": "דפדפן וגרסתו (לדוג, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "חתיכות מותאמות / לוח:"
+    },
+    "menu_pieces": {
+        "message": "בחר יחידות:"
+    },
+    "menu_board": {
+        "message": "בחר לוח:"
+    },
+    "menu_boardfeat": {
+        "message": "תכונות הלוח:"
+    }
+}

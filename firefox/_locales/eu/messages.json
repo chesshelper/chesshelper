@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Gai pertsonalizatuak, taulak - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Temak, piesak, letra-tipoak eta taulak konfiguratzeko, ohar gogorrak, agertzen diren jakinarazpenak, popup-ak eta abar kentzeko."
+    },
+    "disabled": {
+        "message": "ChessHelper desgaitu duzu"
+    },
+    "header_title": {
+        "message": "ChessHelper Luzapena"
+    },
+    "header_subtitle": {
+        "message": "Maite dugu Chess.com! Murriztu dezagun hobe."
+    },
+    "btn_donate": {
+        "message": "Eman"
+    },
+    "btn_support": {
+        "message": "Lortu laguntza"
+    },
+    "btn_reqfeature": {
+        "message": "Irakurpena eskatu"
+    },
+    "btn_goback": {
+        "message": "atzera joan"
+    },
+    "menu_main": {
+        "message": "Nagusi Ezaugarriak:"
+    },
+    "menu_sec": {
+        "message": "Gehigarri Ezaugarriak:"
+    },
+    "menu_palette": {
+        "message": "Kolore-paleta / letra-tipoa:"
+    },
+    "n_default": {
+        "message": "Lehenetsia"
+    },
+    "mi_1": {
+        "message": "Gaitu \"Arreta modua\" \n (Gomendatua Stream-entzako eta Bullet-entzako)"
+    },
+    "mi_2": {
+        "message": "Ezabatu Stream-a Orri Nagusian"
+    },
+    "mi_3": {
+        "message": "Gehitu HyperBullet aukera (30s)"
+    },
+    "mi_4": {
+        "message": "Ezabatu \"Nire buruz\" popup-a"
+    },
+    "mi_5": {
+        "message": "Ezgaitu Txata"
+    },
+    "mi_6": {
+        "message": "Ezkutatu txata jakinarazpena: \n\"Partida ez hasi, ez...\""
+    },
+    "mi_7": {
+        "message": "Ezarri taula 100% altuera finkoarekin"
+    },
+    "mi_8": {
+        "message": "Egin koordenatuak handiagoak"
+    },
+    "mi_9": {
+        "message": "Koordenatuak hiruza bakoitzean"
+    },
+    "mi_10": {
+        "message": "Kolore-paleta / letra-tipoa:"
+    },
+    "mi_11": {
+        "message": "Eginbat gutxitu"
+    },
+    "mi_12": {
+        "message": "Egin denbora kontrolak handiagoak"
+    },
+    "mi_13": {
+        "message": "Ezgaitu kurtsorea birbiltzean"
+    },
+    "mi_14": {
+        "message": "Erakutsi birkargatzeko aukera desgaitu da"
+    },
+    "mi_15": {
+        "message": "Beti freskatu orria (beta)"
+    },
+    "mi_16": {
+        "message": "Bikoitz klikatu erresignazioa \n(\"Ziur zaude\" popup gabe)"
+    },
+    "mi_17": {
+        "message": "Gehitu pantaila osoa botoia (eskubiko behean)"
+    },
+    "fonts_title": {
+        "message": "Hautatu letra-tipoa:"
+    },
+    "themes_title": {
+        "message": "Hautatu tema:"
+    },
+    "themes_label": {
+        "message": "BERRIAK"
+    },
+    "themes_msg": {
+        "message": "Hautatu Aukerak v1.1.9"
+    },
+    "theme_1": {
+        "message": "Lehenetsia (Berde Iluna)"
+    },
+    "d_title": {
+        "message": "Diru-laguntzak ChessHelper mantentzen dute eta funtzionatzen."
+    },
+    "d_subtitle": {
+        "message": "Astero orduak eman behar ditut akatsak konponduz, ezaugarriak gehituz eta hobetuz, eta erabiltzaileen iritzia hartuz. Zure laguntza funtsezkoa da etengabeko mantentzea!"
+    },
+    "d_pp": {
+        "message": "Eman PayPal bidez"
+    },
+    "d_kofi": {
+        "message": "Lagundu nire Ko-Fi-aren bidez"
+    },
+    "d_card": {
+        "message": "Eman kreditu edo debito txartel bidez"
+    },
+    "d_cred__1": {
+        "message": "Zure lagunekin partekatu ere dezakezu ChessHelper edo utzi"
+    },
+    "d_cred__2": {
+        "message": "iruzkina"
+    },
+    "d_cred__3": {
+        "message": "Eskerrik asko."
+    },
+    "s_title": {
+        "message": "Zalantzarik daukazu ChessHelper-rekin?"
+    },
+    "s_subtitle": {
+        "message": "Hau da zure problemak konpontzeko zenbaki batzuk:"
+    },
+    "s_res__1": {
+        "message": "Freskatu Chess.com orria."
+    },
+    "s_res__2": {
+        "message": "Ezgaitu eta gero berriz gaitu ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Ezgaitu beste edozein extensio."
+    },
+    "s_res__4": {
+        "message": "Desinstalatu eta berriz instalatu ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Garbitu arakatzailearen cache-a."
+    },
+    "s_emailme": {
+        "message": "Zalantza orduan, bidali mezu elektronikoa hona:"
+    },
+    "s_effic": {
+        "message": "Zure laguntza eraginkorrago emateko, mesedez, gehitu informazio hau:"
+    },
+    "s_detail__1": {
+        "message": "ChessHelper erabilten ari zaren bertsioa."
+    },
+    "s_detail__2": {
+        "message": "Problemaren adibide bat edo bideoa."
+    },
+    "s_detail__3": {
+        "message": "Zalantzaaren xehetasunak."
+    },
+    "s_detail__4": {
+        "message": "Zure arakatzailea eta bere bertsioa (adibidez, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Pezzak / Taula Pertsonalizatuak:"
+    },
+    "menu_pieces": {
+        "message": "Hautatu Piezak:"
+    },
+    "menu_board": {
+        "message": "Hautatu Taula:"
+    },
+    "menu_boardfeat": {
+        "message": "Taularen ezaugarriak:"
+    }
+}

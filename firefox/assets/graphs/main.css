@@ -12,5 +12,7 @@
 //   -
 //   - You should have received a copy of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
 //   - along with ChessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+
 */
 
+@-webkit-keyframes appear{0%{opacity:0}70%{opacity:0}100%{opacity:1}}@keyframes appear{0%{opacity:0}70%{opacity:0}100%{opacity:1}}.game-preview-component{-webkit-animation:appear .3s linear both;animation:appear .3s linear both}.board-layout-chessboard{position:relative!important}.promotion-window,.top.promotion-window{opacity:1!important;position:absolute!important;z-index:10000!important;pointer-events:all!important;-webkit-user-select:all!important;-moz-user-select:all!important;user-select:all!important;background-color:#fff}.promotion-window>*{opacity:1!important;-webkit-user-select:auto!important;-moz-user-select:auto!important;-ms-user-select:auto!important;user-select:auto!important}.coordinates_inj,.coordinates_inj>*{-webkit-user-select:none!important;-moz-user-select:none!important;-ms-user-select:none!important;user-select:none!important;pointer-events:none!important}

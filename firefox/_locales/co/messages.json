@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Temi Persunalizati, Tavule - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Cunfigurà temi novi, pezzi, caratteri, è tavule, levà notificazioni fastidiose, popup, è altri."
+    },
+    "disabled": {
+        "message": "Hai spentu ChessHelper"
+    },
+    "header_title": {
+        "message": "Estensione ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Amemu Chess.com! Facciamulu ancu megliu."
+    },
+    "btn_donate": {
+        "message": "Dunà"
+    },
+    "btn_support": {
+        "message": "Averi sustegnu"
+    },
+    "btn_reqfeature": {
+        "message": "Dimanda carataristica"
+    },
+    "btn_goback": {
+        "message": "torna ind'a casa"
+    },
+    "menu_main": {
+        "message": "Caratteristiche Principali:"
+    },
+    "menu_sec": {
+        "message": "Caratteristiche Addiziunali:"
+    },
+    "menu_palette": {
+        "message": "Palette di culori / caratteri:"
+    },
+    "n_default": {
+        "message": "Predefinitu"
+    },
+    "mi_1": {
+        "message": "Attiva 'Modu Concentratu' \n(megliu per Strimma è Bullet)"
+    },
+    "mi_2": {
+        "message": "Disattiva strimma in a pagina principale"
+    },
+    "mi_3": {
+        "message": "Adda Sciegli HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Disattiva pop-up 'À propositu di mè'"
+    },
+    "mi_5": {
+        "message": "Disattiva a Chat"
+    },
+    "mi_6": {
+        "message": "Asconde notifiche di a chat: \n'No principià una partita s'è..."
+    },
+    "mi_7": {
+        "message": "Imposta tavula cu un'altezza fissata di 100%"
+    },
+    "mi_8": {
+        "message": "Faci i coordìnati più grandi"
+    },
+    "mi_9": {
+        "message": "Coordìnati in ogni quadratu"
+    },
+    "mi_10": {
+        "message": "Palette di culori / caratteri:"
+    },
+    "mi_11": {
+        "message": "Fali menusi visibili"
+    },
+    "mi_12": {
+        "message": "Controlli di tempu più grandi"
+    },
+    "mi_13": {
+        "message": "Disattiva cambiamentu cursore all'hover"
+    },
+    "mi_14": {
+        "message": "Mostra l'opzione ricarica s'è disconnessu"
+    },
+    "mi_15": {
+        "message": "Ricarica a pagina automaticamente (beta)"
+    },
+    "mi_16": {
+        "message": "Doppiu clicca per disdirà \n(senza pop-up 'Si sicuru')"
+    },
+    "mi_17": {
+        "message": "Adda bottone 'Schermo interu' (inzona a destra in bassu)"
+    },
+    "fonts_title": {
+        "message": "Scegli u carattere:"
+    },
+    "themes_title": {
+        "message": "Scegli u tema:"
+    },
+    "themes_label": {
+        "message": "NOVU"
+    },
+    "themes_msg": {
+        "message": "Novità Opzioni v1.1.9"
+    },
+    "theme_1": {
+        "message": "Predefinitu (Verde Scuru)"
+    },
+    "d_title": {
+        "message": "Donazioni mantennenu in vita ChessHelper."
+    },
+    "d_subtitle": {
+        "message": "Spignu ore ogni settimana à rimirà bug, addivintà è millurà carataristichi, è rispunnighjà a l'avisu di l'utenti. U vostru sustegnu hè cruciale per a manutenzione continua!"
+    },
+    "d_pp": {
+        "message": "Duna tramite PayPal"
+    },
+    "d_kofi": {
+        "message": "Sustegnuime nantu a Ko-Fi"
+    },
+    "d_card": {
+        "message": "Duna tramite carta di creditu o debitu"
+    },
+    "d_cred__1": {
+        "message": "Pudete ancu sparghje ChessHelper cù i vostri amichi o lascià un"
+    },
+    "d_cred__2": {
+        "message": "pareriu"
+    },
+    "d_cred__3": {
+        "message": "Grazie."
+    },
+    "s_title": {
+        "message": "Intricciu cun ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Eccu qualchì passu di risoluzioni chì pudete pruvà:"
+    },
+    "s_res__1": {
+        "message": "Ricaricà a pagina di Chess.com."
+    },
+    "s_res__2": {
+        "message": "Disattivà è dopu riattivà ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Disattivà ogni àutru estensione."
+    },
+    "s_res__4": {
+        "message": "Disinstallà è reinstallà ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Svuotà a cache di u navigatore."
+    },
+    "s_emailme": {
+        "message": "S' u prublema hè sempre quì, vi preghjemu di mè scrive à"
+    },
+    "s_effic": {
+        "message": "Per aiutarmi à assistavvi in manera più efficace, vi preghjemu di cumprenda sta infurmazione:"
+    },
+    "s_detail__1": {
+        "message": "A versione di ChessHelper chì stai aduprandu."
+    },
+    "s_detail__2": {
+        "message": "Una screnshot o un video chì dimustra u prublema."
+    },
+    "s_detail__3": {
+        "message": "Una descrizzione dettagliata di u prublema."
+    },
+    "s_detail__4": {
+        "message": "U navigatore vostro è a so versione (es. Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Pezzi / Tavula Persunalizati:"
+    },
+    "menu_pieces": {
+        "message": "Scegli Pezzi:"
+    },
+    "menu_board": {
+        "message": "Scegli Tavula:"
+    },
+    "menu_boardfeat": {
+        "message": "Carataristichi Tavula:"
+    }
+}

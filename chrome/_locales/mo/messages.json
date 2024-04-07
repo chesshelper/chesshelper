@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Tem de personalizare Chess.com, Tablouri - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Configurați teme noi, piese, fonturi și table, eliminați notificările enervante, ferestrele pop-up, și altele."
+    },
+    "disabled": {
+        "message": "Ai dezactivat ChessHelper"
+    },
+    "header_title": {
+        "message": "Extensie ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Iubim Chess.com! Haideți să-l facem și mai bun."
+    },
+    "btn_donate": {
+        "message": "Donează"
+    },
+    "btn_support": {
+        "message": "Obține suport"
+    },
+    "btn_reqfeature": {
+        "message": "Solicitare funcționalitate"
+    },
+    "btn_goback": {
+        "message": "înapoi"
+    },
+    "menu_main": {
+        "message": "Caracteristici principale:"
+    },
+    "menu_sec": {
+        "message": "Caracteristici suplimentare:"
+    },
+    "menu_palette": {
+        "message": "Paletă de culori / font:"
+    },
+    "n_default": {
+        "message": "Implicit"
+    },
+    "mi_1": {
+        "message": "Activați „Mod de focalizare” \n (cel mai bun pentru Streams și Bullet)"
+    },
+    "mi_2": {
+        "message": "Dezactivați fluxul pe pagina principală"
+    },
+    "mi_3": {
+        "message": "Adăugați opțiunea HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Dezactivați fereastra pop-up „Despre mine”"
+    },
+    "mi_5": {
+        "message": "Dezactivați Chat-ul"
+    },
+    "mi_6": {
+        "message": "Ascundeți notificarea chat-ului: \n„Nu începeți un joc dacă nu...”"
+    },
+    "mi_7": {
+        "message": "Setați tabla la o înălțime fixă de 100%"
+    },
+    "mi_8": {
+        "message": "Măriți coordonatele"
+    },
+    "mi_9": {
+        "message": "Coordonate pe fiecare pătrat"
+    },
+    "mi_10": {
+        "message": "Paletă de culori / font:"
+    },
+    "mi_11": {
+        "message": "Faceți-le mai puțin vizibile"
+    },
+    "mi_12": {
+        "message": "Controale de timp mai mari"
+    },
+    "mi_13": {
+        "message": "Dezactivați schimbarea cursorului la hover"
+    },
+    "mi_14": {
+        "message": "Afișați opțiunea de reîncărcare dacă sunteți deconectat"
+    },
+    "mi_15": {
+        "message": "Reîmprospătați pagina automat (beta)"
+    },
+    "mi_16": {
+        "message": "Dublu-click pentru a renunța \n(fără fereastra „Sunteți sigur”)"
+    },
+    "mi_17": {
+        "message": "Adăugați butonul de ecran complet (colțul din dreapta jos)"
+    },
+    "fonts_title": {
+        "message": "Selectați fontul:"
+    },
+    "themes_title": {
+        "message": "Selectați tema:"
+    },
+    "themes_label": {
+        "message": "NOU"
+    },
+    "themes_msg": {
+        "message": "Opțiuni noi v1.1.9"
+    },
+    "theme_1": {
+        "message": "Implicit (Verde închis)"
+    },
+    "d_title": {
+        "message": "Donațiile mențin ChessHelper funcțional."
+    },
+    "d_subtitle": {
+        "message": "Petrec ore în fiecare săptămână rezolvând bug-uri, adăugând și îmbunătățind caracteristici și abordând feedback-ul utilizatorilor. Sprijinul tău este crucial pentru menținerea continuă!"
+    },
+    "d_pp": {
+        "message": "Donează prin PayPal"
+    },
+    "d_kofi": {
+        "message": "Susține-mă pe Ko-Fi"
+    },
+    "d_card": {
+        "message": "Donează cu card de credit sau debit"
+    },
+    "d_cred__1": {
+        "message": "Poți, de asemenea, să împărtășești ChessHelper cu prietenii tăi sau să lași o"
+    },
+    "d_cred__2": {
+        "message": "recenzie"
+    },
+    "d_cred__3": {
+        "message": "Mulțumesc."
+    },
+    "s_title": {
+        "message": "Ai probleme cu ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Iată câteva pași de depanare pe care îi poți încerca:"
+    },
+    "s_res__1": {
+        "message": "Reîmprospătați pagina Chess.com."
+    },
+    "s_res__2": {
+        "message": "Dezactivați și apoi activați din nou ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Dezactivați orice alte extensii."
+    },
+    "s_res__4": {
+        "message": "Dezinstalați și reinstalați ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Ștergeți cache-ul browser-ului."
+    },
+    "s_emailme": {
+        "message": "Dacă problema persistă, vă rog să-mi trimiteți un email la"
+    },
+    "s_effic": {
+        "message": "Pentru a mă ajuta să vă asist mai eficient, vă rugăm să includeți aceste informații:"
+    },
+    "s_detail__1": {
+        "message": "Versiunea ChessHelper pe care o utilizați."
+    },
+    "s_detail__2": {
+        "message": "Captură de ecran sau video care demonstrează problema."
+    },
+    "s_detail__3": {
+        "message": "O descriere detaliată a problemei."
+    },
+    "s_detail__4": {
+        "message": "Browserul dumneavoastră și versiunea acestuia (de exemplu, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Piese / Tablă personalizate:"
+    },
+    "menu_pieces": {
+        "message": "Selectați Piesele:"
+    },
+    "menu_board": {
+        "message": "Selectați Tabla:"
+    },
+    "menu_boardfeat": {
+        "message": "Caracteristici Tablă:"
+    }
+}

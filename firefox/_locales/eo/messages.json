@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Propraj Temoj, Tabuloj - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Agordi novajn temojn, pecojn, tiparojn, kaj tabulojn, forigi ĝenajn sciigojn, aperfenestrojn, kaj tiel plu."
+    },
+    "disabled": {
+        "message": "Vi malŝaltis ChessHelper"
+    },
+    "header_title": {
+        "message": "ChessHelper Etendaĵo"
+    },
+    "header_subtitle": {
+        "message": "Ni amas Chess.com! Ni faru ĝin eĉ pli bonan."
+    },
+    "btn_donate": {
+        "message": "Donacu"
+    },
+    "btn_support": {
+        "message": "Ricevu subtenon"
+    },
+    "btn_reqfeature": {
+        "message": "Petu funkcion"
+    },
+    "btn_goback": {
+        "message": "reiru"
+    },
+    "menu_main": {
+        "message": "Ĉefaj Funkcioj:"
+    },
+    "menu_sec": {
+        "message": "Aldonaj Funkcioj:"
+    },
+    "menu_palette": {
+        "message": "Koloropaleta / tiparo:"
+    },
+    "n_default": {
+        "message": "Defaŭlta"
+    },
+    "mi_1": {
+        "message": "Ŝalti \"Fokusmodon\" \n (plej bona por fluoj kaj Kugloj)"
+    },
+    "mi_2": {
+        "message": "Malŝalti fluon sur Ĉefa paĝo"
+    },
+    "mi_3": {
+        "message": "Aldoni elekton HyperKuglo (30s)"
+    },
+    "mi_4": {
+        "message": "Malŝalti aperfenestron pri \"Pri mi\""
+    },
+    "mi_5": {
+        "message": "Malŝalti Babilejon"
+    },
+    "mi_6": {
+        "message": "Kaŝi sciigon de babilejo: \n\"Ne ekkomencu ludon se..."
+    },
+    "mi_7": {
+        "message": "Agordi tabulon je 100% fiksa alteco"
+    },
+    "mi_8": {
+        "message": "Fari koordinatojn pli grandaj"
+    },
+    "mi_9": {
+        "message": "Koordinatoj sur ĉiu kvaro"
+    },
+    "mi_10": {
+        "message": "Koloropaleta / tiparo:"
+    },
+    "mi_11": {
+        "message": "Fari ilin malpli videblaj"
+    },
+    "mi_12": {
+        "message": "Pligrandigi tempregadojn"
+    },
+    "mi_13": {
+        "message": "Malŝalti ŝanĝon de kursoro sur pasigo"
+    },
+    "mi_14": {
+        "message": "Montri reŝargi opcion se malkonektiĝis"
+    },
+    "mi_15": {
+        "message": "Reŝargi paĝon aŭtomate (beta)"
+    },
+    "mi_16": {
+        "message": "Duobla klako rezigni \n(sen \"Ĉu vi certas\" aperfenestro)"
+    },
+    "mi_17": {
+        "message": "Aldoni plenekranan butonon (maldekstre malsupre)"
+    },
+    "fonts_title": {
+        "message": "Elektu tiparon:"
+    },
+    "themes_title": {
+        "message": "Elektu temon:"
+    },
+    "themes_label": {
+        "message": "NOVA"
+    },
+    "themes_msg": {
+        "message": "Novaj opcioj v1.1.9"
+    },
+    "theme_1": {
+        "message": "Defaŭlta (Malluma Verda)"
+    },
+    "d_title": {
+        "message": "Donacoj daŭrigas funkciadon de ChessHelper."
+    },
+    "d_subtitle": {
+        "message": "Mi pasigas horojn ĉiusemajne riparante erarojn, aldonante kaj plibonigante funkciojn, kaj traktante la reagon de uzantoj. Via subteno estas esenca por daŭrigita prizorgo!"
+    },
+    "d_pp": {
+        "message": "Donacu per PayPal"
+    },
+    "d_kofi": {
+        "message": "Subtenu min je Ko-Fi"
+    },
+    "d_card": {
+        "message": "Donacu per kredito aŭ debeto"
+    },
+    "d_cred__1": {
+        "message": "Vi ankaŭ povas kunhavigi ChessHelper kun viaj amikoj aŭ lasi"
+    },
+    "d_cred__2": {
+        "message": "recenzo"
+    },
+    "d_cred__3": {
+        "message": "Dankon."
+    },
+    "s_title": {
+        "message": "Problemoj kun ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Jen kelkaj solvaj paŝoj kiujn vi povas provi:"
+    },
+    "s_res__1": {
+        "message": "Reŝargu la paĝon de Chess.com."
+    },
+    "s_res__2": {
+        "message": "Malŝaltu kaj poste reŝaltu ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Malŝaltu aliajn etendaĵojn."
+    },
+    "s_res__4": {
+        "message": "Malinstalu kaj reinstalu ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Vakigu la kaskon de la retumilo."
+    },
+    "s_emailme": {
+        "message": "Se la problemon ankoraŭ ekzistas, bonvolu retpoŝti min je"
+    },
+    "s_effic": {
+        "message": "Por helpi min helpi vin pli efike, bonvolu inkluzivi ĉi tiun informon:"
+    },
+    "s_detail__1": {
+        "message": "La version de ChessHelper kiun vi uzas."
+    },
+    "s_detail__2": {
+        "message": "Ekrankopion aŭ filmon demontrantan la problemon."
+    },
+    "s_detail__3": {
+        "message": "Detalan priskribon de la problemo."
+    },
+    "s_detail__4": {
+        "message": "Via retumilo kaj ĝia versio (ekz., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Propraj Pecoj / Tabulo:"
+    },
+    "menu_pieces": {
+        "message": "Elektu Pecojn:"
+    },
+    "menu_board": {
+        "message": "Elektu Tabulon:"
+    },
+    "menu_boardfeat": {
+        "message": "Tabulkarakterizaĵoj:"
+    }
+}

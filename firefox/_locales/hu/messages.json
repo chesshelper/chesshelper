@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Egyedi Témák, Táblák - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Új témák, bábuk, betűtípusok és táblák beállítása, idegesítő értesítések, felugró ablakok stb. eltávolítása."
+    },
+    "disabled": {
+        "message": "Kikapcsoltad a ChessHelper-t"
+    },
+    "header_title": {
+        "message": "ChessHelper Kiegészítő"
+    },
+    "header_subtitle": {
+        "message": "Szeretjük a Chess.com-ot! Tegyük még jobbá."
+    },
+    "btn_donate": {
+        "message": "Adományozás"
+    },
+    "btn_support": {
+        "message": "Támogatás igénylése"
+    },
+    "btn_reqfeature": {
+        "message": "Javaslat beküldése"
+    },
+    "btn_goback": {
+        "message": "vissza"
+    },
+    "menu_main": {
+        "message": "Főbb jellemzők:"
+    },
+    "menu_sec": {
+        "message": "További jellemzők:"
+    },
+    "menu_palette": {
+        "message": "Színpaletta / betűtípus:"
+    },
+    "n_default": {
+        "message": "Alapértelmezett"
+    },
+    "mi_1": {
+        "message": "Engedélyezze a „Focus mód”-ot \n (legjobb a Streamekhez és Bullet játékokhoz)"
+    },
+    "mi_2": {
+        "message": "Stream kikapcsolása a főoldalon"
+    },
+    "mi_3": {
+        "message": "Hozzáad HyperBullet lehetőséget (30s)"
+    },
+    "mi_4": {
+        "message": "„Rólam” felugró ablak kikapcsolása"
+    },
+    "mi_5": {
+        "message": "Chat kikapcsolása"
+    },
+    "mi_6": {
+        "message": "Chat értesítés elrejtése: \n„Ne indíts játékot, hacsak...”"
+    },
+    "mi_7": {
+        "message": "Tábla 100% rögzített magasságra állítása"
+    },
+    "mi_8": {
+        "message": "Koordináták nagyítása"
+    },
+    "mi_9": {
+        "message": "Koordináták minden négyzeten"
+    },
+    "mi_10": {
+        "message": "Színpaletta / betűtípus:"
+    },
+    "mi_11": {
+        "message": "Kisebb láthatóságuk"
+    },
+    "mi_12": {
+        "message": "Nagyobb időkontrollok"
+    },
+    "mi_13": {
+        "message": "Kurzorváltás kikapcsolása ráhúzáskor"
+    },
+    "mi_14": {
+        "message": "Újratöltési opció megjelenítése kapcsolatvesztés esetén"
+    },
+    "mi_15": {
+        "message": "Oldal automatikus frissítése (béta)"
+    },
+    "mi_16": {
+        "message": "Dupla kattintás feladásra \n(„Biztos vagy benne” felugró ablak nélkül)"
+    },
+    "mi_17": {
+        "message": "Teljes képernyő gomb hozzáadása (jobb alsó sarok)"
+    },
+    "fonts_title": {
+        "message": "Válassza ki a betűtípust:"
+    },
+    "themes_title": {
+        "message": "Válassza ki a témát:"
+    },
+    "themes_label": {
+        "message": "ÚJ"
+    },
+    "themes_msg": {
+        "message": "Új opciók v1.1.9"
+    },
+    "theme_1": {
+        "message": "Alapértelmezett (Sötétzöld)"
+    },
+    "d_title": {
+        "message": "Az adományok lehetővé teszik, hogy a ChessHelper tovább működjön."
+    },
+    "d_subtitle": {
+        "message": "Hetente órákat töltök a hibák javításával, új funkciók hozzáadásával és fejlesztésével, valamint a felhasználói visszajelzések kezelésével. Támogatása létfontosságú a folyamatos karbantartáshoz!"
+    },
+    "d_pp": {
+        "message": "Adományozás PayPal-on keresztül"
+    },
+    "d_kofi": {
+        "message": "Támogass engem a Ko-Fi-n"
+    },
+    "d_card": {
+        "message": "Adományozás hitel- vagy bankkártyával"
+    },
+    "d_cred__1": {
+        "message": "Megoszthatja a ChessHelper-t barátaival, vagy hagyhat egy"
+    },
+    "d_cred__2": {
+        "message": "értékelést"
+    },
+    "d_cred__3": {
+        "message": "Köszönöm."
+    },
+    "s_title": {
+        "message": "Problémái vannak a ChessHelperrel?"
+    },
+    "s_subtitle": {
+        "message": "Itt vannak néhány hibaelhárítási lépés, amit kipróbálhat:"
+    },
+    "s_res__1": {
+        "message": "Frissítse a Chess.com oldalt."
+    },
+    "s_res__2": {
+        "message": "Kapcsolja ki, majd engedélyezze újra a ChessHelper-t."
+    },
+    "s_res__3": {
+        "message": "Kapcsolja ki a többi bővítményt."
+    },
+    "s_res__4": {
+        "message": "Telepítse újra a ChessHelper-t."
+    },
+    "s_res__5": {
+        "message": "Törölje a böngésző gyorsítótárát."
+    },
+    "s_emailme": {
+        "message": "Ha a probléma továbbra is fennáll, kérem írjon nekem e-mailt a következő címre:"
+    },
+    "s_effic": {
+        "message": "Segítsen nekem hatékonyabban segíteni Önt, kérjük, tartalmazza ezt az információt:"
+    },
+    "s_detail__1": {
+        "message": "A használt ChessHelper verziója."
+    },
+    "s_detail__2": {
+        "message": "A problémát bemutató képernyőkép vagy videó."
+    },
+    "s_detail__3": {
+        "message": "A probléma részletes leírása."
+    },
+    "s_detail__4": {
+        "message": "Az Ön böngészője és annak verziója (pl. Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Egyedi Bábuk / Tábla:"
+    },
+    "menu_pieces": {
+        "message": "Válassza ki a Bábukat:"
+    },
+    "menu_board": {
+        "message": "Válassza ki a Táblát:"
+    },
+    "menu_boardfeat": {
+        "message": "Táblajellemzők:"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Custom Themes, Papan - ChessHelper Chess.com"
+    },
+    "extensionDescription": {
+        "message": "2024 Ngatur tema anyar, potongan, huruf, sareng papan, meunteun pesen-pesen geus nucah, popups, sareng sejen."
+    },
+    "disabled": {
+        "message": "Anjeun narik ChessHelper"
+    },
+    "header_title": {
+        "message": "Pangrobengan ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Urang suka Chess.com! Mari kita hasilkeun leuwih leresna."
+    },
+    "btn_donate": {
+        "message": "Sumbang"
+    },
+    "btn_support": {
+        "message": "Dukung"
+    },
+    "btn_reqfeature": {
+        "message": "Mintakeun Fitur"
+    },
+    "btn_goback": {
+        "message": "balik"
+    },
+    "menu_main": {
+        "message": "Fitur Utama:"
+    },
+    "menu_sec": {
+        "message": "Fitur Tambahan:"
+    },
+    "menu_palette": {
+        "message": "Palet warna / huruf:"
+    },
+    "n_default": {
+        "message": "Default"
+    },
+    "mi_1": {
+        "message": "Hidupkeun \"Mode Fokus\" \n (paling cocog kanggo Stream sareng Bullet)"
+    },
+    "mi_2": {
+        "message": "Pikeunkeun Stream dina Laman Utama"
+    },
+    "mi_3": {
+        "message": "Tambahkeun Pilihan HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Pikeunkeun popup \"Tentang abdi\""
+    },
+    "mi_5": {
+        "message": "Pikeunkeun Chat"
+    },
+    "mi_6": {
+        "message": "Sembunyikeun pemberitahuan obrolan: \n\"Teu aya réka game upami...\""
+    },
+    "mi_7": {
+        "message": "Atur papan kana katingali 100%"
+    },
+    "mi_8": {
+        "message": "Gedekeun koordinat"
+    },
+    "mi_9": {
+        "message": "Koordinat dina sababaraha kotak"
+    },
+    "mi_10": {
+        "message": "Palet warna / huruf:"
+    },
+    "mi_11": {
+        "message": "Gedekeun makeun leuwih henteu kapayun"
+    },
+    "mi_12": {
+        "message": "Kontrol weutek leuwih gede"
+    },
+    "mi_13": {
+        "message": "Pikeunkeun ganti kursor nalika nyentuh"
+    },
+    "mi_14": {
+        "message": "Tunjukkeun opsi ngamuatkeun upami teu nyambung"
+    },
+    "mi_15": {
+        "message": "Muat ulang kaca automatik (beta)"
+    },
+    "mi_16": {
+        "message": "Gandakan klik turun \n(tanpa popup \"Teu yakin\")"
+    },
+    "mi_17": {
+        "message": "Tambahkeun tombol layar penuh (cukup kanan handap)"
+    },
+    "fonts_title": {
+        "message": "Pilih huruf:"
+    },
+    "themes_title": {
+        "message": "Pilih tema:"
+    },
+    "themes_label": {
+        "message": "Anyar"
+    },
+    "themes_msg": {
+        "message": "Pilihan Anyar v1.1.9"
+    },
+    "theme_1": {
+        "message": "Default (Ijo Peteng)"
+    },
+    "d_title": {
+        "message": "Sumbangan ngarereh ChessHelper terus nepi."
+    },
+    "d_subtitle": {
+        "message": "Abdi ngahurungkeun waktos tiap minggu ngaropéa bug, nambahan sareng ngahiji fitur, sareng nyambut masukan pamaké. Dukungan anjeun penting kanggo perawatan anu terus!"
+    },
+    "d_pp": {
+        "message": "Sumangga via PayPal"
+    },
+    "d_kofi": {
+        "message": "Dukung abdi dina Ko-Fi"
+    },
+    "d_card": {
+        "message": "Sumangga via kartu kredit atawa debit"
+    },
+    "d_cred__1": {
+        "message": "Anjeun ogé bisa ngamajukeun ChessHelper ka sahabat anjeun atanapi ningali"
+    },
+    "d_cred__2": {
+        "message": "tinjauan"
+    },
+    "d_cred__3": {
+        "message": "Hatur nuhun."
+    },
+    "s_title": {
+        "message": "Kahartosan sareng ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Dina ieu aya langkah paménta anjeun tiasa coba:"
+    },
+    "s_res__1": {
+        "message": "Muat ulang kaca Chess.com."
+    },
+    "s_res__2": {
+        "message": "Pikeunkeun sareng leresna deui ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Pikeunkeun hiji extension sanés."
+    },
+    "s_res__4": {
+        "message": "Ngabuseuk sareng ngaré-éngseuk deui ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Sihir cache pamiaré."
+    },
+    "s_emailme": {
+        "message": "Upami masalahna masih aya, sumangga email abdi dina"
+    },
+    "s_effic": {
+        "message": "Kanggo nulungan abdi boga sahiji, sumangga masihan informasi ieu:"
+    },
+    "s_detail__1": {
+        "message": "Versi ChessHelper anjeun anu dipaké."
+    },
+    "s_detail__2": {
+        "message": "Screenshot atanapi video nu nunjuk masalah."
+    },
+    "s_detail__3": {
+        "message": "Katerangan rinci ti masalahna."
+    },
+    "s_detail__4": {
+        "message": "Panyabar sareng versi panggih anjeun (conto: Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Potongan Kustom / Papan:"
+    },
+    "menu_pieces": {
+        "message": "Pilih Potongan:"
+    },
+    "menu_board": {
+        "message": "Pilih Papan:"
+    },
+    "menu_boardfeat": {
+        "message": "Fitur Papan:"
+    }
+}

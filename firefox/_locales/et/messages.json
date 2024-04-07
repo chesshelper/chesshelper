@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com'i kohandatud teemad, lauad - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Seadista uued teemad, tükid, fondid ja lauad, eemalda tüütud teated, hüpikaknad ja muu selline."
+    },
+    "disabled": {
+        "message": "Sa keerasid ChessHelper'i välja"
+    },
+    "header_title": {
+        "message": "ChessHelper'i laiendus"
+    },
+    "header_subtitle": {
+        "message": "Me armastame Chess.com'i! Tehkem see veel paremaks."
+    },
+    "btn_donate": {
+        "message": "Toeta"
+    },
+    "btn_support": {
+        "message": "Saada tuge"
+    },
+    "btn_reqfeature": {
+        "message": "Taotle omadust"
+    },
+    "btn_goback": {
+        "message": "mine tagasi"
+    },
+    "menu_main": {
+        "message": "Peamised funktsioonid:"
+    },
+    "menu_sec": {
+        "message": "Lisafunktsioonid:"
+    },
+    "menu_palette": {
+        "message": "Värvipalett / font:"
+    },
+    "n_default": {
+        "message": "Vaikimisi"
+    },
+    "mi_1": {
+        "message": "Luba „Fookusrežiim“ \n (parim striimimiseks ja Bullet'i jaoks)"
+    },
+    "mi_2": {
+        "message": "Keela voog põhilehel"
+    },
+    "mi_3": {
+        "message": "Lisa HyperBullet valik (30s)"
+    },
+    "mi_4": {
+        "message": "Keela „Minust“ hüpikaken"
+    },
+    "mi_5": {
+        "message": "Keela vestlus"
+    },
+    "mi_6": {
+        "message": "Peida vestluse teade: \n„Ära alusta mängu, kui...“"
+    },
+    "mi_7": {
+        "message": "Määra laud 100% fikseeritud kõrgusele"
+    },
+    "mi_8": {
+        "message": "Muuda koordinaate suuremaks"
+    },
+    "mi_9": {
+        "message": "Koordinaadid igal ruudul"
+    },
+    "mi_10": {
+        "message": "Värvipalett / font:"
+    },
+    "mi_11": {
+        "message": "Tee need vähem nähtavaks"
+    },
+    "mi_12": {
+        "message": "Suuremad ajakontrollid"
+    },
+    "mi_13": {
+        "message": "Keela kursori muutus hõljumisel"
+    },
+    "mi_14": {
+        "message": "Kuva laadimise võimalus, kui ühendus on katkenud"
+    },
+    "mi_15": {
+        "message": "Värskenda lehte automaatselt (beeta)"
+    },
+    "mi_16": {
+        "message": "Topeltklõps loobu \n(ilma „Oled kindel“ hüpikaknata)"
+    },
+    "mi_17": {
+        "message": "Lisa täisekraani nupp (paremal all nurgas)"
+    },
+    "fonts_title": {
+        "message": "Vali font:"
+    },
+    "themes_title": {
+        "message": "Vali teema:"
+    },
+    "themes_label": {
+        "message": "UUS"
+    },
+    "themes_msg": {
+        "message": "Uued valikud v1.1.9"
+    },
+    "theme_1": {
+        "message": "Vaikimisi (Tume roheline)"
+    },
+    "d_title": {
+        "message": "Annetused hoiavad ChessHelper'i töös."
+    },
+    "d_subtitle": {
+        "message": "Ma veedan iga nädal tunde vigade parandamiseks, omaduste lisamiseks ja parendamiseks ning kasutajate tagasisidele reageerimiseks. Sinu tugi on oluline jätkusuutlikkusele!"
+    },
+    "d_pp": {
+        "message": "Annetage PayPal'i kaudu"
+    },
+    "d_kofi": {
+        "message": "Toetage mind Ko-Fi-s"
+    },
+    "d_card": {
+        "message": "Annetage krediit- või deebetkaardiga"
+    },
+    "d_cred__1": {
+        "message": "Saate ka jagada ChessHelper'i oma sõpradega või jätta"
+    },
+    "d_cred__2": {
+        "message": "arvustus"
+    },
+    "d_cred__3": {
+        "message": "Aitäh."
+    },
+    "s_title": {
+        "message": "Probleemid ChessHelper'iga?"
+    },
+    "s_subtitle": {
+        "message": "Siin on mõned tõrkeotsingu sammud, mida saate proovida:"
+    },
+    "s_res__1": {
+        "message": "Värskenda Chess.com lehte."
+    },
+    "s_res__2": {
+        "message": "Keela ja luba uuesti ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Keela muud laiendused."
+    },
+    "s_res__4": {
+        "message": "Desinstalli ja installi uuesti ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Puhasta brauseri vahemälu."
+    },
+    "s_emailme": {
+        "message": "Kui probleem püsib, palun kirjuta mulle aadressil"
+    },
+    "s_effic": {
+        "message": "Et aidata mul sulle tõhusamalt abi osutada, lisa palun see teave:"
+    },
+    "s_detail__1": {
+        "message": "ChessHelper'i versioon, mida kasutad."
+    },
+    "s_detail__2": {
+        "message": "Ekraanipilt või video, mis näitab probleemi."
+    },
+    "s_detail__3": {
+        "message": "Üksikasjalik kirjeldus probleemist."
+    },
+    "s_detail__4": {
+        "message": "Sinu brauser ja selle versioon (nt Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Kohandatud tükid / laud:"
+    },
+    "menu_pieces": {
+        "message": "Vali tükid:"
+    },
+    "menu_board": {
+        "message": "Vali laud:"
+    },
+    "menu_boardfeat": {
+        "message": "Laua funktsioonid:"
+    }
+}

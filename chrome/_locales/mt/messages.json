@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Temi Personalizzati Chess.com, Boards - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Setup temi nuovi, pezzi, fonts, u boards, nehdmu notifikazzjonijiet għajja, popups, u affarijiet simili."
+    },
+    "disabled": {
+        "message": "Għalqt ChessHelper"
+    },
+    "header_title": {
+        "message": "Estensjoni ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Aħna nħobb il-Chess.com! Għamluh ikbar ukoll."
+    },
+    "btn_donate": {
+        "message": "Dona"
+    },
+    "btn_support": {
+        "message": "Ibghat appoġġ"
+    },
+    "btn_reqfeature": {
+        "message": "Itlob funzjonalità"
+    },
+    "btn_goback": {
+        "message": "mur lura"
+    },
+    "menu_main": {
+        "message": "Karin prinċipali:"
+    },
+    "menu_sec": {
+        "message": "Karin addizzjonali:"
+    },
+    "menu_palette": {
+        "message": "Paletta kulur / font:"
+    },
+    "n_default": {
+        "message": "Default"
+    },
+    "mi_1": {
+        "message": "Attiva 'Mod ta' Fokus' \n (aħjar għal Streams u Bullet)"
+    },
+    "mi_2": {
+        "message": "Skopri stream fuq il-paġna prinċipali"
+    },
+    "mi_3": {
+        "message": "Żid għażla HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Skopri popup 'Dwarni'"
+    },
+    "mi_5": {
+        "message": "Skopri il-Chat"
+    },
+    "mi_6": {
+        "message": "Aħbiż notifika tal-chat: \n 'Tlestix logħba malajr ħlief...'"
+    },
+    "mi_7": {
+        "message": "Setta il-board għal għoli ta' 100%"
+    },
+    "mi_8": {
+        "message": "Agħżel koordinati akbar"
+    },
+    "mi_9": {
+        "message": "Koordinati fuq kull kwadru"
+    },
+    "mi_10": {
+        "message": "Paletta kulur / font:"
+    },
+    "mi_11": {
+        "message": "Agħmelhom inqas ċarini"
+    },
+    "mi_12": {
+        "message": "Kontrolli ta' żmien akbar"
+    },
+    "mi_13": {
+        "message": "Skopri tibdil fl-isfel tal-korsur meta tħallat fuq"
+    },
+    "mi_14": {
+        "message": "Uri għażla ta' riffriskar jekk tkun diskonnessat"
+    },
+    "mi_15": {
+        "message": "Rinfraħħ il-paġna awtomatikament (beta)"
+    },
+    "mi_16": {
+        "message": "Doppjokkja resenja \n(bil-ħakma 'Int ċert' popup)"
+    },
+    "mi_17": {
+        "message": "Żid buttuna screen sħiħa (qiegħed id-deheb fuq ix-xellug dritt)"
+    },
+    "fonts_title": {
+        "message": "Agħżel font:"
+    },
+    "themes_title": {
+        "message": "Agħżel tema:"
+    },
+    "themes_label": {
+        "message": "GħALL-ĠDID"
+    },
+    "themes_msg": {
+        "message": "Għażliet Ġodda v1.1.9"
+    },
+    "theme_1": {
+        "message": "Default (Aħdar Skur)"
+    },
+    "d_title": {
+        "message": "Id-donazzjonijiet jżommuna ChessHelper aktar ma kull ma jkun"
+    },
+    "d_subtitle": {
+        "message": "Ngħixu sigħat kull ġimgħa b'reparazzjonijiet, żid u tħejjija ta' karatteristiċi, u jindirizzaw il-feedback tal-utent. L-appoġġ tiegħek huwa essenzjali għall-manutenzjoni kontinwa!"
+    },
+    "d_pp": {
+        "message": "Dona permezz ta' PayPal"
+    },
+    "d_kofi": {
+        "message": "Appoġġjani fuq Ko-Fi"
+    },
+    "d_card": {
+        "message": "Dona permezz ta' kartellu jew debit card"
+    },
+    "d_cred__1": {
+        "message": "Tista' wkoll taqsam ChessHelper ma' ħbiebek jew ċċedix"
+    },
+    "d_cred__2": {
+        "message": "reviżjoni"
+    },
+    "d_cred__3": {
+        "message": "Grazzi."
+    },
+    "s_title": {
+        "message": "Problemi mal-ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Hawn xi passi ta' soluzzjoni tista' tipprova:"
+    },
+    "s_res__1": {
+        "message": "Rinfraħħ il-paġna tal-Chess.com."
+    },
+    "s_res__2": {
+        "message": "Skopri u mbagħad erġa' bħall-ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Skopri xi estensjonijiet ieħor."
+    },
+    "s_res__4": {
+        "message": "Deinstalla u erġa' installa l-ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Ċċażza l-cache tal-browser."
+    },
+    "s_emailme": {
+        "message": "Jekk il-problema għaddejja, jekk jogħġbok ibgħatli email fuq"
+    },
+    "s_effic": {
+        "message": "Biex ngħinuk nassistu b'mod aktar effiċjenti, jekk jogħġbok inkluż dan l-informazzjoni:"
+    },
+    "s_detail__1": {
+        "message": "Il-verżjoni ta' ChessHelper li qed tuża."
+    },
+    "s_detail__2": {
+        "message": "Screenshot jew vidjo li juri l-problema."
+    },
+    "s_detail__3": {
+        "message": "Deskritt tal-problema b'dettall."
+    },
+    "s_detail__4": {
+        "message": "Il-browser tiegħek u l-verżjoni tiegħu (eżempju, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Pjanti / Board ċustum:"
+    },
+    "menu_pieces": {
+        "message": "Agħżel Pezzi:"
+    },
+    "menu_board": {
+        "message": "Agħżel Board:"
+    },
+    "menu_boardfeat": {
+        "message": "Karakteristiċi tal-Board:"
+    }
+}

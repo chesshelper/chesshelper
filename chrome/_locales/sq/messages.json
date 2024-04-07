@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Tema dhe Dërrasa të Personalizuara për Chess.com - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Rregullo temat, dërrasat, shkronjat, dhe dërrasat, hiqe njoftimet e pakëndshme, dritaret popup, dhe kështu me radhë."
+    },
+    "disabled": {
+        "message": "Ke çaktivizuar ChessHelper"
+    },
+    "header_title": {
+        "message": "Shtesë e ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Ne adhurojmë Chess.com! Le të bëjmë që të jetë edhe më mirë."
+    },
+    "btn_donate": {
+        "message": "Dhuroni"
+    },
+    "btn_support": {
+        "message": "Merrni mbështetje"
+    },
+    "btn_reqfeature": {
+        "message": "Kërko karakteristikë"
+    },
+    "btn_goback": {
+        "message": "kthehu prapa"
+    },
+    "menu_main": {
+        "message": "Karakteristikat Kryesore:"
+    },
+    "menu_sec": {
+        "message": "Karakteristikat Shtesë:"
+    },
+    "menu_palette": {
+        "message": "Paleta e Ngjyrave / Shkronjave:"
+    },
+    "n_default": {
+        "message": "Parazgjedhur"
+    },
+    "mi_1": {
+        "message": "Aktivizo \"Mód Fokusi\" \n (më i miri për Transmetimet dhe Bullet)"
+    },
+    "mi_2": {
+        "message": "Çaktivizo transmetimet në faqen kryesore"
+    },
+    "mi_3": {
+        "message": "Shto zgjedhjen HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Çaktivizo dritaren \"Mbi mua\""
+    },
+    "mi_5": {
+        "message": "Çaktivizo Bisedën"
+    },
+    "mi_6": {
+        "message": "Fshih njoftimin e bisedës: \n\"Mos fillo lojë pa...\""
+    },
+    "mi_7": {
+        "message": "Vendos tavolinën në lartësi të fiksuar 100%"
+    },
+    "mi_8": {
+        "message": "Bëj koordinatat më të mëdha"
+    },
+    "mi_9": {
+        "message": "Koordinatat në çdo katror"
+    },
+    "mi_10": {
+        "message": "Paleta e Ngjyrave / Shkronjave:"
+    },
+    "mi_11": {
+        "message": "Bëji ato më pak të dukshme"
+    },
+    "mi_12": {
+        "message": "Kontrollat e kohës më të mëdha"
+    },
+    "mi_13": {
+        "message": "Çaktivizo ndryshimin e kursorit kur kalon mbi"
+    },
+    "mi_14": {
+        "message": "Shfaq opsionin e rifreskimit nëse je i shkëputur"
+    },
+    "mi_15": {
+        "message": "Rifresko faqen automatikisht (beta)"
+    },
+    "mi_16": {
+        "message": "Dy-kliko për të dorëzuar \n(pa dritaren \"A je i sigurt\".)"
+    },
+    "mi_17": {
+        "message": "Shto butonin e ekranit të plotë (në këndin e djathtë poshtë)"
+    },
+    "fonts_title": {
+        "message": "Zgjidhni Shkronjën:"
+    },
+    "themes_title": {
+        "message": "Zgjidhni Temën:"
+    },
+    "themes_label": {
+        "message": "E RE"
+    },
+    "themes_msg": {
+        "message": "Opsione të Reja v1.1.9"
+    },
+    "theme_1": {
+        "message": "Parazgjedhur (E Gjelbër e Errët)"
+    },
+    "d_title": {
+        "message": "Dhurimet mbajnë ChessHelper në funksion."
+    },
+    "d_subtitle": {
+        "message": "Unë kalloj orë çdo javë duke ndrequr gabimet, shtuar dhe përmirësuar karakteristikat, dhe për të trajtuar komentet e përdoruesve. Mbështetja juaj është e rëndësishme për mirëmbajtjen e vazhdueshme!"
+    },
+    "d_pp": {
+        "message": "Dhuroni përmes PayPal"
+    },
+    "d_kofi": {
+        "message": "Mbështeteni në Ko-Fi"
+    },
+    "d_card": {
+        "message": "Dhuroni përmes kartës kreditore ose debiti"
+    },
+    "d_cred__1": {
+        "message": "Mund të ndani gjithashtu ChessHelper me miqtë tuaj ose të lini një"
+    },
+    "d_cred__2": {
+        "message": "revistë"
+    },
+    "d_cred__3": {
+        "message": "Faleminderit."
+    },
+    "s_title": {
+        "message": "Probleme me ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Këtu janë disa hapa për zgjidhjen e problemeve që mund të provoni:"
+    },
+    "s_res__1": {
+        "message": "Rifresko faqen e Chess.com."
+    },
+    "s_res__2": {
+        "message": "Çaktivizo dhe pastaj aktivizo përsëri ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Çaktivizo çdo shtesë tjetër."
+    },
+    "s_res__4": {
+        "message": "Çinstalo dhe rinstalo ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Pastro keqkuptimin e shfletuesit."
+    },
+    "s_emailme": {
+        "message": "Nëse problema vazhdon, ju lutem më dërgoni email në"
+    },
+    "s_effic": {
+        "message": "Për të më ndihmuar të ju ndihmoj më efikas, ju lutem përfshini këtë informacion:"
+    },
+    "s_detail__1": {
+        "message": "Versioni i ChessHelper që po përdorni."
+    },
+    "s_detail__2": {
+        "message": "Një screenshot ose video që tregon problemën."
+    },
+    "s_detail__3": {
+        "message": "Një përshkrim të hollësishëm të çështjes."
+    },
+    "s_detail__4": {
+        "message": "Shfletuesi juaj dhe versioni i tij (p.sh., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Dërrasa / Tavolinë e Personalizuara:"
+    },
+    "menu_pieces": {
+        "message": "Zgjidhni Dërrasat:"
+    },
+    "menu_board": {
+        "message": "Zgjidhni Tavolinën:"
+    },
+    "menu_boardfeat": {
+        "message": "Karakteristikat e Tavolinës:"
+    }
+}

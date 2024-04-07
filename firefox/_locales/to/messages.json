@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Custom Themes, Boards - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Setiupi he ngaahi themes, ngaahi fatongia, ngaahi leta mo e ngaahi fuka, toe fakatonutonu'i e ngaahi fakamaau 'a e ngaahi launima, popups, pea mo e ngaahi me'a 'e toe fakatuputupu'i."
+    },
+    "disabled": {
+        "message": "Kuo 'osi fakahu atu 'a e ChessHelper"
+    },
+    "header_title": {
+        "message": "Lolotonga 'o e ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Ko e 'ofa kiate kimoutolu 'i he Chess.com! 'Alu ke fakapapau'i ia."
+    },
+    "btn_donate": {
+        "message": "Fakatokanga"
+    },
+    "btn_support": {
+        "message": "Fakatoka'i e tokotaha"
+    },
+    "btn_reqfeature": {
+        "message": "Fakapangofulu ki he feitu'u"
+    },
+    "btn_goback": {
+        "message": "ho hano 'alu hake"
+    },
+    "menu_main": {
+        "message": "Ngaahi Ngaahi Aho:"
+    },
+    "menu_sec": {
+        "message": "Ngaahi Aho 'e Taha:"
+    },
+    "menu_palette": {
+        "message": "Palate Kolosi / leta:"
+    },
+    "n_default": {
+        "message": "Default"
+    },
+    "mi_1": {
+        "message": "Fakahu 'a e \"Focus mode\" \n ('oku fie ma'u ai 'a e ngaahi Feitu'u pea 'oku 'ikai ke fili)"
+    },
+    "mi_2": {
+        "message": "Fakapekeni 'a e tokotaha ki he peesi fakamaamaa"
+    },
+    "mi_3": {
+        "message": "Tangohia 'a e tohi HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Fakakakato 'a e popupo 'About me'"
+    },
+    "mi_5": {
+        "message": "Fakakakato e Sio"
+    },
+    "mi_6": {
+        "message": "Fifili e fu'u launima: \n\"'Ikai ke kamata ha lea'oe 'o e pa'anga ki hono ngaahi lea...\""
+    },
+    "mi_7": {
+        "message": "Fakatupu 'a e launima ki he 100% tefito'umu"
+    },
+    "mi_8": {
+        "message": "Fakamaheni e ngaahi ko-otineta"
+    },
+    "mi_9": {
+        "message": "Ngaahi ko-otineta ki he kaha'i launima 'i ha kaha'i"
+    },
+    "mi_10": {
+        "message": "Palate Kolosi / leta:"
+    },
+    "mi_11": {
+        "message": "Fakamaheni 'a e ngaahi ko-otineta ki he kaha'i"
+    },
+    "mi_12": {
+        "message": "Fakamaheni e ngaahi feitu'u fakataimi"
+    },
+    "mi_13": {
+        "message": "Fakakakato 'a e faka'ikai'i e 'oku hovaa ki he kau mou'i"
+    },
+    "mi_14": {
+        "message": "Fakaha 'a e totonu ke 'iloa 'i he taimi 'oku 'ikai ke to'o 'i lalo"
+    },
+    "mi_15": {
+        "message": "Fakafe'unga'i 'a e peesi 'o e peesi vakai (beta)"
+    },
+    "mi_16": {
+        "message": "Fakafoki ngaahi tapulu (kuo 'ikai ke tali 'i he popupo 'Are you sure')"
+    },
+    "mi_17": {
+        "message": "Tangohia e peesi fakamaamaa (kona hema ki lalo kona)"
+    },
+    "fonts_title": {
+        "message": "Fili e leta:"
+    },
+    "themes_title": {
+        "message": "Fili e theme:"
+    },
+    "themes_label": {
+        "message": "Vahe"
+    },
+    "themes_msg": {
+        "message": "Ngaahi Tohi Fou v1.1.9"
+    },
+    "theme_1": {
+        "message": "Default ('Oku 'osi)"
+    },
+    "d_title": {
+        "message": "Ko e ngaahi tokotaha ko'eni 'oku 'osi 'i he Tokotaha pe 'oku to e ChessHelper."
+    },
+    "d_subtitle": {
+        "message": "'Oku 'ikai ke 'iloa ai 'a e taimi 'i he uike kotoa 'o e ngaahi fie ma'u, ko e lavea pe 'e he fanau fakalelei 'o e ngaahi fu'u mo e fakapapau'i 'o e fanau."
+    },
+    "d_pp": {
+        "message": "Fakatokanga fakapāesi"
+    },
+    "d_kofi": {
+        "message": "Fakatoka'i 'i he Ko-Fi"
+    },
+    "d_card": {
+        "message": "Fakatokanga fakakalate ki he kāti pe kādi"
+    },
+    "d_cred__1": {
+        "message": "Ko e 'oku lava 'o fakamalohi 'a e ChessHelper ki he fanau pe 'o lihaveli ha"
+    },
+    "d_cred__2": {
+        "message": "reviu"
+    },
+    "d_cred__3": {
+        "message": "Mālō 'aupito."
+    },
+    "s_title": {
+        "message": "Ko e fie ma'u ki he ngaahi me'a mo e ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Ko e ngaahi lavea 'oku 'ikai ke ma'u he ngaahi me'a 'oku 'ikai ke fai, 'oku ke 'asi mai ai:"
+    },
+    "s_res__1": {
+        "message": "'Amanaki e peesi 'o e Chess.com."
+    },
+    "s_res__2": {
+        "message": "Fakakakato pea toe fakatupu 'a e ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Fakakakato e ngaahi extension taha"
+    },
+    "s_res__4": {
+        "message": "Fakakakato mo toe fakatupu 'a e ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Fakapapau'i e totonu totonu."
+    },
+    "s_emailme": {
+        "message": "Ki he ngaahi lavea 'oku 'ikai ke ma'u, fakamaile ki he"
+    },
+    "s_effic": {
+        "message": "Fakama'u 'aupito 'i he kainga 'o e ma'u 'o e lavea, fakama'u 'a e ngaahi lahi ko 'eni:"
+    },
+    "s_detail__1": {
+        "message": "E he vahe 'o e ChessHelper 'oku ke ma'u ai."
+    },
+    "s_detail__2": {
+        "message": "E ha sīkolini pe lātini kuo ngaohi'i 'a e lavea."
+    },
+    "s_detail__3": {
+        "message": "Ha fu'u leva mo e fakamatala kuo 'osi."
+    },
+    "s_detail__4": {
+        "message": "Ho'o brauzā mo e taumu'a 'o e brauzā (tatau kinautolu, Firefox 86.0 koe tohi)."
+    },
+    "menu_pboard": {
+        "message": "Ngaahi Fatongia / Lōtū:"
+    },
+    "menu_pieces": {
+        "message": "Fili e ngaahi Fatongia:"
+    },
+    "menu_board": {
+        "message": "Fili e ngaahi Lōtū:"
+    },
+    "menu_boardfeat": {
+        "message": "Ngaahi feitu'u 'o e Lōtū:"
+    }
+}

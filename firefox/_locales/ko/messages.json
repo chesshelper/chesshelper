@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "체스닷컴 커스텀 테마, 보드 - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 새로운 테마, 말, 글꼴 및 보드 설정, 귀찮은 알림, 팝업 등 제거."
+    },
+    "disabled": {
+        "message": "ChessHelper를 끔"
+    },
+    "header_title": {
+        "message": "ChessHelper 확장 프로그램"
+    },
+    "header_subtitle": {
+        "message": "우리는 체스닷컴을 사랑합니다! 더 나아지게 만들어 봅시다."
+    },
+    "btn_donate": {
+        "message": "기부"
+    },
+    "btn_support": {
+        "message": "지원 받기"
+    },
+    "btn_reqfeature": {
+        "message": "기능 요청"
+    },
+    "btn_goback": {
+        "message": "뒤로 가기"
+    },
+    "menu_main": {
+        "message": "주요 기능:"
+    },
+    "menu_sec": {
+        "message": "추가 기능:"
+    },
+    "menu_palette": {
+        "message": "색상 팔레트 / 글꼴:"
+    },
+    "n_default": {
+        "message": "기본"
+    },
+    "mi_1": {
+        "message": "\"포커스 모드\" 활성화 \n (스트림 및 불릿에 적합)"
+    },
+    "mi_2": {
+        "message": "메인 페이지에서 스트림 비활성화"
+    },
+    "mi_3": {
+        "message": "하이퍼불릿 옵션 추가 (30초)"
+    },
+    "mi_4": {
+        "message": "\"나에 대해\" 팝업 비활성화"
+    },
+    "mi_5": {
+        "message": "채팅 비활성화"
+    },
+    "mi_6": {
+        "message": "채팅 알림 숨기기: \n\"게임을 시작하지 말아주세요...\""
+    },
+    "mi_7": {
+        "message": "보드를 100% 고정 높이로 설정"
+    },
+    "mi_8": {
+        "message": "좌표 크게 만들기"
+    },
+    "mi_9": {
+        "message": "각 사각형에 좌표 표시"
+    },
+    "mi_10": {
+        "message": "색상 팔레트 / 글꼴:"
+    },
+    "mi_11": {
+        "message": "그들을 덜 눈에 띄게 만들기"
+    },
+    "mi_12": {
+        "message": "더 큰 시간 제어"
+    },
+    "mi_13": {
+        "message": "호버 시 커서 변경 비활성화"
+    },
+    "mi_14": {
+        "message": "연결 해제된 경우 새로 고침 옵션 표시"
+    },
+    "mi_15": {
+        "message": "페이지 자동 새로 고침 (베타)"
+    },
+    "mi_16": {
+        "message": "더블 클릭하여 사퇴 \n(\"확실합니까\" 팝업 없이)"
+    },
+    "mi_17": {
+        "message": "전체 화면 버튼 추가 (우측 하단)"
+    },
+    "fonts_title": {
+        "message": "글꼴 선택:"
+    },
+    "themes_title": {
+        "message": "테마 선택:"
+    },
+    "themes_label": {
+        "message": "NEW"
+    },
+    "themes_msg": {
+        "message": "새로운 옵션 v1.1.9"
+    },
+    "theme_1": {
+        "message": "기본 (다크 그린)"
+    },
+    "d_title": {
+        "message": "기부로 ChessHelper를 유지하십시오."
+    },
+    "d_subtitle": {
+        "message": "매주 버그 수정, 기능 추가 및 개선, 사용자 피드백 대응에 시간을 투자합니다. 귀하의 지원은 지속적인 유지에 중요합니다!"
+    },
+    "d_pp": {
+        "message": "PayPal로 기부"
+    },
+    "d_kofi": {
+        "message": "Ko-Fi에서 지원"
+    },
+    "d_card": {
+        "message": "신용 또는 직불 카드로 기부"
+    },
+    "d_cred__1": {
+        "message": "ChessHelper를 친구들과 공유하거나"
+    },
+    "d_cred__2": {
+        "message": "리뷰를 남겨주세요"
+    },
+    "d_cred__3": {
+        "message": "감사합니다."
+    },
+    "s_title": {
+        "message": "ChessHelper에서 문제가 발생하나요?"
+    },
+    "s_subtitle": {
+        "message": "다음은 시도해 볼 수 있는 문제 해결 단계입니다:"
+    },
+    "s_res__1": {
+        "message": "체스닷컴 페이지 새로 고침."
+    },
+    "s_res__2": {
+        "message": "ChessHelper를 비활성화한 다음 다시 활성화합니다."
+    },
+    "s_res__3": {
+        "message": "다른 확장 프로그램 비활성화."
+    },
+    "s_res__4": {
+        "message": "ChessHelper를 제거하고 다시 설치합니다."
+    },
+    "s_res__5": {
+        "message": "브라우저 캐시 지우기."
+    },
+    "s_emailme": {
+        "message": "문제가 계속되면 이메일로 연락 주십시오"
+    },
+    "s_effic": {
+        "message": "더 효과적으로 도움을 드리기 위해 다음 정보를 포함해 주세요:"
+    },
+    "s_detail__1": {
+        "message": "사용 중인 ChessHelper 버전."
+    },
+    "s_detail__2": {
+        "message": "문제를 보여주는 스크린샷 또는 비디오."
+    },
+    "s_detail__3": {
+        "message": "문제에 대한 자세한 설명."
+    },
+    "s_detail__4": {
+        "message": "사용 중인 브라우저 및 버전 (예: Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "사용자 지정 말 / 보드:"
+    },
+    "menu_pieces": {
+        "message": "말 선택:"
+    },
+    "menu_board": {
+        "message": "보드 선택:"
+    },
+    "menu_boardfeat": {
+        "message": "보드 기능:"
+    }
+}

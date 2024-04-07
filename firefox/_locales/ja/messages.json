@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com カスタムテーマ、ボード - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024年 新しいテーマ、駒、フォント、およびボードのセットアップ、うるさい通知、ポップアップなどの削除。"
+    },
+    "disabled": {
+        "message": "ChessHelperを無効にしました"
+    },
+    "header_title": {
+        "message": "ChessHelper 拡張機能"
+    },
+    "header_subtitle": {
+        "message": "私たちはChess.comを愛しています！さらに良くしましょう。"
+    },
+    "btn_donate": {
+        "message": "寄付"
+    },
+    "btn_support": {
+        "message": "サポートを受ける"
+    },
+    "btn_reqfeature": {
+        "message": "機能のリクエスト"
+    },
+    "btn_goback": {
+        "message": "戻る"
+    },
+    "menu_main": {
+        "message": "主な機能:"
+    },
+    "menu_sec": {
+        "message": "追加の機能:"
+    },
+    "menu_palette": {
+        "message": "カラーパレット / フォント:"
+    },
+    "n_default": {
+        "message": "デフォルト"
+    },
+    "mi_1": {
+        "message": "\"フォーカスモード\"を有効にする\n（ストリームおよびブリッツに最適）"
+    },
+    "mi_2": {
+        "message": "メインページのストリームを無効にする"
+    },
+    "mi_3": {
+        "message": "HyperBulletの選択肢を追加する（30秒）"
+    },
+    "mi_4": {
+        "message": "\"About me\"ポップアップを無効にする"
+    },
+    "mi_5": {
+        "message": "チャットを無効にする"
+    },
+    "mi_6": {
+        "message": "チャット通知を非表示にする:\n\"Do not start a game unless...\""
+    },
+    "mi_7": {
+        "message": "ボードを100％固定の高さに設定する"
+    },
+    "mi_8": {
+        "message": "座標を大きくする"
+    },
+    "mi_9": {
+        "message": "各マスに座標を表示する"
+    },
+    "mi_10": {
+        "message": "カラーパレット / フォント:"
+    },
+    "mi_11": {
+        "message": "それらを少し見えにくくする"
+    },
+    "mi_12": {
+        "message": "時間コントロールを大きくする"
+    },
+    "mi_13": {
+        "message": "ホバー時のカーソル変更を無効にする"
+    },
+    "mi_14": {
+        "message": "切断された場合に再読み込みオプションを表示する"
+    },
+    "mi_15": {
+        "message": "ページを自動的にリフレッシュする（ベータ版）"
+    },
+    "mi_16": {
+        "message": "ダブルクリックで辞任\n（\"Are you sure\"ポップアップなし）"
+    },
+    "mi_17": {
+        "message": "フルスクリーンボタンを追加する（右下隅）"
+    },
+    "fonts_title": {
+        "message": "フォントを選択:"
+    },
+    "themes_title": {
+        "message": "テーマを選択:"
+    },
+    "themes_label": {
+        "message": "新しい"
+    },
+    "themes_msg": {
+        "message": "新しいオプション v1.1.9"
+    },
+    "theme_1": {
+        "message": "デフォルト（ダークグリーン）"
+    },
+    "d_title": {
+        "message": "寄付はChessHelperの継続的な運営に貢献します。"
+    },
+    "d_subtitle": {
+        "message": "毎週数時間かけてバグを修正し、機能を追加および改善し、ユーザーフィードバックに対応しています。あなたのサポートは継続的なメンテナンスに不可欠です！"
+    },
+    "d_pp": {
+        "message": "PayPal経由で寄付"
+    },
+    "d_kofi": {
+        "message": "Ko-Fiでサポート"
+    },
+    "d_card": {
+        "message": "クレジットカードまたはデビットカードで寄付"
+    },
+    "d_cred__1": {
+        "message": "ChessHelperを友達と共有したり、"
+    },
+    "d_cred__2": {
+        "message": "レビューを残したりすることもできます"
+    },
+    "d_cred__3": {
+        "message": "ありがとうございます。"
+    },
+    "s_title": {
+        "message": "ChessHelperで問題が発生していますか？"
+    },
+    "s_subtitle": {
+        "message": "試してみるトラブルシューティング手順がここにあります:"
+    },
+    "s_res__1": {
+        "message": "Chess.comページをリフレッシュする。"
+    },
+    "s_res__2": {
+        "message": "ChessHelperを無効にしてから再度有効にする。"
+    },
+    "s_res__3": {
+        "message": "他の拡張機能を無効にする。"
+    },
+    "s_res__4": {
+        "message": "ChessHelperをアンインストールして再インストールする。"
+    },
+    "s_res__5": {
+        "message": "ブラウザキャッシュをクリアする。"
+    },
+    "s_emailme": {
+        "message": "問題が解決しない場合は、以下のメールアドレスに連絡してください"
+    },
+    "s_effic": {
+        "message": "私が効率的にお手伝いできるように、次の情報を含めてください:"
+    },
+    "s_detail__1": {
+        "message": "使用しているChessHelperのバージョン。"
+    },
+    "s_detail__2": {
+        "message": "問題を示すスクリーンショットまたはビデオ。"
+    },
+    "s_detail__3": {
+        "message": "問題の詳細な説明。"
+    },
+    "s_detail__4": {
+        "message": "使用しているブラウザとそのバージョン（例：Firefox 86.0）。"
+    },
+    "menu_pboard": {
+        "message": "カスタムピース / ボード:"
+    },
+    "menu_pieces": {
+        "message": "ピースを選択:"
+    },
+    "menu_board": {
+        "message": "ボードを選択:"
+    },
+    "menu_boardfeat": {
+        "message": "ボードの機能:"
+    }
+}

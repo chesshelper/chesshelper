@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Temes Personalizaos, Tableros - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Configura nuevos temes, pieces, fuentes y tableros, quita notificaciones molestes, ventanes emergentes, y demás."
+    },
+    "disabled": {
+        "message": "Desactivaste ChessHelper"
+    },
+    "header_title": {
+        "message": "Estensión ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "¡Queremos Chess.com! Hagámoslu anque meyor."
+    },
+    "btn_donate": {
+        "message": "Donar"
+    },
+    "btn_support": {
+        "message": "Obtener soporte"
+    },
+    "btn_reqfeature": {
+        "message": "Solicitar función"
+    },
+    "btn_goback": {
+        "message": "volver"
+    },
+    "menu_main": {
+        "message": "Carauterístiques Principales:"
+    },
+    "menu_sec": {
+        "message": "Carauterístiques Adicionales:"
+    },
+    "menu_palette": {
+        "message": "Paleta de colores / fuente:"
+    },
+    "n_default": {
+        "message": "Por defectu"
+    },
+    "mi_1": {
+        "message": "Activar \"Modu de focu\" \n (meyor pa transmisiones y partíes rápides)"
+    },
+    "mi_2": {
+        "message": "Desactivar transmisión na páxina principal"
+    },
+    "mi_3": {
+        "message": "Amestar opción HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Desactivar ventanu emergente \"Sobre mí\""
+    },
+    "mi_5": {
+        "message": "Desactivar Chat"
+    },
+    "mi_6": {
+        "message": "Esconder notificación de chat: \n\"Nun empieces una partida a menos que...\""
+    },
+    "mi_7": {
+        "message": "Axustar tableru a un altor fixu del 100%"
+    },
+    "mi_8": {
+        "message": "Facer les coordenades más grandes"
+    },
+    "mi_9": {
+        "message": "Coordenades en caú caxellu"
+    },
+    "mi_10": {
+        "message": "Paleta de colores / fuente:"
+    },
+    "mi_11": {
+        "message": "Facerles menos visibles"
+    },
+    "mi_12": {
+        "message": "Controles de tiempu más grandes"
+    },
+    "mi_13": {
+        "message": "Desactivar cambéu de cursu al pasar"
+    },
+    "mi_14": {
+        "message": "Amosar opción de recarga si desconectáu"
+    },
+    "mi_15": {
+        "message": "Refrescar páxina automáticamente (beta)"
+    },
+    "mi_16": {
+        "message": "Renunciar al doble clic \n ensin ventanu \"¿Tas seguru?\""
+    },
+    "mi_17": {
+        "message": "Amestar botón de pantalla completa (esquina inferior derecha)"
+    },
+    "fonts_title": {
+        "message": "Escoyer fuente:"
+    },
+    "themes_title": {
+        "message": "Escoyer tema:"
+    },
+    "themes_label": {
+        "message": "NUEVO"
+    },
+    "themes_msg": {
+        "message": "Nueves Opciones v1.1.9"
+    },
+    "theme_1": {
+        "message": "Por Defectu (Verde Oscuro)"
+    },
+    "d_title": {
+        "message": "Les donaciones mantienen ChessHelper en funcionamientu."
+    },
+    "d_subtitle": {
+        "message": "Dedico hores toles selmanes a corregir fallos, amestar y meyorar carauterístiques, y atender los comentarios de los usuarios. ¡Tu sofitu ye crucial pa la mantención continua!"
+    },
+    "d_pp": {
+        "message": "Donar a traviés de PayPal"
+    },
+    "d_kofi": {
+        "message": "Sofitarme en Ko-Fi"
+    },
+    "d_card": {
+        "message": "Donar con tarxeta de créditu o débitu"
+    },
+    "d_cred__1": {
+        "message": "Tamién pues compartir ChessHelper con tos amigos o dexar un"
+    },
+    "d_cred__2": {
+        "message": "comentariu"
+    },
+    "d_cred__3": {
+        "message": "Gracies."
+    },
+    "s_title": {
+        "message": "¿Problemes con ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Estos son dellos pasos de solución que pues intentar:"
+    },
+    "s_res__1": {
+        "message": "Refrescar la páxina de Chess.com."
+    },
+    "s_res__2": {
+        "message": "Desactivar y depués activar ChessHelper otra vez."
+    },
+    "s_res__3": {
+        "message": "Desactivar cualesquier otra estensión."
+    },
+    "s_res__4": {
+        "message": "Desinstalar y reinstalar ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Llimpiar la caché del navegador."
+    },
+    "s_emailme": {
+        "message": "Si'l problema persiste, por favor, escríbeme a"
+    },
+    "s_effic": {
+        "message": "Pa ayudame a asistirte de manera más eficiente, por favor, inclúi esta información:"
+    },
+    "s_detail__1": {
+        "message": "La versión de ChessHelper que tas usando."
+    },
+    "s_detail__2": {
+        "message": "Una captura de pantalla o video que demuestre'l problema."
+    },
+    "s_detail__3": {
+        "message": "Una descripción detallada del problema."
+    },
+    "s_detail__4": {
+        "message": "Tu navegador y la so versión (por exemplu, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Pieces Personalizaes / Tableru:"
+    },
+    "menu_pieces": {
+        "message": "Escoyer Pieces:"
+    },
+    "menu_board": {
+        "message": "Escoyer Tableru:"
+    },
+    "menu_boardfeat": {
+        "message": "Carauterístiques del Tableru:"
+    }
+}

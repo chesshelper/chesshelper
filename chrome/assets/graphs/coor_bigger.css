@@ -12,6 +12,7 @@
 //   -
 //   - You should have received a copy of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
 //   - along with ChessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+
 */
 
 .coordinates text{font-size:4px!important;-webkit-transform:translate(-.5px,.5px);transform:translate(-.5px,.5px)}.coordinates_inj{left:-5px!important}.coordinates_inj text{font-size:4.5px!important;text-shadow:none!important}.coordinates.outside{-webkit-transform:translate(-4.5%,3.4%);transform:translate(-4.5%,3.4%)}

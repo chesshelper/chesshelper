@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Özeller Temalar, Tahtalar - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Ýepyeni temalar, abzalar, shriftler we tahtalar döret, gecikdiriji habarlar, pul-uplar we beýle-de has-da ýaly çykaryjylaryň üçin."
+    },
+    "disabled": {
+        "message": "ChessHelper durnuklandyrdyňyz"
+    },
+    "header_title": {
+        "message": "ChessHelper Uzantysy"
+    },
+    "header_subtitle": {
+        "message": "Biz Chess.com-yny söýýäris! Şondan hem gowragy etsek!"
+    },
+    "btn_donate": {
+        "message": "Baý Ber"
+    },
+    "btn_support": {
+        "message": "Destege Gyn"
+    },
+    "btn_reqfeature": {
+        "message": "Öýdýän Öwren"
+    },
+    "btn_goback": {
+        "message": "ýerine ýet"
+    },
+    "menu_main": {
+        "message": "Esasy Gurluşlar:"
+    },
+    "menu_sec": {
+        "message": "Goşmaça Gurluşlar:"
+    },
+    "menu_palette": {
+        "message": "Renk paleti / shrift:"
+    },
+    "n_default": {
+        "message": "Defolt"
+    },
+    "mi_1": {
+        "message": "\"Focus mod\" ulan \n (Destok we Bullet üçin iň gowy)"
+    },
+    "mi_2": {
+        "message": "Esasy sahypada ädimleniş ýokarla"
+    },
+    "mi_3": {
+        "message": "HyperBullet saýlanysyny goş"
+    },
+    "mi_4": {
+        "message": "\"Meni barada\" pop-upyny ýokarla"
+    },
+    "mi_5": {
+        "message": "Söhbeti ýokarla"
+    },
+    "mi_6": {
+        "message": "Söhbet bildirijisini gizle: \n\"Oýun başlamazdan öň...\""
+    },
+    "mi_7": {
+        "message": "Tahtany 100% sabit boýa gir"
+    },
+    "mi_8": {
+        "message": "Koordinatalary goýmagyň boyan"
+    },
+    "mi_9": {
+        "message": "Her bir ýuwa üçin koordinatalar"
+    },
+    "mi_10": {
+        "message": "Renk paleti / shrift:"
+    },
+    "mi_11": {
+        "message": "Olary kiçeltmek"
+    },
+    "mi_12": {
+        "message": "Wagt ulanyşlaryny kiçelt"
+    },
+    "mi_13": {
+        "message": "Üstünlik etdikde kursory üýtgetme"
+    },
+    "mi_14": {
+        "message": "Baglanan bolsa täzeden ýüze getirme saýlanysyny görkez"
+    },
+    "mi_15": {
+        "message": "Sahypa avtomatiki täzelenýär (beta)"
+    },
+    "mi_16": {
+        "message": "Iki gezek täzelenýän ýeri ýatla \n(\"Siz çakyldymy\" pop-upi bermeksiz)"
+    },
+    "mi_17": {
+        "message": "Tam ekran düwmesi goş (aşagy sag köşe)"
+    },
+    "fonts_title": {
+        "message": "Shrifti saýla:"
+    },
+    "themes_title": {
+        "message": "Temany saýla:"
+    },
+    "themes_label": {
+        "message": "TÄZE"
+    },
+    "themes_msg": {
+        "message": "Täzelikler Versiýasyonu v1.1.9"
+    },
+    "theme_1": {
+        "message": "Defolt (Gara)"
+    },
+    "d_title": {
+        "message": "Baýlar ChessHelper'i işleyip durýar."
+    },
+    "d_subtitle": {
+        "message": "Men her hepde buglar düzetmek, goşmaça we düzeltmek ugurlary, we ulanyjy maslahatlaryny berjaý etmek üçin sagatlarca wagt geçirýärin. Siziň gymmatly goşgusyňiz ýitip gitmäge wajyp!"
+    },
+    "d_pp": {
+        "message": "PayPal arkaly baý beriň"
+    },
+    "d_kofi": {
+        "message": "Ko-Fi-üzeri meni degişli"
+    },
+    "d_card": {
+        "message": "Kredit we debit kart arkaly baý beriň"
+    },
+    "d_cred__1": {
+        "message": "Siziň dostlaryňyz bilen ChessHelper'i paýlaşa bilersiňiz we"
+    },
+    "d_cred__2": {
+        "message": "görüş"
+    },
+    "d_cred__3": {
+        "message": "Rahmat."
+    },
+    "s_title": {
+        "message": "ChessHelper bilen gysgaşyklar bar?"
+    },
+    "s_subtitle": {
+        "message": "Siz synag alyp bilersiňiz diyýän basqa tapawutly adym-adymlar:"
+    },
+    "s_res__1": {
+        "message": "Chess.com sahypasyny täzeleniň."
+    },
+    "s_res__2": {
+        "message": "ChessHelper'i aç we soňra täzeden işle."
+    },
+    "s_res__3": {
+        "message": "Başga uzantylary ýokarla."
+    },
+    "s_res__4": {
+        "message": "ChessHelper'i aýyryp ondan soňra tazele."
+    },
+    "s_res__5": {
+        "message": "Brauzer keshini poçta et."
+    },
+    "s_emailme": {
+        "message": "Eger problem ýatmady bolsa, meni şu e-mail üçin yazyň"
+    },
+    "s_effic": {
+        "message": "Meni sizi dürli bolmadynda kömek etmek üçin, käbir maglumatlary goşulyşy:"
+    },
+    "s_detail__1": {
+        "message": "Sizi ulanylýan ChessHelper versiýasy"
+    },
+    "s_detail__2": {
+        "message": "Problemyny görkezýän ekran görüntüsi ýa-da wideo."
+    },
+    "s_detail__3": {
+        "message": "Mesele barada dowamly ýagdaý."
+    },
+    "s_detail__4": {
+        "message": "Siziň brauzeriňiz we onuň versiýasy (mesela, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Beller Tahtalar / Tahtalar:"
+    },
+    "menu_pieces": {
+        "message": "Beller:"
+    },
+    "menu_board": {
+        "message": "Tahta saýla:"
+    },
+    "menu_boardfeat": {
+        "message": "Tahta zerurlyklary:"
+    }
+}

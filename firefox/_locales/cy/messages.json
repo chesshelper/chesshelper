@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Custom Themes, Bwrddiau - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Sefydlu themâu newydd, darnau, ffontiau, a byrddau, dileu hysbysiadau niweidiol, popups, ac yn y blaen."
+    },
+    "disabled": {
+        "message": "Wedi cau ChessHelper"
+    },
+    "header_title": {
+        "message": "Ymestyniad ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Rydym yn caru Chess.com! Gadewch i ni ei gwneud yn well hyd yn oed."
+    },
+    "btn_donate": {
+        "message": "Rhodd"
+    },
+    "btn_support": {
+        "message": "Cael cymorth"
+    },
+    "btn_reqfeature": {
+        "message": "Cais nodwedd"
+    },
+    "btn_goback": {
+        "message": "Mynd yn ôl"
+    },
+    "menu_main": {
+        "message": "Prif Nodweddion:"
+    },
+    "menu_sec": {
+        "message": "Nodweddion Ychwanegol:"
+    },
+    "menu_palette": {
+        "message": "Palet liw / ffont:"
+    },
+    "n_default": {
+        "message": "Diofyn"
+    },
+    "mi_1": {
+        "message": "Galluogi 'Mode Ffwcus' (gorau ar gyfer Streams a Bullet)"
+    },
+    "mi_2": {
+        "message": "Analluogi ffrwd ar dudalen Main"
+    },
+    "mi_3": {
+        "message": "Ychwanegu dewis HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Analluogi popeth 'Amdanaf fi'"
+    },
+    "mi_5": {
+        "message": "Analluogi Sgwrs"
+    },
+    "mi_6": {
+        "message": "Cuddio hysbysiad sgwrs: 'Peidiwch ag ymgymryd â gem oni chyhoeddir...'"
+    },
+    "mi_7": {
+        "message": "Gosod bwrdd i 100% o uchder sefydlog"
+    },
+    "mi_8": {
+        "message": "Gwneud cydlynnau yn fwy"
+    },
+    "mi_9": {
+        "message": "Cydlynnau ar bob sgwâr"
+    },
+    "mi_10": {
+        "message": "Palet liw / ffont:"
+    },
+    "mi_11": {
+        "message": "Gwneud nhw'n llai amlwg"
+    },
+    "mi_12": {
+        "message": "Cyfarwyddiadau amser mwyaf"
+    },
+    "mi_13": {
+        "message": "Analluogi newid curiad ar gam"
+    },
+    "mi_14": {
+        "message": "Dangos opsiwn ail-lwytho os ydych wedi colli cysylltiad"
+    },
+    "mi_15": {
+        "message": "Adnewyddu tudalen yn awtomatig (beta)"
+    },
+    "mi_16": {
+        "message": "Dwyglic clicio ymddiswyddo (heb 'Ydych chi'n sicr' popup)"
+    },
+    "mi_17": {
+        "message": "Ychwanegu botwm sgrin llawn (gornel dde"
+    },
+    "fonts_title": {
+        "message": "Dewis ffont:"
+    },
+    "themes_title": {
+        "message": "Dewis thema:"
+    },
+    "themes_label": {
+        "message": "NEW"
+    },
+    "themes_msg": {
+        "message": "Opsiynau Newydd v1.1.9"
+    },
+    "theme_1": {
+        "message": "Diofyn (Gwyrdd Tywyll)"
+    },
+    "d_title": {
+        "message": "Mae rhoddion yn cadw ChessHelper yn rhedeg."
+    },
+    "d_subtitle": {
+        "message": "Rwy'n treulio oriau bob wythnos yn atgyweirio namau, ychwanegu a gwella nodweddion, a mynd i'r afael â phryderon defnyddwyr. Mae eich cymorth yn hanfodol i gynnal y gwaith!"
+    },
+    "d_pp": {
+        "message": "Rhoddwch drwy PayPal"
+    },
+    "d_kofi": {
+        "message": "Cefnogwch fi ar Ko-Fi"
+    },
+    "d_card": {
+        "message": "Rhoddwch drwy gerdyn credyd neu ddebyd"
+    },
+    "d_cred__1": {
+        "message": "Gallwch hefyd rannu ChessHelper gyda'ch ffrindiau neu adael adolygiad"
+    },
+    "d_cred__2": {
+        "message": "Diolch i chi."
+    },
+    "d_cred__3": {
+        "message": "Diolch."
+    },
+    "s_title": {
+        "message": "Problem gyda ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Dyma rai camau datrys problemau y gallwch eu rhoi cynnig arnynt:"
+    },
+    "s_res__1": {
+        "message": "Adnewyddwch dudalen Chess.com."
+    },
+    "s_res__2": {
+        "message": "Analluogi ac yna galluogi eto ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Analluogi unrhyw estyniadau eraill."
+    },
+    "s_res__4": {
+        "message": "Dad-ffrindio ac ail-osod ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Clirio casgliad porwr."
+    },
+    "s_emailme": {
+        "message": "Os yw'r broblem yn parhau, ebostiwch fi yn"
+    },
+    "s_effic": {
+        "message": "Er mwyn fy helpu i'ch cynorthwyo'n fwy effeithlon, cynhwyswch y wybodaeth hon:"
+    },
+    "s_detail__1": {
+        "message": "Fersiwn ChessHelper rydych yn ei ddefnyddio."
+    },
+    "s_detail__2": {
+        "message": "Sgrin-sgrin neu fideo sy'n dangos y broblem."
+    },
+    "s_detail__3": {
+        "message": "Disgrifiad manwl o'r broblem."
+    },
+    "s_detail__4": {
+        "message": "Eich porwr a'i fersiwn (e.g., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Darnau / Bwrdd Cyflym:"
+    },
+    "menu_pieces": {
+        "message": "Dewis Darnau:"
+    },
+    "menu_board": {
+        "message": "Dewis Bwrdd:"
+    },
+    "menu_boardfeat": {
+        "message": "Nodweddion Bwrdd:"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Custom Themes, Boards - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Willay kani temas, panqaruy, mayqin, makinapi, ñawpikunaqa, kunanmi notificaciones, popups, chaymantaqmi."
+    },
+    "disabled": {
+        "message": "ChessHelper apagataqmi"
+    },
+    "header_title": {
+        "message": "ChessHelper Extension"
+    },
+    "header_subtitle": {
+        "message": "Chess.com maqanmanta munani! ¡Hinaspa ima yachachiy!"
+    },
+    "btn_donate": {
+        "message": "Donar"
+    },
+    "btn_support": {
+        "message": "Yachanichuqa"
+    },
+    "btn_reqfeature": {
+        "message": "Yachasqan feature"
+    },
+    "btn_goback": {
+        "message": "ñaqaq"
+    },
+    "menu_main": {
+        "message": "Kaypi Features:"
+    },
+    "menu_sec": {
+        "message": "Yachanichu Features:"
+    },
+    "menu_palette": {
+        "message": "Ñawi palette / font:"
+    },
+    "n_default": {
+        "message": "Default"
+    },
+    "mi_1": {
+        "message": "Yachanichu \"Focus mode\" \n (iyaymanchañaq Streams y Bullet)"
+    },
+    "mi_2": {
+        "message": "Main pagepi stream apagataq"
+    },
+    "mi_3": {
+        "message": "HyperBullet yanapaq añay (30s)"
+    },
+    "mi_4": {
+        "message": "\"About me\" popup apagataq"
+    },
+    "mi_5": {
+        "message": "Chat apagataq"
+    },
+    "mi_6": {
+        "message": "Chat notificaciónmi chupaq: \n\"Mana kaniqa yachanichuwanqa...\""
+    },
+    "mi_7": {
+        "message": "Tableroqa 100% fixed heightman tukuyta"
+    },
+    "mi_8": {
+        "message": "Coordenadas hawanqan bigger tukuyta"
+    },
+    "mi_9": {
+        "message": "Kada squarepi coordenadas"
+    },
+    "mi_10": {
+        "message": "Ñawi palette / font:"
+    },
+    "mi_11": {
+        "message": "Chupaqmi yachanichuwaq"
+    },
+    "mi_12": {
+        "message": "Bigger time controls"
+    },
+    "mi_13": {
+        "message": "Cursorqa hoverpi apagataq"
+    },
+    "mi_14": {
+        "message": "Desconectadoqa reload option chaywan munay"
+    },
+    "mi_15": {
+        "message": "Pachamanta kaniqa yanapaq (beta)"
+    },
+    "mi_16": {
+        "message": "Resignqa doble-click \n(\"Seguroqa\" popup mana)"
+    },
+    "mi_17": {
+        "message": "Pantallapin mikhuna tarpuywan añay (paqarinmanta ñawin)"
+    },
+    "fonts_title": {
+        "message": "Ñawi selecta:"
+    },
+    "themes_title": {
+        "message": "Tema selecta:"
+    },
+    "themes_label": {
+        "message": "NEW"
+    },
+    "themes_msg": {
+        "message": "New Options v1.1.9"
+    },
+    "theme_1": {
+        "message": "Default (Dark Green)"
+    },
+    "d_title": {
+        "message": "Donacionesqa ChessHelper apuwanmi rurana."
+    },
+    "d_subtitle": {
+        "message": "Manam chaypi semana kaniqa ñawpaqmi ñawi, yachanichuwanqa, sumaqkunaqmi añaninchu, yachanichuwanqaqa. Sutinwanmi ruranamantaqa, apukunataqa ichaqañata ñawiyanmi!"
+    },
+    "d_pp": {
+        "message": "PayPalman donarqa"
+    },
+    "d_kofi": {
+        "message": "Ko-Fimanmi yanapaqqa"
+    },
+    "d_card": {
+        "message": "Tarjetaqa credit o debitman donarqa"
+    },
+    "d_cred__1": {
+        "message": "ChessHelpermi amigotaqmiqa yachanichuywan, yallipaqmiqa kunanmanta"
+    },
+    "d_cred__2": {
+        "message": "review"
+    },
+    "d_cred__3": {
+        "message": "Añayta. Sulpayki."
+    },
+    "s_title": {
+        "message": "ChessHelperwanmi yanapaqpaqmi?"
+    },
+    "s_subtitle": {
+        "message": "Kaypi yanapaqpaqmantaqa chaykunataqmi:"
+    },
+    "s_res__1": {
+        "message": "Chess.com pachapi yanapaqqa."
+    },
+    "s_res__2": {
+        "message": "ChessHelper apagataqmi, sumaqa yanapaqmi."
+    },
+    "s_res__3": {
+        "message": "Yanapaq extension chayninta apagataqmi."
+    },
+    "s_res__4": {
+        "message": "ChessHelper apumanta unayta, sumaqa yanapaqmi."
+    },
+    "s_res__5": {
+        "message": "Browserpi cache chupaqmi."
+    },
+    "s_emailme": {
+        "message": "Yanapaqqaqa mana kaniqaqa, chasqanmiqa emailni"
+    },
+    "s_effic": {
+        "message": "Manammiña yanapaqwanmi tukuychanan, kaypiwanmi tukuyta:"
+    },
+    "s_detail__1": {
+        "message": "ChessHelperpi imaynataqmi versiyonwan."
+    },
+    "s_detail__2": {
+        "message": "Yanapaqmiqa problemaqa screenshot ukuywan o video."
+    },
+    "s_detail__3": {
+        "message": "Problemaqa sasqanwanmi tukuy."
+    },
+    "s_detail__4": {
+        "message": "Browser yachachiqwanmi tukuy (misk'iqmi, Firefox 86.0, nispa)."
+    },
+    "menu_pboard": {
+        "message": "Custom Pieces / Board:"
+    },
+    "menu_pieces": {
+        "message": "Select Pieces:"
+    },
+    "menu_board": {
+        "message": "Select Board:"
+    },
+    "menu_boardfeat": {
+        "message": "Board features:"
+    }
+}

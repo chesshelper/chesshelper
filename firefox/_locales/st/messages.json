@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Dithema tsa Chess.com, Dipoloto - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Kenya tsa maele, diphetho, litsibi, le dipampiri, tlosoa dikgatello tsa mantsoe, dipopapso, le tse ling."
+    },
+    "disabled": {
+        "message": "U tsoetsa ChessHelper"
+    },
+    "header_title": {
+        "message": "Lebelo la ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Rea rata Chess.com! R'a lebelletsa haholo."
+    },
+    "btn_donate": {
+        "message": "Dona"
+    },
+    "btn_support": {
+        "message": "Fumana thuso"
+    },
+    "btn_reqfeature": {
+        "message": "Hlalosa tse ling"
+    },
+    "btn_goback": {
+        "message": "hlokomela morao"
+    },
+    "menu_main": {
+        "message": "Tsebo e ntle:"
+    },
+    "menu_sec": {
+        "message": "Litsibi tse ling:"
+    },
+    "menu_palette": {
+        "message": "Lefatše la mosebetsi / litsibi:"
+    },
+    "n_default": {
+        "message": "Bohlokwa"
+    },
+    "mi_1": {
+        "message": "Bala \"Motho wa ho phetha\" \n (ka lebitsong le lekae le lekae la bohlokwa le Bullet)"
+    },
+    "mi_2": {
+        "message": "Tlosoa lestream ka Main page"
+    },
+    "mi_3": {
+        "message": "Kenya diphetla tsa HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Tlosoa popapso ya \"Motho ke mang\""
+    },
+    "mi_5": {
+        "message": "Tlosoa Sebaka"
+    },
+    "mi_6": {
+        "message": "Fihla kokota e ntle: \n\"Ha o baleleng bohloko hore...\""
+    },
+    "mi_7": {
+        "message": "Kenya bode tsa 100% kapa bophahamo"
+    },
+    "mi_8": {
+        "message": "Etsa litsibi tse kholo"
+    },
+    "mi_9": {
+        "message": "Litsibi tsa setšhaba ka mor'a le mohuta"
+    },
+    "mi_10": {
+        "message": "Lefatše la mosebetsi / litsibi:"
+    },
+    "mi_11": {
+        "message": "Etsa hore bohlokwa bo fihlelehang"
+    },
+    "mi_12": {
+        "message": "Bokaletsa dikontrole tsa bohloko"
+    },
+    "mi_13": {
+        "message": "Tlosoa lefatshe la tse ling ha li dumele"
+    },
+    "mi_14": {
+        "message": "Bontša kgethollo ya hlokomela ha o kgona"
+    },
+    "mi_15": {
+        "message": "Bala pele lehlabulo ka mora (beta)"
+    },
+    "mi_16": {
+        "message": "Motheo wa go-clicka jwalo ka ho reka \n(ka nako e le nngwe le lefe \"U na le boikhutšo\")"
+    },
+    "mi_17": {
+        "message": "Kenya kopanong ea nyakallo (mosebetsing oa moleng oa teng oa motsotella)"
+    },
+    "fonts_title": {
+        "message": "Khetha fonte:"
+    },
+    "themes_title": {
+        "message": "Khetha tlhema:"
+    },
+    "themes_label": {
+        "message": "LEFATŠE"
+    },
+    "themes_msg": {
+        "message": "Tlhokomelo e Ntšo v1.1.9"
+    },
+    "theme_1": {
+        "message": "Bohlokwa (Kwena ya Ntsho)"
+    },
+    "d_title": {
+        "message": "Dinotši di ka eka ChessHelper ho fetola."
+    },
+    "d_subtitle": {
+        "message": "Ke sireletsa masimo ka nako eo ke lebiša matšatši, ka sebaka le ka fetisisa diphoofolo, le ka ntlha ka litlhamo tsa mosebetsi. Thuto ya hau e tla hlokomela gore re tlisitše mosebetsing ka go ntle le rona!"
+    },
+    "d_pp": {
+        "message": "Dona ka sepatlo"
+    },
+    "d_kofi": {
+        "message": "Fumana thuso ka Ko-Fi"
+    },
+    "d_card": {
+        "message": "Dona ka karedit kapa dikarete tsa dediti"
+    },
+    "d_cred__1": {
+        "message": "O ka sebeletsa ho la ChessHelper le batho ba hau kapa o ka sala"
+    },
+    "d_cred__2": {
+        "message": "mohloli"
+    },
+    "d_cred__3": {
+        "message": "Ke a leboha."
+    },
+    "s_title": {
+        "message": "Ho na le bokhoni bohle ba ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Dikoloto tse u ka di hlahisa:"
+    },
+    "s_res__1": {
+        "message": "Bala pele lehlabulo la Chess.com."
+    },
+    "s_res__2": {
+        "message": "Tlosoa lefe u ka leka ho tlosoa le mong"
+    },
+    "s_res__3": {
+        "message": "Tlosoa dipolotiki tse ling."
+    },
+    "s_res__4": {
+        "message": "Tlosoa le re-install ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Tlosoa chelete ya brausera."
+    },
+    "s_emailme": {
+        "message": "Ha ho joalo, kopa bontša imeile ka"
+    },
+    "s_effic": {
+        "message": "Ho u thusa ho na le lefapha leo u le teng, ka kopo etsa moo:"
+    },
+    "s_detail__1": {
+        "message": "Moo o sebeletse ho ChessHelper o nang le lebelo."
+    },
+    "s_detail__2": {
+        "message": "Screenshot kapa video e hlahisang bokhoni."
+    },
+    "s_detail__3": {
+        "message": "Molao o lemong oa bokhoni."
+    },
+    "s_detail__4": {
+        "message": "Brausera le leng la hao le tlaase joang (e.g., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Dipoloto / Board tsa lebelo:"
+    },
+    "menu_pieces": {
+        "message": "Khetha Dipoloto:"
+    },
+    "menu_board": {
+        "message": "Khetha Board:"
+    },
+    "menu_boardfeat": {
+        "message": "Boitsebo ba Board:"
+    }
+}

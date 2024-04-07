@@ -12,6 +12,7 @@
 //   -
 //   - You should have received a copy of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
 //   - along with ChessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+
 */
 
 .chat-scroll-area-component{position:relative;opacity:0!important;-webkit-user-select:none!important;-moz-user-select:none!important;-ms-user-select:none!important;user-select:none!important;pointer-events:none!important}.chat-scroll-area-component::before{content:"Chat disabled by ChessHelper Extension.";display:block;position:absolute;bottom:0;height:100%}

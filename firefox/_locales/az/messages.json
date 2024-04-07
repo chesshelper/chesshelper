@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com İndividu Temaları, Taxtalar - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Yeni temalar, şəkillər, şriftlər və taxtalar qurun, narahat edici bildirişləri, popupları və s. silin."
+    },
+    "disabled": {
+        "message": "Siz ChessHelper'i söndürdünüz"
+    },
+    "header_title": {
+        "message": "ChessHelper Əlavəsi"
+    },
+    "header_subtitle": {
+        "message": "Biz Chess.com'u sevirik! Onu daha da yaxşı edək."
+    },
+    "btn_donate": {
+        "message": "Donate"
+    },
+    "btn_support": {
+        "message": "Dəstək alın"
+    },
+    "btn_reqfeature": {
+        "message": "Xüsusiyyət tələb edin"
+    },
+    "btn_goback": {
+        "message": "geri get"
+    },
+    "menu_main": {
+        "message": "Əsas Xüsusiyyətlər:"
+    },
+    "menu_sec": {
+        "message": "Əlavə Xüsusiyyətlər:"
+    },
+    "menu_palette": {
+        "message": "Rəng palitrası / şrift:"
+    },
+    "n_default": {
+        "message": "Varsayılan"
+    },
+    "mi_1": {
+        "message": "\"Fokus rejimi\"ni aktivləşdirin \n (Axşam və Bullet üçün ən yaxşı)"
+    },
+    "mi_2": {
+        "message": "Əsas səhifədə yayımı söndür"
+    },
+    "mi_3": {
+        "message": "HyperBullet seçimini əlavə edin (30 saniyə)"
+    },
+    "mi_4": {
+        "message": "\"Haqqımda\" popupunu söndürün"
+    },
+    "mi_5": {
+        "message": "Söhbəti söndür"
+    },
+    "mi_6": {
+        "message": "Söhbət xəbərdarlığını gizləyin: \n\"Oyun başlamadan əvvəl...\""
+    },
+    "mi_7": {
+        "message": "Taxtı 100% sabit hündürlüyə təyin edin"
+    },
+    "mi_8": {
+        "message": "Koordinatları böyük edin"
+    },
+    "mi_9": {
+        "message": "Hər bir kəsə koordinatlar"
+    },
+    "mi_10": {
+        "message": "Rəng palitrası / şrift:"
+    },
+    "mi_11": {
+        "message": "Onları daha az görünür edin"
+    },
+    "mi_12": {
+        "message": "Böyük vaxt nəzarəti"
+    },
+    "mi_13": {
+        "message": "Üzərində keçid zamanında kursora dəyişiklik etməni söndür"
+    },
+    "mi_14": {
+        "message": "Əgər kəsikdinizsə yenidən yüklə seçimini göstərin"
+    },
+    "mi_15": {
+        "message": "Səhifəni avtomatik olaraq yeniləyin (beta)"
+    },
+    "mi_16": {
+        "message": "İki dəfə klik edin imtina \n(\"Əminsinizmi\" popupu olmadan)"
+    },
+    "mi_17": {
+        "message": "Tam ekran düyməsini əlavə edin (sağ alt köşə)"
+    },
+    "fonts_title": {
+        "message": "Şrifti seçin:"
+    },
+    "themes_title": {
+        "message": "Tema seçin:"
+    },
+    "themes_label": {
+        "message": "YENİ"
+    },
+    "themes_msg": {
+        "message": "Yeni Seçimlər v1.1.9"
+    },
+    "theme_1": {
+        "message": "Varsayılan (Tünd Yaşıl)"
+    },
+    "d_title": {
+        "message": "Bağışlar ChessHelper'i işlədən və davamlı saxlayan bir şeydir."
+    },
+    "d_subtitle": {
+        "message": "Hər həftə xətalara düzəltmək, xüsusiyyətlər əlavə etmək və tətbiqin istifadəçi rəyinə cavab verərək saatlarımı xərcləyirəm. Dəstəyiniz davamlı qorunmanın əsas şərtidir!"
+    },
+    "d_pp": {
+        "message": "PayPal vasitəsilə bağış edin"
+    },
+    "d_kofi": {
+        "message": "Məni Ko-Fi'də dəstəkləyin"
+    },
+    "d_card": {
+        "message": "Kredit və ya debet kartı ilə bağış edin"
+    },
+    "d_cred__1": {
+        "message": "Siz də ChessHelper'i dostlarınızla paylaşa və ya bir"
+    },
+    "d_cred__2": {
+        "message": "rəy buraxa bilərsiniz"
+    },
+    "d_cred__3": {
+        "message": "Təşəkkür edirəm."
+    },
+    "s_title": {
+        "message": "ChessHelper ilə problemləriniz var?"
+    },
+    "s_subtitle": {
+        "message": "Sizə kömək edəcək bəzi təhlil addılarınız var:"
+    },
+    "s_res__1": {
+        "message": "Chess.com səhifəsini yeniləyin."
+    },
+    "s_res__2": {
+        "message": "ChessHelper'i söndürün və sonra yenidən aktiv edin."
+    },
+    "s_res__3": {
+        "message": "Digər əlavələri söndürün."
+    },
+    "s_res__4": {
+        "message": "ChessHelper'i silin və yenidən quraşdırın."
+    },
+    "s_res__5": {
+        "message": "Browser keşini təmizləyin."
+    },
+    "s_emailme": {
+        "message": "Əgər problem hələ də varsa, mənə e-poçt göndərin"
+    },
+    "s_effic": {
+        "message": "Mənə sizi daha effektiv kömək etməyimə kömək etmək üçün, xahiş edirəm ki, bu məlumatı əlavə edin:"
+    },
+    "s_detail__1": {
+        "message": "İstifadə etdiyiniz ChessHelper versiyası."
+    },
+    "s_detail__2": {
+        "message": "Problemı göstərən şəkil və ya video."
+    },
+    "s_detail__3": {
+        "message": "Problemın ətraflı təsviri."
+    },
+    "s_detail__4": {
+        "message": "Browser və onun versiyası (məsələn, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Fərdi Şəkillər / Taxta:"
+    },
+    "menu_pieces": {
+        "message": "Şəkilləri seçin:"
+    },
+    "menu_board": {
+        "message": "Taxta seçin:"
+    },
+    "menu_boardfeat": {
+        "message": "Taxta xüsusiyyətləri:"
+    }
+}

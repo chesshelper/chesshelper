@@ -1,0 +1,203 @@
+{
+  "extensionName": {
+    "message": "Chess.com Motywy i Szachownice: ChessHelper"
+  },
+  "extensionDescription": {
+    "message": "2024 Zainstaluj nowe motywy, figury, czcionki i szachownice, dodawaj notacje na każdym polu, usuwaj irytujące powiadomienia, wyskakujące okienka i wiele więcej!"
+  },
+  "disabled": {
+    "message": "Wyłączyłeś ChessHelper"
+  },
+  "header_title": {
+    "message": "Rozszerzenie ChessHelper"
+  },
+  "header_subtitle": {
+    "message": "Kochamy Chess.com! Zróbmy go jeszcze lepszym, razem."
+  },
+  "btn_donate": {
+    "message": "Wesprzyj"
+  },
+  "btn_support": {
+    "message": "Uzyskaj pomoc"
+  },
+  "btn_reqfeature": {
+    "message": "Request funkcję"
+  },
+  "btn_goback": {
+    "message": "wróć"
+  },
+  "menu_main": {
+    "message": "Główne funkcje:"
+  },
+  "menu_sec": {
+    "message": "Dodatkowe funkcje:"
+  },
+  "menu_palette": {
+    "message": "Paleta kolorów / czcionka:"
+  },
+  "n_default": {
+    "message": "Domyślne"
+  },
+  "mi_1": {
+    "message": "Włącz \"Tryb skupienia\" \n (najlepszy dla Streamów i Bullet)"
+  },
+  "mi_2": {
+    "message": "Wyłącz stream na stronie głównej"
+  },
+  "mi_3": {
+    "message": "Dodaj opcję HyperBullet (30s)"
+  },
+  "mi_4": {
+    "message": "Wyłącz wyskakujące okno \"O mnie\""
+  },
+  "mi_5": {
+    "message": "Wyłącz czat"
+  },
+  "mi_6": {
+    "message": "Ukryj powiadomienie czatu: \n\"Nie rozpoczynaj gry, chyba że...\""
+  },
+  "mi_7": {
+    "message": "Ustaw planszę na 100% stałą wysokość"
+  },
+  "mi_8": {
+    "message": "Zwiększ rozmiar współrzędnych"
+  },
+  "mi_9": {
+    "message": "Współrzędne na każdym polu"
+  },
+  "mi_10": {
+    "message": "Paleta kolorów / czcionka:"
+  },
+  "mi_11": {
+    "message": "Zrób je mniej widocznymi"
+  },
+  "mi_12": {
+    "message": "Większe kontrolki czasu"
+  },
+  "mi_13": {
+    "message": "Wyłącz zmianę kursora przy najechaniu"
+  },
+  "mi_14": {
+    "message": "Pokaż opcję przeładowania w przypadku rozłączenia"
+  },
+  "mi_15": {
+    "message": "Automatyczne odświeżanie strony (beta)"
+  },
+  "mi_16": {
+    "message": "Podwójne kliknięcie rezygnacji \n(bez wyskakującego okna \"Jesteś pewien\")"
+  },
+  "mi_17": {
+    "message": "Dodaj przycisk pełnego ekranu \n(w prawym dolnym rogu)"
+  },
+  "fonts_title": {
+    "message": "Wybierz czcionkę:"
+  },
+  "themes_title": {
+    "message": "Wybierz motyw:"
+  },
+  "themes_label": {
+    "message": "NOWE"
+  },
+  "themes_msg": {
+    "message": "Nowe opcje v1.1.9"
+  },
+  "theme_1": {
+    "message": "Domyślny (Ciemnozielony)"
+  },
+  "theme_2": {
+    "message": "Jasnozielony"
+  },
+  "theme_3": {
+    "message": "Ciemnopurpurowy"
+  },
+  "theme_4": {
+    "message": "Ciemnoróżowy (kotki)"
+  },
+  "theme_5": {
+    "message": "Jasnopurpurowy"
+  },
+  "theme_6": {
+    "message": "Ciemnoniebieski"
+  },
+  "theme_7": {
+    "message": "Ciemnoczerwony"
+  },
+  "theme_8": {
+    "message": "Ciemnożółty"
+  },
+  "d_title": {
+    "message": "Darowizny utrzymują ChessHelper przy życiu."
+  },
+  "d_subtitle": {
+    "message": "Co tydzień poświęcam godziny na naprawę błędów, dodawanie i ulepszanie funkcji oraz poprawę doświadczenia użytkownika. Wsparcie jest kluczowe dla ciągłego utrzymania!"
+  },
+  "d_pp": {
+    "message": "Wesprzyj na PayPal"
+  },
+  "d_kofi": {
+    "message": "Wesprzyj na Ko-Fi"
+  },
+  "d_card": {
+    "message": "Wesprzyj poprzez kartę debetową"
+  },
+  "d_cred__1": {
+    "message": "Możesz także podzielić się o ChessHelper z przyjaciółmi lub napisać"
+  },
+  "d_cred__2": {
+    "message": "recenzję"
+  },
+  "d_cred__3": {
+    "message": "Dzięki."
+  },
+  "s_title": {
+    "message": "Masz problemy z ChessHelper?"
+  },
+  "s_subtitle": {
+    "message": "Oto kilka kroków do rozwiązania problemów, które możesz spróbować:"
+  },
+  "s_res__1": {
+    "message": "Odśwież stronę Chess.com."
+  },
+  "s_res__2": {
+    "message": "Wyłącz, a następnie ponownie włącz ChessHelper."
+  },
+  "s_res__3": {
+    "message": "Wyłącz inne rozszerzenia."
+  },
+  "s_res__4": {
+    "message": "Odinstaluj i ponownie zainstaluj ChessHelper."
+  },
+  "s_res__5": {
+    "message": "Wyczyść pamięć podręczną (cache i cookies) przeglądarki."
+  },
+  "s_emailme": {
+    "message": "Jeśli problem nadal występuje, napisz na"
+  },
+  "s_effic": {
+    "message": "Aby pomóc w udzieleniu bardziej efektywnego wsparcia, dołącz te informacje:"
+  },
+  "s_detail__1": {
+    "message": "Wersje ChessHelper, którą używasz."
+  },
+  "s_detail__2": {
+    "message": "Zrzut ekranu lub nagranie demonstrujące problem."
+  },
+  "s_detail__3": {
+    "message": "Szczegółowy opis problemu."
+  },
+  "s_detail__4": {
+    "message": "Twoja przeglądarka i jej wersja (np. Firefox 86.0)."
+  },
+  "menu_pboard": {
+    "message": "Zmień Figury / Planszę:"
+  },
+  "menu_pieces": {
+    "message": "Wybierz Figury:"
+  },
+  "menu_board": {
+    "message": "Wybierz Planszę:"
+  },
+  "menu_boardfeat": {
+    "message": "Ustawienia planszy:"
+  }
+}

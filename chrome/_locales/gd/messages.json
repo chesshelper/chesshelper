@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Àrd-ùrlar agus Bhòird a th'ann, - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Suidhich àrd-ùrlaran ùra, pìosan, clòthan, agus bhòird, thoir air falbh fiosrachadh truaighe, popups, agus mar sin air adhart."
+    },
+    "disabled": {
+        "message": "Thug thu às dhan ChessHelper"
+    },
+    "header_title": {
+        "message": "Àrd-ùrlar ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Tha sinn ga mìleadh le Chess.com! Leig leinn a dhèanamh nas fheàrr fhathast."
+    },
+    "btn_donate": {
+        "message": "Tog"
+    },
+    "btn_support": {
+        "message": "Faigh taic"
+    },
+    "btn_reqfeature": {
+        "message": "Iarr gnè"
+    },
+    "btn_goback": {
+        "message": "till tharsainn"
+    },
+    "menu_main": {
+        "message": "Cuspairean prìomh:"
+    },
+    "menu_sec": {
+        "message": "Cuspairean a bharrachd:"
+    },
+    "menu_palette": {
+        "message": "Paileid dath / clò:"
+    },
+    "n_default": {
+        "message": "Àbhaisteach"
+    },
+    "mi_1": {
+        "message": "Cuir a-steach \"Mod Fòcas\" \n (as fheàrr airson Sruthan agus Bullet)"
+    },
+    "mi_2": {
+        "message": "Càin Srian air an duilleig prìomh"
+    },
+    "mi_3": {
+        "message": "Cur ris an roghainn HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Càin \"Mu dè mu\" popup"
+    },
+    "mi_5": {
+        "message": "Càin Cabhsair"
+    },
+    "mi_6": {
+        "message": "Falaich fiosrachadh na còmhraidh: \n\"Na tòisich geama mura bi...\""
+    },
+    "mi_7": {
+        "message": "Suidhich an t-seanadh gu 100%"
+    },
+    "mi_8": {
+        "message": "Dèan coinneamhan nas mòra"
+    },
+    "mi_9": {
+        "message": "Còmharran air gach cearn"
+    },
+    "mi_10": {
+        "message": "Paileid dath / clò:"
+    },
+    "mi_11": {
+        "message": "Dèan iad nas lugha feumail"
+    },
+    "mi_12": {
+        "message": "Coinneamhan àm nas mòra"
+    },
+    "mi_13": {
+        "message": "Càin atharrachadh curaidh air gluasad"
+    },
+    "mi_14": {
+        "message": "Seall roghainn ath-ghealltach ma bhios e deasachadh"
+    },
+    "mi_15": {
+        "message": "Ath-nuadhachadh duilleig gu fèin-ghluasadach (beta)"
+    },
+    "mi_16": {
+        "message": "Dùblach-chliceaich gun dìcheall \n(gun \"A bheil thu cinnteach\" popup)"
+    },
+    "mi_17": {
+        "message": "Cuir a-steach putan làn-sgrìn (an ceann dheas gu ìosal dìdean)"
+    },
+    "fonts_title": {
+        "message": "Tagh clò:"
+    },
+    "themes_title": {
+        "message": "Tagh àrd-ùrlar:"
+    },
+    "themes_label": {
+        "message": "ÙR"
+    },
+    "themes_msg": {
+        "message": "Roghainnean Ùra v1.1.9"
+    },
+    "theme_1": {
+        "message": "Àbhaisteach (Glas Dorcha)"
+    },
+    "d_title": {
+        "message": "Tha dholtaichean a’ cumail ChessHelper beò agus ag obair."
+    },
+    "d_subtitle": {
+        "message": "Tha mi a’ chur seachad uaireigin gach seachdain agus a’ fìorachadh bugan, a’ cur ris agus a’ feabhsachadh feartan, agus a’ freagairt air beachdan luchd-cleachdaidh. Tha do thaca ri gairm làidir aig a’ chùis seo!"
+    },
+    "d_pp": {
+        "message": "Tog tro PayPal"
+    },
+    "d_kofi": {
+        "message": "Taic a chur thugam air Ko-Fi"
+    },
+    "d_card": {
+        "message": "Tog tro cairt creideis no cairt freagairt"
+    },
+    "d_cred__1": {
+        "message": "Faodaidh tu cuideachd ChessHelper a sgaoileadh le do chàirdean no leig a"
+    },
+    "d_cred__2": {
+        "message": "buidheachas"
+    },
+    "d_cred__3": {
+        "message": "Mòran taing."
+    },
+    "s_title": {
+        "message": "Faigh duilgheadasan le ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Seo cuid dhiubhartaichean sgrùdadh a dh’fhaodas tu feuchainn:"
+    },
+    "s_res__1": {
+        "message": "Ath-nuadhachadh duilleig Chess.com."
+    },
+    "s_res__2": {
+        "message": "Càin agus ansaich a-rithist ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Càin gach ìre extension eile."
+    },
+    "s_res__4": {
+        "message": "Gun-diùltadh agus dìleab a-rithist ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Blaist an cache brabhsair."
+    },
+    "s_emailme": {
+        "message": "Ma tha am broblam ann fhathast, beurlaich post-d agam aig"
+    },
+    "s_effic": {
+        "message": "Gus mo chuideachadh le do thoil, cuir a-steach am fiosrachadh seo:"
+    },
+    "s_detail__1": {
+        "message": "Àireamh a’ Chùisean a bhios thu a’ cleachdadh de ChessHelper."
+    },
+    "s_detail__2": {
+        "message": "Dealbh-greim no bhideo a’ sealltainn am broblam."
+    },
+    "s_detail__3": {
+        "message": "Measadh dìreach air an fhad."
+    },
+    "s_detail__4": {
+        "message": "D’ fharsaig agus a ghairm (e.g., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Pìosan / Bòrd a tha air a chuspairt:"
+    },
+    "menu_pieces": {
+        "message": "Tagh Pìosan:"
+    },
+    "menu_board": {
+        "message": "Tagh Bòrd:"
+    },
+    "menu_boardfeat": {
+        "message": "Feartan a’ Bhòird:"
+    }
+}

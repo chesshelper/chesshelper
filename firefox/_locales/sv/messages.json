@@ -1,0 +1,203 @@
+{
+  "extensionName": {
+    "message": "Chess.com Egna Teman och Bräden: ChessHelper"
+  },
+  "extensionDescription": {
+    "message": "2024 Installera nya teman, pjäser, typsnitt och bräden, lägg till notation på varje ruta, ta bort irriterande meddelanden, popup-fönster, och så vidare!"
+  },
+  "disabled": {
+    "message": "Du har stängt av ChessHelper"
+  },
+  "header_title": {
+    "message": "ChessHelper-tillägg"
+  },
+  "header_subtitle": {
+    "message": "Vi älskar Chess.com! Låt oss göra det ännu bättre."
+  },
+  "btn_donate": {
+    "message": "Donera"
+  },
+  "btn_support": {
+    "message": "Få support"
+  },
+  "btn_reqfeature": {
+    "message": "Begär funktion"
+  },
+  "btn_goback": {
+    "message": "gå tillbaka"
+  },
+  "menu_main": {
+    "message": "Huvudfunktioner:"
+  },
+  "menu_sec": {
+    "message": "Ytterligare funktioner:"
+  },
+  "menu_palette": {
+    "message": "Färgpalett / typsnitt:"
+  },
+  "n_default": {
+    "message": "Standard"
+  },
+  "mi_1": {
+    "message": "Aktivera \"Fokuseringsläge\" \n (bäst för Streams och Bullet)"
+  },
+  "mi_2": {
+    "message": "Inaktivera ström på huvudsidan"
+  },
+  "mi_3": {
+    "message": "Lägg till HyperBullet-alternativ (30s)"
+  },
+  "mi_4": {
+    "message": "Inaktivera popup för \"Om mig\""
+  },
+  "mi_5": {
+    "message": "Inaktivera chatt"
+  },
+  "mi_6": {
+    "message": "Dölj chattmeddelande: \n\"Starta inte en match om inte...\""
+  },
+  "mi_7": {
+    "message": "Sätt brädet till 100% fast höjd"
+  },
+  "mi_8": {
+    "message": "Gör koordinaterna större"
+  },
+  "mi_9": {
+    "message": "Koordinater på varje ruta"
+  },
+  "mi_10": {
+    "message": "Färgpalett / font:"
+  },
+  "mi_11": {
+    "message": "Gör dem mindre synliga"
+  },
+  "mi_12": {
+    "message": "Större tidkontroller"
+  },
+  "mi_13": {
+    "message": "Inaktivera markörförändring vid hover"
+  },
+  "mi_14": {
+    "message": "Visa uppladdningsalternativ om frånkopplad"
+  },
+  "mi_15": {
+    "message": "Uppdatera sidan automatiskt (beta)"
+  },
+  "mi_16": {
+    "message": "Dubbelklicka för att ge upp \n(utan \"Är du säker\"-popup)"
+  },
+  "mi_17": {
+    "message": "Lägg till helskärmsknapp (nere till höger)"
+  },
+  "fonts_title": {
+    "message": "Välj typsnitt:"
+  },
+  "themes_title": {
+    "message": "Välj tema:"
+  },
+  "themes_label": {
+    "message": "NYTT"
+  },
+  "themes_msg": {
+    "message": "Nya alternativ v1.1.9"
+  },
+  "theme_1": {
+    "message": "Standard (Mörk Grön)"
+  },
+  "theme_2": {
+    "message": "Ljus Grön"
+  },
+  "theme_3": {
+    "message": "Mörk Lila"
+  },
+  "theme_4": {
+    "message": "Mörk Rosa (kattungar)"
+  },
+  "theme_5": {
+    "message": "Ljus Lila"
+  },
+  "theme_6": {
+    "message": "Mörk Blå"
+  },
+  "theme_7": {
+    "message": "Mörk Röd"
+  },
+  "theme_8": {
+    "message": "Mörk Gul"
+  },
+  "d_title": {
+    "message": "Donationer håller ChessHelper igång."
+  },
+  "d_subtitle": {
+    "message": "Jag lägger ner timmar varje vecka på att fixa buggar, lägga till och förbättra funktioner samt hantera användarfeedback. Ditt stöd är avgörande för fortsatt underhåll!"
+  },
+  "d_pp": {
+    "message": "Donera via PayPal"
+  },
+  "d_kofi": {
+    "message": "Stöd mig på Ko-Fi"
+  },
+  "d_card": {
+    "message": "Donera med kredit- eller betalkort"
+  },
+  "d_cred__1": {
+    "message": "Du kan också dela ChessHelper med dina vänner eller lämna en"
+  },
+  "d_cred__2": {
+    "message": "recension"
+  },
+  "d_cred__3": {
+    "message": "Tack så mycket."
+  },
+  "s_title": {
+    "message": "Har du problem med ChessHelper?"
+  },
+  "s_subtitle": {
+    "message": "Här är några felsökningssteg du kan försöka:"
+  },
+  "s_res__1": {
+    "message": "Uppdatera Chess.com-sidan."
+  },
+  "s_res__2": {
+    "message": "Inaktivera och aktivera ChessHelper igen."
+  },
+  "s_res__3": {
+    "message": "Inaktivera andra tillägg."
+  },
+  "s_res__4": {
+    "message": "Avinstallera och installera om ChessHelper."
+  },
+  "s_res__5": {
+    "message": "Rensa webbläsarens cache."
+  },
+  "s_emailme": {
+    "message": "Om problemet kvarstår, vänligen mejla mig på"
+  },
+  "s_effic": {
+    "message": "För att hjälpa mig assistera dig mer effektivt, inkludera följande information:"
+  },
+  "s_detail__1": {
+    "message": "Versionen av ChessHelper du använder."
+  },
+  "s_detail__2": {
+    "message": "En skärmbild eller video som visar problemet."
+  },
+  "s_detail__3": {
+    "message": "En detaljerad beskrivning av problemet."
+  },
+  "s_detail__4": {
+    "message": "Din webbläsare och dess version (t.ex. Firefox 86.0)."
+  },
+  "menu_pboard": {
+    "message": "Ändra pjäser / Bräda:"
+  },
+  "menu_pieces": {
+    "message": "Välj pjäser:"
+  },
+  "menu_board": {
+    "message": "Välj bräda:"
+  },
+  "menu_boardfeat": {
+    "message": "Brädinställningar:"
+  }
+}

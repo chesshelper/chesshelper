@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Ludus.com Themata Consueta, Tabulae - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "Anno 2024 Themata, Pecudes, Characteres, et Tabulas novas constituas, notificationes molestas, populos, et similia removeas."
+    },
+    "disabled": {
+        "message": "ChessHelper averteras"
+    },
+    "header_title": {
+        "message": "Extensio ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Amamus Ludum.com! Faciamus eum etiam meliorem."
+    },
+    "btn_donate": {
+        "message": "Dona"
+    },
+    "btn_support": {
+        "message": "Sustentationem accipe"
+    },
+    "btn_reqfeature": {
+        "message": "Petitionem fac"
+    },
+    "btn_goback": {
+        "message": "revertere"
+    },
+    "menu_main": {
+        "message": "Principales Proprietates:"
+    },
+    "menu_sec": {
+        "message": "Proprietates Additamentales:"
+    },
+    "menu_palette": {
+        "message": "Paleta Colorum / Characteres:"
+    },
+    "n_default": {
+        "message": "Consuetus"
+    },
+    "mi_1": {
+        "message": "Modum 'Concentrati' auge \n (optimum est pro Stream et Bullet)"
+    },
+    "mi_2": {
+        "message": "Stream in pagina Prima inhibe"
+    },
+    "mi_3": {
+        "message": "Electionem HyperBullet addas (30s)"
+    },
+    "mi_4": {
+        "message": "Popup 'De me ipso' inhibe"
+    },
+    "mi_5": {
+        "message": "Conloquium inhibe"
+    },
+    "mi_6": {
+        "message": "Nuntium conloquii absconde: \n'Non incipias ludum nisi...'"
+    },
+    "mi_7": {
+        "message": "Tabulam ad altitudinem 100% fixam pone"
+    },
+    "mi_8": {
+        "message": "Coordinationes ampliores fac"
+    },
+    "mi_9": {
+        "message": "Coordinationes in singulis quadratis"
+    },
+    "mi_10": {
+        "message": "Paleta Colorum / Characteres:"
+    },
+    "mi_11": {
+        "message": "Eas minus conspicuas fac"
+    },
+    "mi_12": {
+        "message": "Tempus amplius moderatum"
+    },
+    "mi_13": {
+        "message": "Cursor mutationem in hovering inhibe"
+    },
+    "mi_14": {
+        "message": "Optionem 'Reload' ostende si disiunctus"
+    },
+    "mi_15": {
+        "message": "Paginam automatice refice (beta)"
+    },
+    "mi_16": {
+        "message": "Resignationem bis digitis fac \n(sine populo 'Numquid certus es')"
+    },
+    "mi_17": {
+        "message": "Addas pulsatoriam plenam (in angulo dextro infimo)"
+    },
+    "fonts_title": {
+        "message": "Elige characterem:"
+    },
+    "themes_title": {
+        "message": "Elige thema:"
+    },
+    "themes_label": {
+        "message": "NOVUM"
+    },
+    "themes_msg": {
+        "message": "Nova Optiones v1.1.9"
+    },
+    "theme_1": {
+        "message": "Consuetus (Viridis Obscurus)"
+    },
+    "d_title": {
+        "message": "Liberalitates ChessHelper sustentant et currentem servant."
+    },
+    "d_subtitle": {
+        "message": "Horas in singulis hebdomada consumam corrigens errores, addens melioransque proprietates, et adhibens responsiones eorum qui utuntur. Tua sustentatio ad manutenendum opus est!"
+    },
+    "d_pp": {
+        "message": "Dona per PayPal"
+    },
+    "d_kofi": {
+        "message": "Sustentationem mihi praebe in Ko-Fi"
+    },
+    "d_card": {
+        "message": "Dona per chartam aut codem debitum"
+    },
+    "d_cred__1": {
+        "message": "Etiam ChessHelper cum amicis communicare potes aut"
+    },
+    "d_cred__2": {
+        "message": "recensionem"
+    },
+    "d_cred__3": {
+        "message": "Gratias tibi agimus."
+    },
+    "s_title": {
+        "message": "Difficultates cum ChessHelper habes?"
+    },
+    "s_subtitle": {
+        "message": "Haec sunt aliqua remedia quae experiri potes:"
+    },
+    "s_res__1": {
+        "message": "Paginam Ludus.com refice."
+    },
+    "s_res__2": {
+        "message": "ChessHelper avertere et iterum advertere."
+    },
+    "s_res__3": {
+        "message": "Alias extensiones inhibe."
+    },
+    "s_res__4": {
+        "message": "ChessHelper deponere et rursus installare."
+    },
+    "s_res__5": {
+        "message": "Cachinnum navigatoris expurga."
+    },
+    "s_emailme": {
+        "message": "Si problema adhuc manet, me epistula adscribito apud"
+    },
+    "s_effic": {
+        "message": "Ut tibi melius auxilium feram, haec includere rogo:"
+    },
+    "s_detail__1": {
+        "message": "Versio ChessHelper quam uteris."
+    },
+    "s_detail__2": {
+        "message": "Capturam vel videam problema ostendens."
+    },
+    "s_detail__3": {
+        "message": "Significationem detegendae difficultatis."
+    },
+    "s_detail__4": {
+        "message": "Navigator et eius versio (e.g., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Pecudes / Tabulae Consuetudinariae:"
+    },
+    "menu_pieces": {
+        "message": "Elige Pecudes:"
+    },
+    "menu_board": {
+        "message": "Elige Tabulam:"
+    },
+    "menu_boardfeat": {
+        "message": "Proprietates Tabulae:"
+    }
+}

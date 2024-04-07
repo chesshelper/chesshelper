@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Maboko.com Mabanga ya Bokonzi, Maboti - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Eloka maboko mapya, maboti, mabeseni, na maboti, toya likanisi, likalama, na mbala na mokusepela."
+    },
+    "disabled": {
+        "message": "Ozali kobeta ChessHelper"
+    },
+    "header_title": {
+        "message": "Elongola ya ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Tunaki Chess.com! Toyebisa ye koboma mingi."
+    },
+    "btn_donate": {
+        "message": "Lobela"
+    },
+    "btn_support": {
+        "message": "Pesa mosuni"
+    },
+    "btn_reqfeature": {
+        "message": "Lobela ntango"
+    },
+    "btn_goback": {
+        "message": "koboma mokusepela"
+    },
+    "menu_main": {
+        "message": "Mibeko ya likanisi:"
+    },
+    "menu_sec": {
+        "message": "Mibeko mingi:"
+    },
+    "menu_palette": {
+        "message": "Mibeko ya kolela / mafoni:"
+    },
+    "n_default": {
+        "message": "Likambo"
+    },
+    "mi_1": {
+        "message": "Yokomela \"Mode Focus\" \n (nzela moko ya koyemba na Bullet)"
+    },
+    "mi_2": {
+        "message": "Kokomela stream na mokusepela moko"
+    },
+    "mi_3": {
+        "message": "Yokomela teinte ya HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Kokomela \"Na ngai\" popup"
+    },
+    "mi_5": {
+        "message": "Kokomela Chat"
+    },
+    "mi_6": {
+        "message": "Kufa kokomona: \n\"Kokende tosakana moko moko...\""
+    },
+    "mi_7": {
+        "message": "Seta mokusepela na hauteur ya 100% likanisi"
+    },
+    "mi_8": {
+        "message": "Somba koordinati mingi"
+    },
+    "mi_9": {
+        "message": "Koordinati moko na moko"
+    },
+    "mi_10": {
+        "message": "Mibeko ya kolela / mafoni:"
+    },
+    "mi_11": {
+        "message": "Kosombisa bato mingi"
+    },
+    "mi_12": {
+        "message": "Mikolo mingi mingi"
+    },
+    "mi_13": {
+        "message": "Kokomela teinte ya mbongo na hover"
+    },
+    "mi_14": {
+        "message": "Kokende koluka kokoma osala"
+    },
+    "mi_15": {
+        "message": "Kosakola pe moto (beta)"
+    },
+    "mi_16": {
+        "message": "Double-click kosalisa \n (na \"Ozali na malamu te\" popup)"
+    },
+    "mi_17": {
+        "message": "Yokomela button ya ekotana (mokolo ya likolo ya mobali)"
+    },
+    "fonts_title": {
+        "message": "Kokokende font:"
+    },
+    "themes_title": {
+        "message": "Kokokende teinte:"
+    },
+    "themes_label": {
+        "message": "ETO"
+    },
+    "themes_msg": {
+        "message": "Options moko moko v1.1.9"
+    },
+    "theme_1": {
+        "message": "Likambo (Lisusu moko)"
+    },
+    "d_title": {
+        "message": "Lobela ezali kopesa ChessHelper na kosunga."
+    },
+    "d_subtitle": {
+        "message": "Nako loba masolo mingi kila samedi na koya kozala ndenge na ndenge, kokende kosungisa makambo, kokomona na kolela ya boboto. Soutien nayo esengeli na kokufi!"
+    },
+    "d_pp": {
+        "message": "Lobela na PayPal"
+    },
+    "d_kofi": {
+        "message": "Kopesa ngai na Ko-Fi"
+    },
+    "d_card": {
+        "message": "Lobela na krediti oyo pe na debeti"
+    },
+    "d_cred__1": {
+        "message": "Oza nsuka kobuka ChessHelper na ba mokristu na yo moko moko to lobela"
+    },
+    "d_cred__2": {
+        "message": "komona"
+    },
+    "d_cred__3": {
+        "message": "Nkembo."
+    },
+    "s_title": {
+        "message": "Ezali likambo na ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Ndenge oza na likambo, ko monana na bango ndenge oyo ozali kokomona mingi:"
+    },
+    "s_res__1": {
+        "message": "Sakana peji ya Chess.com."
+    },
+    "s_res__2": {
+        "message": "Kosombisa pe kosengelaki ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Kosombisa mingi mibeko mingi."
+    },
+    "s_res__4": {
+        "message": "Kosombisa pe kobuka ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Kosombisa likambo ya ngeci ya mokusepela."
+    },
+    "s_emailme": {
+        "message": "Ingi ozalaki na likambo, tosangani na ngai na"
+    },
+    "s_effic": {
+        "message": "Na kosunga ngai na kosengela yo mingi, kosala na likambo moko moko:"
+    },
+    "s_detail__1": {
+        "message": "Version ya ChessHelper oyo ozali kokomona."
+    },
+    "s_detail__2": {
+        "message": "Mokolo pe video oyo ekomi kokomona likambo."
+    },
+    "s_detail__3": {
+        "message": "Ndenge oyo ekomi kokomona likambo."
+    },
+    "s_detail__4": {
+        "message": "Njila ya likanisi na yango (soki, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Maboti / Likanisi ya bino:"
+    },
+    "menu_pieces": {
+        "message": "Kokomona maboti:"
+    },
+    "menu_board": {
+        "message": "Kokomona mokusepela:"
+    },
+    "menu_boardfeat": {
+        "message": "Likambo ya mokusepela:"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Custom Themes, Boards - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Setz naye temas, shtiker, shriftn, un bretter, fir di ale inleytungen, pops-ups, un so vayter."
+    },
+    "disabled": {
+        "message": "Du host ChessHelper oysgeklibn"
+    },
+    "header_title": {
+        "message": "ChessHelper Extension"
+    },
+    "header_subtitle": {
+        "message": "Mir libn Chess.com! Zoln mir es nokh beser mochn."
+    },
+    "btn_donate": {
+        "message": "Shenk"
+    },
+    "btn_support": {
+        "message": "Krik shtrikhn"
+    },
+    "btn_reqfeature": {
+        "message": "Forshung forderung"
+    },
+    "btn_goback": {
+        "message": "gey tsurik"
+    },
+    "menu_main": {
+        "message": "Hapt-Features:"
+    },
+    "menu_sec": {
+        "message": "Fardere Features:"
+    },
+    "menu_palette": {
+        "message": "Farge palette / shrift:"
+    },
+    "n_default": {
+        "message": "Stendik"
+    },
+    "mi_1": {
+        "message": "Aktivirn \"Focus mode\" \n (bester far Streams un Bullet)"
+    },
+    "mi_2": {
+        "message": "Deaktivirn shtraim af der Hauptzayt"
+    },
+    "mi_3": {
+        "message": "Fueg HyperBullet-opsye tsu (30s)"
+    },
+    "mi_4": {
+        "message": "Deaktivirn \"Iber mir\" pops-up"
+    },
+    "mi_5": {
+        "message": "Deaktivirn Shmues"
+    },
+    "mi_6": {
+        "message": "Fargisn shmues notifikatsye: \n\"Zol nit oys a shakh-spiel, es zol nit zain...\""
+    },
+    "mi_7": {
+        "message": "Festleygn bret tsu 100% fester hoyd"
+    },
+    "mi_8": {
+        "message": "Makh koordinatn griser"
+    },
+    "mi_9": {
+        "message": "Koordinatn af yeder feld"
+    },
+    "mi_10": {
+        "message": "Farge palette / shrift:"
+    },
+    "mi_11": {
+        "message": "Makh zey menisher zi'en"
+    },
+    "mi_12": {
+        "message": "Gresere tsayt kontrolyes"
+    },
+    "mi_13": {
+        "message": "Deaktivirn kursirer shendlen af hover"
+    },
+    "mi_14": {
+        "message": "Weyz neytartungs-opsye, ven es iz kheyn ferbinung"
+    },
+    "mi_15": {
+        "message": "Erneier zikh dafelbst (beta)"
+    },
+    "mi_16": {
+        "message": "Dopelklik resign \n(on ayne \"Zaystu zikhers\" pops-up)"
+    },
+    "mi_17": {
+        "message": "Fueg a gantsbildknopf tsu (unten rekhter ekn)"
+    },
+    "fonts_title": {
+        "message": "Utslekht shrift:"
+    },
+    "themes_title": {
+        "message": "Utslekht tema:"
+    },
+    "themes_label": {
+        "message": "NEU"
+    },
+    "themes_msg": {
+        "message": "Naye Opsyes v1.1.9"
+    },
+    "theme_1": {
+        "message": "Stendik (Dunkel Grin)"
+    },
+    "d_title": {
+        "message": "Spentsyes haltn ChessHelper am lafn."
+    },
+    "d_subtitle": {
+        "message": "Ikh farbrekhe shtunden ale vokh farbesern bogs, tsufign un fartseykhn features, un afenemen problemn fun di nutser. Dayn shtrikhn iz kritish far di vegzetsung fun der arbet!"
+    },
+    "d_pp": {
+        "message": "Shenk durkh PayPal"
+    },
+    "d_kofi": {
+        "message": "Shtrikhn mikh af Ko-Fi"
+    },
+    "d_card": {
+        "message": "Shenk durkh kredit oder debit kartn"
+    },
+    "d_cred__1": {
+        "message": "Du kenst oykh shern ChessHelper mit dayne fraynd oder loz a"
+    },
+    "d_cred__2": {
+        "message": "rezension"
+    },
+    "d_cred__3": {
+        "message": "A dank dir."
+    },
+    "s_title": {
+        "message": "Shverikaytn mit ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Do iz aynige vegs-shtrakhlungn, vos du kenst probirn:"
+    },
+    "s_res__1": {
+        "message": "Erneier di Chess.com zayt."
+    },
+    "s_res__2": {
+        "message": "Deaktivir un dan aktivir ChessHelper vegn."
+    },
+    "s_res__3": {
+        "message": "Deaktivir ale anderer ekstensions."
+    },
+    "s_res__4": {
+        "message": "Uninstallir un noravem installir ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Klarir browser cache."
+    },
+    "s_emailme": {
+        "message": "Ven di problem iz nokh do, bit ikh dikh shmeysele af"
+    },
+    "s_effic": {
+        "message": "Tsulib mir helfn dir efektiv, bit ikh dikh arayn doser informatsye:"
+    },
+    "s_detail__1": {
+        "message": "Di version fun ChessHelper vos du nutst."
+    },
+    "s_detail__2": {
+        "message": "A screenshot oder video vos derzeygt dos problem."
+    },
+    "s_detail__3": {
+        "message": "A detaillirte beshraybung fun dem problem."
+    },
+    "s_detail__4": {
+        "message": "Dayn browser un zayn version (zum beyspil, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Sheyne shtiker / bret:"
+    },
+    "menu_pieces": {
+        "message": "Utslekht shtiker:"
+    },
+    "menu_board": {
+        "message": "Utslekht bret:"
+    },
+    "menu_boardfeat": {
+        "message": "Bret-funktsyes:"
+    }
+}

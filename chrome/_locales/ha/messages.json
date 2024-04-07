@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Sabon Tatsuniya, Mako - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Saita sabon lambobin, tsarin kaya, rubutu, da makotan, cire damuwa na damuwa, popups, da dai sauransu."
+    },
+    "disabled": {
+        "message": "Kak ka kashe ChessHelper"
+    },
+    "header_title": {
+        "message": "Gaiwarar ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Mu kasance wanda zamu kasance mai kyau a Chess.com! Mu yi amfani dashi."
+    },
+    "btn_donate": {
+        "message": "Sadaka"
+    },
+    "btn_support": {
+        "message": "Samun damuwa"
+    },
+    "btn_reqfeature": {
+        "message": "Yi tambaya"
+    },
+    "btn_goback": {
+        "message": "Dawo"
+    },
+    "menu_main": {
+        "message": "Jerin Takamaimai:"
+    },
+    "menu_sec": {
+        "message": "Jerin Kariya:"
+    },
+    "menu_palette": {
+        "message": "Kayan launi / rubutu:"
+    },
+    "n_default": {
+        "message": "Nijeri"
+    },
+    "mi_1": {
+        "message": "Yi amfani da \"Jam'i mode\" (saukin domin Kallon Yabo da Bullet)"
+    },
+    "mi_2": {
+        "message": "Kashe al'amuran a Shafin Asali"
+    },
+    "mi_3": {
+        "message": "Kashe Zabi na HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Kashe pop-up na \"Na me\""
+    },
+    "mi_5": {
+        "message": "Kashe yanayi"
+    },
+    "mi_6": {
+        "message": "Tsaya yanayi bayanin damuwa: \n\"Bari ba ka fara wasa ba idan...\""
+    },
+    "mi_7": {
+        "message": "Saita bordan zuwa 100% tsawon cikin"
+    },
+    "mi_8": {
+        "message": "Yi matsayin zabukan kocin"
+    },
+    "mi_9": {
+        "message": "Zabukan kocin a kowane gilashi"
+    },
+    "mi_10": {
+        "message": "Kayan launi / rubutu:"
+    },
+    "mi_11": {
+        "message": "Yi su yin murabus"
+    },
+    "mi_12": {
+        "message": "Za ka kwashe zabi"
+    },
+    "mi_13": {
+        "message": "Kashe sabani bayan kira"
+    },
+    "mi_14": {
+        "message": "Nuna zaɓi idan ku kasa"
+    },
+    "mi_15": {
+        "message": "Saɓa shafin amsa sama-sama (beta)"
+    },
+    "mi_16": {
+        "message": "Ƙara sauran maki \n (bayan \"Kuna so\" pop-up)"
+    },
+    "mi_17": {
+        "message": "Zaɓi kofan bidiyo (kan hagu daki na dama)"
+    },
+    "fonts_title": {
+        "message": "Zaɓi rubutu:"
+    },
+    "themes_title": {
+        "message": "Zaɓi lambar:"
+    },
+    "themes_label": {
+        "message": "SABUWAR"
+    },
+    "themes_msg": {
+        "message": "Sabuwar Kwarewa v1.1.9"
+    },
+    "theme_1": {
+        "message": "Nijeri (Dark Green)"
+    },
+    "d_title": {
+        "message": "Sadakar zai taimaka ChessHelper mai lafiya."
+    },
+    "d_subtitle": {
+        "message": "Zan gwada lokaci kowane mako na week, nuna bugs, kuma sanar da damuwa ko yaushe. Damuwa ta damuwa shine damuwa ta gaba!"
+    },
+    "d_pp": {
+        "message": "Sadaka ta PayPal"
+    },
+    "d_kofi": {
+        "message": "Samun damuwa a Ko-Fi"
+    },
+    "d_card": {
+        "message": "Sadaka ta kredi ko debit katin"
+    },
+    "d_cred__1": {
+        "message": "Zaka iya kuma bayar da kyawawan kwayarwa don ChessHelper tare da abokanka ko gani"
+    },
+    "d_cred__2": {
+        "message": "ta bada damuwa"
+    },
+    "d_cred__3": {
+        "message": "Nagode."
+    },
+    "s_title": {
+        "message": "An kuskure da damuwa tare da ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Wannan suna mafi kusa ko wane damuwa da kuke yi wannan ake yi:"
+    },
+    "s_res__1": {
+        "message": "Saɓa shafin Chess.com."
+    },
+    "s_res__2": {
+        "message": "Kashe kuma to auna ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Kashe wadannan saɓuwar extension."
+    },
+    "s_res__4": {
+        "message": "Sauki kuma shirya ChessHelper"
+    },
+    "s_res__5": {
+        "message": "Saɓa mai waya rashin aiki."
+    },
+    "s_emailme": {
+        "message": "Idan damuwa baya nan, zaka iya yi email min a"
+    },
+    "s_effic": {
+        "message": "Don samun damuwa don shaidar min damuwa, to mey da wannan bayanai:"
+    },
+    "s_detail__1": {
+        "message": "Lissafin ChessHelper da kake amfani dashi."
+    },
+    "s_detail__2": {
+        "message": "Shi ne screenshot ko bidiyo wanda ya nuna damuwa."
+    },
+    "s_detail__3": {
+        "message": "Bayanin damuwa da damuwa."
+    },
+    "s_detail__4": {
+        "message": "Wayoyin katin da suka yi amfani da shi (misali, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Sabon Zabi / Bodi:"
+    },
+    "menu_pieces": {
+        "message": "Zaɓi Zabi:"
+    },
+    "menu_board": {
+        "message": "Zaɓi Bodi:"
+    },
+    "menu_boardfeat": {
+        "message": "Jerin Yanayi na Bodi:"
+    }
+}

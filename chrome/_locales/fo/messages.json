@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Custom Themes, Boards - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Uppsetning av nýggjar temas, brikker, letur og borð, tak burtur irriterandi tilkynningar, popup og so framvegis."
+    },
+    "disabled": {
+        "message": "Tú hevur sløkkt á ChessHelper"
+    },
+    "header_title": {
+        "message": "ChessHelper Framleiðsla"
+    },
+    "header_subtitle": {
+        "message": "Vit elska Chess.com! Lat okkum gera tað enn betur."
+    },
+    "btn_donate": {
+        "message": "Geva"
+    },
+    "btn_support": {
+        "message": "Fá hjálp"
+    },
+    "btn_reqfeature": {
+        "message": "Biðja um eginleika"
+    },
+    "btn_goback": {
+        "message": "far aftur"
+    },
+    "menu_main": {
+        "message": "Høvuðs Eigindi:"
+    },
+    "menu_sec": {
+        "message": "Aukaeigindi:"
+    },
+    "menu_palette": {
+        "message": "Liturpaletta / letur:"
+    },
+    "n_default": {
+        "message": "Vanligt"
+    },
+    "mi_1": {
+        "message": "Virka \"Fokusmóde\" \n (best fyri Streym og Bullet)"
+    },
+    "mi_2": {
+        "message": "Sløkk straum á Heim-síðu"
+    },
+    "mi_3": {
+        "message": "Legg HyperBullet val (30s) afturat"
+    },
+    "mi_4": {
+        "message": "Sløkk \"Um meg\" popup"
+    },
+    "mi_5": {
+        "message": "Sløkk Snak"
+    },
+    "mi_6": {
+        "message": "Fjal skjótarbólk: \n\"Ikki byrja eitt spæl uttan...\""
+    },
+    "mi_7": {
+        "message": "Set borð at 100% fastari hædd"
+    },
+    "mi_8": {
+        "message": "Gera kordínatar størri"
+    },
+    "mi_9": {
+        "message": "Kordínatar á hvørjum rúmi"
+    },
+    "mi_10": {
+        "message": "Liturpaletta / letur:"
+    },
+    "mi_11": {
+        "message": "Gera teir minni sýnligar"
+    },
+    "mi_12": {
+        "message": "Størri tímasetingar"
+    },
+    "mi_13": {
+        "message": "Sløkk markørar skifti á hover"
+    },
+    "mi_14": {
+        "message": "Vís endurfara møguleika, um ótengdur"
+    },
+    "mi_15": {
+        "message": "Endurnýggja síðuna sjálvt (beta)"
+    },
+    "mi_16": {
+        "message": "Tvørgløð afturkallan \n(utan \"Ert tú viss\" popup)"
+    },
+    "mi_17": {
+        "message": "Legg fullskjátt knapp (niðra høgra horni)"
+    },
+    "fonts_title": {
+        "message": "Vel letur:"
+    },
+    "themes_title": {
+        "message": "Vel tema:"
+    },
+    "themes_label": {
+        "message": "NÝTT"
+    },
+    "themes_msg": {
+        "message": "Nýggjar Möguleikar v1.1.9"
+    },
+    "theme_1": {
+        "message": "Vanligt (Myrkt Grønt)"
+    },
+    "d_title": {
+        "message": "Gávur halda ChessHelper í gongd."
+    },
+    "d_subtitle": {
+        "message": "Eg leggi fíggindarstundir hvønn viku í at rætta feil, leggja til og bæta eginleikum, og svara brúkarar feedback. Tín stuðul er neyðugur fyri framvegis vedlíkahald!"
+    },
+    "d_pp": {
+        "message": "Geva via PayPal"
+    },
+    "d_kofi": {
+        "message": "Stuðla mær á Ko-Fi"
+    },
+    "d_card": {
+        "message": "Geva via kredit ella debet kort"
+    },
+    "d_cred__1": {
+        "message": "Tú kanst eisini deila ChessHelper við vinar tínar ella skriva ein"
+    },
+    "d_cred__2": {
+        "message": "anmelding"
+    },
+    "d_cred__3": {
+        "message": "Takk."
+    },
+    "s_title": {
+        "message": "Trupulleikar við ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Her eru nakrir trýstistig tú kanst prøva:"
+    },
+    "s_res__1": {
+        "message": "Endurnýggja Chess.com síðuna."
+    },
+    "s_res__2": {
+        "message": "Sløkk og lat aftur virka ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Sløkk hvørki aðrar útbyggingar."
+    },
+    "s_res__4": {
+        "message": "Avinstallera og endurinstallera ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Rensk brúsur keðju."
+    },
+    "s_emailme": {
+        "message": "Um trupulleikarnir eru framvegis her, vinsamikið send mær ein teldupost á"
+    },
+    "s_effic": {
+        "message": "Hjálp mær at hjálpa tær betur, vinsamikið innifeld hesar upplýsingar:"
+    },
+    "s_detail__1": {
+        "message": "Útgáva av ChessHelper tú brúkar."
+    },
+    "s_detail__2": {
+        "message": "Eina skrámynd ella video, sum vísur trupulleikan."
+    },
+    "s_detail__3": {
+        "message": "Ein nøgdlig forkláring á trupulleikanum."
+    },
+    "s_detail__4": {
+        "message": "Tín brúsara og hvør útgáva (t.d., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Eginbýtar Brikker / Borð:"
+    },
+    "menu_pieces": {
+        "message": "Vel Brikker:"
+    },
+    "menu_board": {
+        "message": "Vel Borð:"
+    },
+    "menu_boardfeat": {
+        "message": "Borð eginleikar:"
+    }
+}

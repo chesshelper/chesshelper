@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Vlastné témy, šachovnice - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Nastavte nové témy, figurky, písma a šachovnice, odstráňte otravné oznámenia, vyskakovacie okná a podobne."
+    },
+    "disabled": {
+        "message": "Vypol(a) si ChessHelper"
+    },
+    "header_title": {
+        "message": "Rozšírenie ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Milujeme Chess.com! Urobme ho ešte lepším."
+    },
+    "btn_donate": {
+        "message": "Prispej"
+    },
+    "btn_support": {
+        "message": "Získať podporu"
+    },
+    "btn_reqfeature": {
+        "message": "Požiadať o funkciu"
+    },
+    "btn_goback": {
+        "message": "späť"
+    },
+    "menu_main": {
+        "message": "Hlavné funkcie:"
+    },
+    "menu_sec": {
+        "message": "Ďalšie funkcie:"
+    },
+    "menu_palette": {
+        "message": "Farba palety / písmo:"
+    },
+    "n_default": {
+        "message": "Predvolené"
+    },
+    "mi_1": {
+        "message": "Povoliť „Režim zamerania“ \n (najlepší pre Streamy a Bullet)"
+    },
+    "mi_2": {
+        "message": "Zakázať stream na hlavnej stránke"
+    },
+    "mi_3": {
+        "message": "Pridať voľbu HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Zakázať vyskakovacie okno „O mne“"
+    },
+    "mi_5": {
+        "message": "Zakázať Chat"
+    },
+    "mi_6": {
+        "message": "Skryť oznámenie v chate: \n„Nezačínaj hru, pokiaľ...“"
+    },
+    "mi_7": {
+        "message": "Nastaviť šachovnicu na 100% pevnú výšku"
+    },
+    "mi_8": {
+        "message": "Zväčšiť súradnice"
+    },
+    "mi_9": {
+        "message": "Súradnice na každom políčku"
+    },
+    "mi_10": {
+        "message": "Farba palety / písmo:"
+    },
+    "mi_11": {
+        "message": "Urobiť ich menej viditeľnými"
+    },
+    "mi_12": {
+        "message": "Väčšie časové ovládanie"
+    },
+    "mi_13": {
+        "message": "Zakázať zmenu kurzora po najazdení"
+    },
+    "mi_14": {
+        "message": "Zobraziť možnosť obnovenia pri odpojení"
+    },
+    "mi_15": {
+        "message": "Automaticky obnoviť stránku (beta)"
+    },
+    "mi_16": {
+        "message": "Dvojklik na rezignáciu \n(bez výzvy „Ste si istý/á“)"
+    },
+    "mi_17": {
+        "message": "Pridať tlačidlo na celú obrazovku (vpravo dole)"
+    },
+    "fonts_title": {
+        "message": "Vyberte písmo:"
+    },
+    "themes_title": {
+        "message": "Vyberte tému:"
+    },
+    "themes_label": {
+        "message": "NOVÉ"
+    },
+    "themes_msg": {
+        "message": "Nové možnosti v1.1.9"
+    },
+    "theme_1": {
+        "message": "Predvolené (Tmavozelené)"
+    },
+    "d_title": {
+        "message": "Príspevky udržiavajú ChessHelper v chode."
+    },
+    "d_subtitle": {
+        "message": "Každý týždeň trávim hodiny opravovaním chýb, pridávaním a zdokonaľovaním funkcií a reagovaním na spätnú väzbu od používateľov. Vaša podpora je kľúčová pre pokračujúcu údržbu!"
+    },
+    "d_pp": {
+        "message": "Prispejte cez PayPal"
+    },
+    "d_kofi": {
+        "message": "Podporte ma na Ko-Fi"
+    },
+    "d_card": {
+        "message": "Prispejte kreditnou alebo debetnou kartou"
+    },
+    "d_cred__1": {
+        "message": "Môžete tiež zdieľať ChessHelper so svojimi priateľmi alebo nechať"
+    },
+    "d_cred__2": {
+        "message": "hodnotenie"
+    },
+    "d_cred__3": {
+        "message": "Ďakujem."
+    },
+    "s_title": {
+        "message": "Máte problémy s ChessHelperom?"
+    },
+    "s_subtitle": {
+        "message": "Tu sú niektoré kroky na odstránenie problémov, ktoré môžete vyskúšať:"
+    },
+    "s_res__1": {
+        "message": "Obnovte stránku Chess.com."
+    },
+    "s_res__2": {
+        "message": "Vypnite a potom znovu povolte ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Vypnite akékoľvek ďalšie rozšírenia."
+    },
+    "s_res__4": {
+        "message": "Odinštalujte a znovu nainštalujte ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Vyčistite vyrovnávaciu pamäť prehliadača."
+    },
+    "s_emailme": {
+        "message": "Ak problém pretrváva, kontaktujte ma e-mailom na"
+    },
+    "s_effic": {
+        "message": "Aby som vám mohol efektívne pomôcť, uveďte prosím tieto informácie:"
+    },
+    "s_detail__1": {
+        "message": "Verzia ChessHelper, ktorú používate."
+    },
+    "s_detail__2": {
+        "message": "Screenshot alebo video demonštrujúce problém."
+    },
+    "s_detail__3": {
+        "message": "Podrobný popis problému."
+    },
+    "s_detail__4": {
+        "message": "Váš prehliadač a jeho verzia (napr. Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Vlastné figúrky / šachovnica:"
+    },
+    "menu_pieces": {
+        "message": "Vyberte figúrky:"
+    },
+    "menu_board": {
+        "message": "Vyberte šachovnicu:"
+    },
+    "menu_boardfeat": {
+        "message": "Funkcie šachovnice:"
+    }
+}

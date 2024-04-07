@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Nā Mea Kūʻai Kūikawā Aka Hōʻailona, Papa - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Hoʻokumu i nā mea kūikawā hou, mau kiʻi, hōʻailona, a me nā papa, e kahe i nā hōʻailona pilikino, hōʻike kūʻē, a pēlā aku."
+    },
+    "disabled": {
+        "message": "Ua hoʻohuli ʻoe iā ChessHelper"
+    },
+    "header_title": {
+        "message": "Ka Pākaukau Hoʻouka a ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Aloha kākou iā Chess.com! E hoʻohauʻoli hou iā ia."
+    },
+    "btn_donate": {
+        "message": "Haʻawi"
+    },
+    "btn_support": {
+        "message": "E loaʻa ka hoʻouka"
+    },
+    "btn_reqfeature": {
+        "message": "Noi i ka hoʻouka"
+    },
+    "btn_goback": {
+        "message": "hoʻi aku"
+    },
+    "menu_main": {
+        "message": "Nā Kūlana Nui:"
+    },
+    "menu_sec": {
+        "message": "Nā Kūlana Hoʻokahi:"
+    },
+    "menu_palette": {
+        "message": "Mea paleti uila / palapala:"
+    },
+    "n_default": {
+        "message": "Kumu"
+    },
+    "mi_1": {
+        "message": "Hoʻāʻo i ka 'Focus mode' \n (ka pono loa no nā Māhele a me nā Bullet)"
+    },
+    "mi_2": {
+        "message": "Kāʻei i ka Māhele ma ka ʻAoʻao Nui"
+    },
+    "mi_3": {
+        "message": "Hoʻonoho i ka Koho HyperBullet (30 mau minuke)"
+    },
+    "mi_4": {
+        "message": "Kāʻei i ka Hōʻike 'About me'"
+    },
+    "mi_5": {
+        "message": "Kāʻei i ka Hāʻawi"
+    },
+    "mi_6": {
+        "message": "Hunā i ka hōʻike uila: \n'Mai hoʻokumu i kekahi pāʻani ke ʻole...'"
+    },
+    "mi_7": {
+        "message": "Hoʻonoho i ka papa i ka loulou 100%"
+    },
+    "mi_8": {
+        "message": "Hana nui i nā aniani"
+    },
+    "mi_9": {
+        "message": "Aniani ma ia kūlanakauhale"
+    },
+    "mi_10": {
+        "message": "Mea paleti uila / palapala:"
+    },
+    "mi_11": {
+        "message": "Hana ʻole iā lākou iki loa"
+    },
+    "mi_12": {
+        "message": "Nui a hana nui nā kūlana manawa"
+    },
+    "mi_13": {
+        "message": "Hāʻawi i ka hana i ka hilinaʻi"
+    },
+    "mi_14": {
+        "message": "Hōʻike i ka mea hou inā i hoʻokuʻu"
+    },
+    "mi_15": {
+        "message": "Hoʻohou i ka ʻaoʻao ʻino maikaʻi iho (beta)"
+    },
+    "mi_16": {
+        "message": "Nui i ka paʻa ma ke kūʻokoʻa \n (me ka hōʻailona 'Ua pono ʻoe' e hoʻokō ʻole)"
+    },
+    "mi_17": {
+        "message": "Koho i ka pā nui (kūʻokoʻa ma lalo ma hope ma luna ma ke kihi ʻākau)"
+    },
+    "fonts_title": {
+        "message": "Koho i ka palapala:"
+    },
+    "themes_title": {
+        "message": "Koho i ka huahana:"
+    },
+    "themes_label": {
+        "message": "HOU"
+    },
+    "themes_msg": {
+        "message": "Nā Koho Hou v1.1.9"
+    },
+    "theme_1": {
+        "message": "Kumu (Māʻokiʻoki ʻĀhina)"
+    },
+    "d_title": {
+        "message": "Nā Haʻawina Hoʻouka e hoʻomau ana iā ChessHelper."
+    },
+    "d_subtitle": {
+        "message": "Kūkākūkā au i nā hola a kēlā me kēia pule e kūkulu ai i nā pilikia, e hoʻohui a e hoʻonui i nā mea hana, a e kūkākūkā ana i nā kūkākūkā a nā mea hoʻolaha. ʻO kou kākoʻo kekahi i ka hoʻomau ʻana!"
+    },
+    "d_pp": {
+        "message": "Haʻawi ma PayPal"
+    },
+    "d_kofi": {
+        "message": "Hoʻomālama iaʻu ma Ko-Fi"
+    },
+    "d_card": {
+        "message": "Haʻawi ma ke kaʻāina kālepa a i ka pōlulele kaʻāina"
+    },
+    "d_cred__1": {
+        "message": "Hiki iā ʻoe hoʻi ke noi aku i kou mau hoaaloha iā ChessHelper a i waiho hoʻi iā"
+    },
+    "d_cred__2": {
+        "message": "hana"
+    },
+    "d_cred__3": {
+        "message": "Mahalo."
+    },
+    "s_title": {
+        "message": "ʻAno hoʻopilikino me ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Eia kekahi mau kikowaena e hoʻāʻo iā ʻoe e hoʻāʻo i:"
+    },
+    "s_res__1": {
+        "message": "Hoʻomaka i ka ʻaoʻao Chess.com hou."
+    },
+    "s_res__2": {
+        "message": "Kāʻei a laila hoʻi i ke ʻaoʻao a ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Kāʻei a laila hoʻi i nā hōʻailona ʻē aʻe."
+    },
+    "s_res__4": {
+        "message": "ʻUninstall a laila hoʻi iā ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Kīpaku i ka pale peʻa o ka pūʻāina."
+    },
+    "s_emailme": {
+        "message": "Inā e ʻoi aku ka pilikia, ke ʻoluʻolu, e hoʻouna iāʻu i keʻano"
+    },
+    "s_effic": {
+        "message": "E kōkua iaʻu e kokua iāʻoe i kaʻoluʻolu ʻana mai, e kākoʻo i kēia māhele ʻike:"
+    },
+    "s_detail__1": {
+        "message": "Ka helu o ChessHelper āu e hoʻomohala ana."
+    },
+    "s_detail__2": {
+        "message": "He kiʻi a iʻole hui i ka pilikia."
+    },
+    "s_detail__3": {
+        "message": "He lehulehu no ka pilikia."
+    },
+    "s_detail__4": {
+        "message": "Kou hoʻohālike a me kona helu (e.g., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Nā Mea Kūikawā / Papa Kūikawā:"
+    },
+    "menu_pieces": {
+        "message": "Koho i nā Mea Kūikawā:"
+    },
+    "menu_board": {
+        "message": "Koho i ka Papa:"
+    },
+    "menu_boardfeat": {
+        "message": "Nā Hoʻokumu Papa:"
+    }
+}

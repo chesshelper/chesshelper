@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Custom Themes, Boards - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Bixinta qaabab cusub, luuqyada, qoraallada, iyo khadka, kaas oo ka saaro xanuunyada ah, notifications, popups, iyo waxyaabo kale."
+    },
+    "disabled": {
+        "message": "Waad xiriirday ChessHelper"
+    },
+    "header_title": {
+        "message": "Kala Soco Kala Soco ee ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Waxaan jeclahay Chess.com! Soo saar noocyada kale si aan u sahlo."
+    },
+    "btn_donate": {
+        "message": "Waqti"
+    },
+    "btn_support": {
+        "message": "Hel taageero"
+    },
+    "btn_reqfeature": {
+        "message": "Codso fiisaha"
+    },
+    "btn_goback": {
+        "message": "kale"
+    },
+    "menu_main": {
+        "message": "Qodobada Hoose:"
+    },
+    "menu_sec": {
+        "message": "Qodobada Kaddib:"
+    },
+    "menu_palette": {
+        "message": "Cunto / font:"
+    },
+    "n_default": {
+        "message": "Guud"
+    },
+    "mi_1": {
+        "message": "Guddo \"Mode Focus\" \n (Ugu fiican ee Streams iyo Bullet)"
+    },
+    "mi_2": {
+        "message": "Jooji stream ee Bogga Hore"
+    },
+    "mi_3": {
+        "message": "Ku dar HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Jooji pop-upka \"Waxaan ahay\""
+    },
+    "mi_5": {
+        "message": "Jooji Chat"
+    },
+    "mi_6": {
+        "message": "Qari chat: \n\"Ha bilaabo ciyaar xilli...\""
+    },
+    "mi_7": {
+        "message": "Dhisisti 100% koronto ah"
+    },
+    "mi_8": {
+        "message": "Biyaha saar ka dhig"
+    },
+    "mi_9": {
+        "message": "Biyaha kulliga meel kasta"
+    },
+    "mi_10": {
+        "message": "Cunto / font:"
+    },
+    "mi_11": {
+        "message": "Soo gudbo hadafka ka yar"
+    },
+    "mi_12": {
+        "message": "Labsado daqiiqadaha"
+    },
+    "mi_13": {
+        "message": "Jooji badalka kursiga markii la helo"
+    },
+    "mi_14": {
+        "message": "Muuji khadka xiran haddii laga tuuriyo"
+    },
+    "mi_15": {
+        "message": "Cusbooneysi bogga isbedelka (beta)"
+    },
+    "mi_16": {
+        "message": "Labo meel resign \n(bilaabo pop-upka \"Ma hubtaa\")"
+    },
+    "mi_17": {
+        "message": "Ku dar button screen oo dhinaca yeesha ugu dambeynta"
+    },
+    "fonts_title": {
+        "message": "Xulo fontka:"
+    },
+    "themes_title": {
+        "message": "Xulo tema:"
+    },
+    "themes_label": {
+        "message": "CUSUB"
+    },
+    "themes_msg": {
+        "message": "Warbixin Cusub v1.1.9"
+    },
+    "theme_1": {
+        "message": "Guud (Midih Xanuun)"
+    },
+    "d_title": {
+        "message": "Dhaqaale wuxuu marag u ah ChessHelper."
+    },
+    "d_subtitle": {
+        "message": "Waxaan isuqaaday saacadaha toddobaadkii isla markaana aan ku sameynayno bugs, ku dar iyo korontooyin, iyo ka hadlaya arrinta adeegsiga. Taageeradaada waa muhiim in lagu siiyo in dib loo sameeyo!"
+    },
+    "d_pp": {
+        "message": "Waxaad hesho lacag PayPal ah"
+    },
+    "d_kofi": {
+        "message": "Taageerada Ko-Fi"
+    },
+    "d_card": {
+        "message": "Waxaad ku bixisaa lacag iyo kaartad"
+    },
+    "d_cred__1": {
+        "message": "Waxaad sidoo kale la wadaagtaa ChessHelper saaxiibbada ama fiiro gaar ah soo dejiso"
+    },
+    "d_cred__2": {
+        "message": "dib u eegis"
+    },
+    "d_cred__3": {
+        "message": "Mahadsanid."
+    },
+    "s_title": {
+        "message": "Arrimahaasi maqalka ah ee ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Halkan waxaad sameyn karto qaabab la xiriira:"
+    },
+    "s_res__1": {
+        "message": "Cusbooneysi bogga Chess.com."
+    },
+    "s_res__2": {
+        "message": "Jooji, kaddibna gacmaha dib u soo cel ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Jooji kiisas kale."
+    },
+    "s_res__4": {
+        "message": "Ka tirtiri iyo dib u dhig ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Fadhiist bogga browserka."
+    },
+    "s_emailme": {
+        "message": "Haddii arrintu weli jiraan, fadlan iimaylka iimeelkaaga kuugu soo dir"
+    },
+    "s_effic": {
+        "message": "Si aan kuu caawino iyada oo in kasta loo eego, fadlan kaalinwadaag qoraalkan:"
+    },
+    "s_detail__1": {
+        "message": "Versiyadda ChessHelper aad isticmaali doonto."
+    },
+    "s_detail__2": {
+        "message": "Sawir ama fiidiyo ku taariikhda arrimaha."
+    },
+    "s_detail__3": {
+        "message": "Sharaxaad ka duwan arrintu."
+    },
+    "s_detail__4": {
+        "message": "Browserkaaga iyo tiradda (tusaale, Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Qalab Pieces / Board:"
+    },
+    "menu_pieces": {
+        "message": "Xulo Pieces:"
+    },
+    "menu_board": {
+        "message": "Xulo Board:"
+    },
+    "menu_boardfeat": {
+        "message": "Xogta Board:"
+    }
+}

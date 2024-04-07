@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/chesshelper/chesshelper/assets/47056812/3962adcb-a242-4146-93e2-3ad8a89492f4" width="85" height="85"/>
+  <img src="https://github.com/ChessHelper/ChessHelper/assets/47056812/3962adcb-a242-4146-93e2-3ad8a89492f4" width="85" height="85"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chesshelper/chesshelper/9c769c34bdac9ef0f4f7bd07dfb94afd0793ca0d/chrome/assets/img/text.svg" width="450px" height="auto"/>
+  <img src="https://raw.githubusercontent.com/ChessHelper/ChessHelper/9c769c34bdac9ef0f4f7bd07dfb94afd0793ca0d/chrome/assets/img/text.svg" width="450px" height="auto"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Get new Chess.com themes, pieces, and boards. Disable annoying notifications, ad
 
 ***
 
-<p align="center"><a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/chesshelper-improve-chess/kdkckejnngdmlcephpnfaggaeofloode/"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>  <a rel="noreferrer noopener" href="https://addons.mozilla.org/en-US/firefox/addon/chesshelper/"><img alt="Firefox Add-ons" src="https://img.shields.io/badge/Firefox-141e24.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>  <a rel="noreferrer noopener" title="Very Soon (on review)" href="#mc"><img alt="Edge Addons" src="https://img.shields.io/badge/Edge-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>  <a href="#soon" title="Soon" rel="noreferrer noopener"><img height="28" alt="Apple App Store" src="https://img.shields.io/badge/Safari-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>
+<p align="center"><a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/ChessHelper-improve-chess/kdkckejnngdmlcephpnfaggaeofloode/"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>  <a rel="noreferrer noopener" href="https://addons.mozilla.org/en-US/firefox/addon/ChessHelper/"><img alt="Firefox Add-ons" src="https://img.shields.io/badge/Firefox-141e24.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>  <a rel="noreferrer noopener" title="Very Soon (on review)" href="#mc"><img alt="Edge Addons" src="https://img.shields.io/badge/Edge-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>  <a href="#soon" title="Soon" rel="noreferrer noopener"><img height="28" alt="Apple App Store" src="https://img.shields.io/badge/Safari-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>
 
 
 
@@ -24,9 +24,9 @@ I love Chess.com, but... There's always thing that you want to improve just beca
 
 ## Installation
 
-ChessHelper is available on the [Google Chrome Store](https://chrome.google.com/webstore/detail/chesshelper-improve-chess/kdkckejnngdmlcephpnfaggaeofloode/), [Firefox Web Store](https://addons.mozilla.org/en-US/firefox/addon/chesshelper/) and [Microsoft Edge Store](#ms). Visit the store page and click on the "Add" button to install the extension directly to your browser.
+ChessHelper is available on the [Google Chrome Store](https://chrome.google.com/webstore/detail/ChessHelper-improve-chess/kdkckejnngdmlcephpnfaggaeofloode/), [Firefox Web Store](https://addons.mozilla.org/en-US/firefox/addon/ChessHelper/) and [Microsoft Edge Store](#ms). Visit the store page and click on the "Add" button to install the extension directly to your browser.
 
-You can also download the latest version of ChessHelper Extension from the [Releases](https://github.com/chesshelper/chesshelper/releases) page. Choose the appropriate version for your operating system and follow the installation instructions provided.
+You can also download the latest version of ChessHelper Extension from the [Releases](https://github.com/ChessHelper/ChessHelper/releases) page. Choose the appropriate version for your operating system and follow the installation instructions provided.
 
 ## Usage
 
@@ -41,7 +41,7 @@ Once the extension is installed, follow these steps to start working with it:
 
 ChessHelper Extension is released under the Creative Commons Attribution-NonCommercial License (CC BY-NC-ND 4.0). This means that others are free to use and distribute the extension for non-commercial purposes, as long as they provide attribution to the original creator. Commercial use of the extension or publishing modified versions is not allowed without explicit permission.
 
-See the [LICENSE](https://github.com/chesshelper/chesshelper/blob/main/LICENSE.md) file for more details.
+See the [LICENSE](https://github.com/ChessHelper/ChessHelper/blob/main/LICENSE.md) file for more details.
 
 For any inquiries regarding commercial use or permission, please contact the creator at [pjaworski.dev@gmail.com].
 

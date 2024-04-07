@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Giao diện và Bàn Cờ Tùy chỉnh Chess.com - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Cài đặt giao diện mới, bộ cờ, font chữ, và bàn cờ, loại bỏ thông báo phiền hà, cửa sổ pop-up, và nhiều tính năng khác."
+    },
+    "disabled": {
+        "message": "Bạn đã tắt ChessHelper"
+    },
+    "header_title": {
+        "message": "Phần Mở Rộng ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Chúng tôi yêu thích Chess.com! Hãy làm cho nó trở nên tốt hơn."
+    },
+    "btn_donate": {
+        "message": "Quyên góp"
+    },
+    "btn_support": {
+        "message": "Nhận hỗ trợ"
+    },
+    "btn_reqfeature": {
+        "message": "Yêu cầu tính năng"
+    },
+    "btn_goback": {
+        "message": "Quay lại"
+    },
+    "menu_main": {
+        "message": "Tính Năng Chính:"
+    },
+    "menu_sec": {
+        "message": "Tính Năng Bổ Sung:"
+    },
+    "menu_palette": {
+        "message": "Bảng màu / font chữ:"
+    },
+    "n_default": {
+        "message": "Mặc định"
+    },
+    "mi_1": {
+        "message": "Bật chế độ \"Chế độ tập trung\" \n (tốt nhất cho Streams và Bullet)"
+    },
+    "mi_2": {
+        "message": "Tắt stream trên Trang chính"
+    },
+    "mi_3": {
+        "message": "Thêm lựa chọn HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Tắt cửa sổ pop-up \"About me\""
+    },
+    "mi_5": {
+        "message": "Tắt Chat"
+    },
+    "mi_6": {
+        "message": "Ẩn thông báo chat: \n\"Không bắt đầu trò chơi trừ khi...\""
+    },
+    "mi_7": {
+        "message": "Đặt chiều cao bàn cờ cố định là 100%"
+    },
+    "mi_8": {
+        "message": "Làm tăng kích thước tọa độ"
+    },
+    "mi_9": {
+        "message": "Tọa độ trên mỗi ô"
+    },
+    "mi_10": {
+        "message": "Bảng màu / font chữ:"
+    },
+    "mi_11": {
+        "message": "Làm cho chúng ít dễ thấy hơn"
+    },
+    "mi_12": {
+        "message": "Kiểm soát thời gian lớn hơn"
+    },
+    "mi_13": {
+        "message": "Tắt thay đổi con trỏ khi di chuột qua"
+    },
+    "mi_14": {
+        "message": "Hiển thị tùy chọn tải lại nếu mất kết nối"
+    },
+    "mi_15": {
+        "message": "Tự động làm mới trang (beta)"
+    },
+    "mi_16": {
+        "message": "Nhấp đúp để từ chối \n(không có cửa sổ xác nhận \"Bạn chắc chắn\""
+    },
+    "mi_17": {
+        "message": "Thêm nút toàn màn hình (góc dưới bên phải)"
+    },
+    "fonts_title": {
+        "message": "Chọn font chữ:"
+    },
+    "themes_title": {
+        "message": "Chọn giao diện:"
+    },
+    "themes_label": {
+        "message": "MỚI"
+    },
+    "themes_msg": {
+        "message": "Các Tùy Chọn Mới v1.1.9"
+    },
+    "theme_1": {
+        "message": "Mặc định (Màu Xanh Đậm)"
+    },
+    "d_title": {
+        "message": "Sự quyên góp giữ cho ChessHelper hoạt động."
+    },
+    "d_subtitle": {
+        "message": "Tôi dành hàng giờ mỗi tuần để sửa lỗi, thêm và cải thiện tính năng, và giải quyết phản hồi từ người dùng. Sự hỗ trợ của bạn là quan trọng để duy trì tiếp tục!"
+    },
+    "d_pp": {
+        "message": "Quyên góp qua PayPal"
+    },
+    "d_kofi": {
+        "message": "Hỗ trợ tôi trên Ko-Fi"
+    },
+    "d_card": {
+        "message": "Quyên góp qua thẻ tín dụng hoặc thẻ ghi nợ"
+    },
+    "d_cred__1": {
+        "message": "Bạn cũng có thể chia sẻ ChessHelper với bạn bè hoặc để lại một"
+    },
+    "d_cred__2": {
+        "message": "đánh giá"
+    },
+    "d_cred__3": {
+        "message": "Cảm ơn bạn."
+    },
+    "s_title": {
+        "message": "Gặp vấn đề với ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Dưới đây là một số bước sửa lỗi bạn có thể thử:"
+    },
+    "s_res__1": {
+        "message": "Làm mới trang Chess.com."
+    },
+    "s_res__2": {
+        "message": "Tắt và sau đó bật lại ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Tắt bất kỳ tiện ích mở rộng nào khác."
+    },
+    "s_res__4": {
+        "message": "Gỡ cài đặt và cài đặt lại ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Xóa bộ nhớ cache trình duyệt."
+    },
+    "s_emailme": {
+        "message": "Nếu vấn đề vẫn còn, vui lòng email cho tôi tại"
+    },
+    "s_effic": {
+        "message": "Để giúp tôi hỗ trợ bạn hiệu quả hơn, vui lòng bao gồm thông tin sau:"
+    },
+    "s_detail__1": {
+        "message": "Phiên bản ChessHelper bạn đang sử dụng."
+    },
+    "s_detail__2": {
+        "message": "Một ảnh chụp màn hình hoặc video mô tả vấn đề."
+    },
+    "s_detail__3": {
+        "message": "Mô tả chi tiết về vấn đề."
+    },
+    "s_detail__4": {
+        "message": "Trình duyệt và phiên bản của nó (ví dụ: Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Bộ Cờ / Bàn Cờ Tùy chỉnh:"
+    },
+    "menu_pieces": {
+        "message": "Chọn Bộ Cờ:"
+    },
+    "menu_board": {
+        "message": "Chọn Bàn Cờ:"
+    },
+    "menu_boardfeat": {
+        "message": "Tính Năng Bàn Cờ:"
+    }
+}

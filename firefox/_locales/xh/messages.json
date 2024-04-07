@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Custom Themes, Boards - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Setsha izixhobo ezintsha, izitsha, amafomthi, kanye nezibhodi, nika izicelo ezifuna ukuphakama, kuhambisane nokungathandekayo, ukusashwa nokunye."
+    },
+    "disabled": {
+        "message": "Usikhishwe ChessHelper"
+    },
+    "header_title": {
+        "message": "Umthombo weChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Sithanda iChess.com! Sifanele kube mnandi kakhulu."
+    },
+    "btn_donate": {
+        "message": "Dona"
+    },
+    "btn_support": {
+        "message": "Thenga usizo"
+    },
+    "btn_reqfeature": {
+        "message": "Cela inhlangano"
+    },
+    "btn_goback": {
+        "message": "hamba emuva"
+    },
+    "menu_main": {
+        "message": "Izithombo ezilandelayo:"
+    },
+    "menu_sec": {
+        "message": "Izithombo ezinzima:"
+    },
+    "menu_palette": {
+        "message": "Ikhabethe lekolayiti / ifomthi:"
+    },
+    "n_default": {
+        "message": "Okokugcina"
+    },
+    "mi_1": {
+        "message": "Yenza i-\"Focus mode\" \n (enkulu kweStreams kanye nenkundla)"
+    },
+    "mi_2": {
+        "message": "Sisha isithombe kwiPeji yesibili"
+    },
+    "mi_3": {
+        "message": "Faka isici esincinci (30s) yeHyperBullet"
+    },
+    "mi_4": {
+        "message": "Sisha i-popup ye\"Ngenzani nami\""
+    },
+    "mi_5": {
+        "message": "Sisha i-Chat"
+    },
+    "mi_6": {
+        "message": "Fihla isaziso somsebenzi: \n\"Ungaphangele ukushintshe umdlalo uma..."
+    },
+    "mi_7": {
+        "message": "Setha ichesha lebhodi ukuthi libe 100%"
+    },
+    "mi_8": {
+        "message": "Yenza amaciko abancinci"
+    },
+    "mi_9": {
+        "message": "Amaciko kuya emathunjini"
+    },
+    "mi_10": {
+        "message": "Ikhabethe lekolayiti / ifomthi:"
+    },
+    "mi_11": {
+        "message": "Yenza kube lula ukubona"
+    },
+    "mi_12": {
+        "message": "Izikhathi ezikhulu"
+    },
+    "mi_13": {
+        "message": "Sisha ukushintsha kwekhasi ekudluliselweni"
+    },
+    "mi_14": {
+        "message": "Bonisa inketho yokudlulisa uma kuziswe"
+    },
+    "mi_15": {
+        "message": "Hlela ipheji ngokuzungeza (beta)"
+    },
+    "mi_16": {
+        "message": "Double-click ukulahla \n(nge-popup ye\"Uyacela kahle\")"
+    },
+    "mi_17": {
+        "message": "Faka isikhala samahlaya (phakathi kwesokudla esesimnyama)"
+    },
+    "fonts_title": {
+        "message": "Khetha ifonti:"
+    },
+    "themes_title": {
+        "message": "Khetha uhlobo:"
+    },
+    "themes_label": {
+        "message": "ENTSHA"
+    },
+    "themes_msg": {
+        "message": "Izinhlobo ezintsha v1.1.9"
+    },
+    "theme_1": {
+        "message": "Okokugcina (Emerald Green)"
+    },
+    "d_title": {
+        "message": "Izithandwa zilungiselela ChessHelper zihamba phambili."
+    },
+    "d_subtitle": {
+        "message": "Ngikhokhela imizila ngeviki ukulungisa izilwane, ukwenza kanye nokwethulwa kwemisebenzi, futhi ukushesha izilwane. Usizo lwakho lulula ekuphathweni kwesikhathi esizayo!"
+    },
+    "d_pp": {
+        "message": "Dona ngePayPal"
+    },
+    "d_kofi": {
+        "message": "Thenga usizo ngeKo-Fi"
+    },
+    "d_card": {
+        "message": "Dona ngecredit noma idebiti ikhadi"
+    },
+    "d_cred__1": {
+        "message": "Ungakwazi futhi ukushaya ChessHelper ngezinye izinhlobo noma ufake"
+    },
+    "d_cred__2": {
+        "message": "isaziso"
+    },
+    "d_cred__3": {
+        "message": "Ngiyabonga."
+    },
+    "s_title": {
+        "message": "Unamanga ngeChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Lapho kudinga ukwenza okuhambisana, njengoba:"
+    },
+    "s_res__1": {
+        "message": "Hlela upheji lweChess.com."
+    },
+    "s_res__2": {
+        "message": "Sisha futhi uqale kabusha iChessHelper."
+    },
+    "s_res__3": {
+        "message": "Sisha izixhobo ezinzima ezinye."
+    },
+    "s_res__4": {
+        "message": "Thenga futhi bheka iChessHelper."
+    },
+    "s_res__5": {
+        "message": "Sula ichashi lebhrowza."
+    },
+    "s_emailme": {
+        "message": "Uma inhloso isikhona kahle, sicela uxhumane nami ku"
+    },
+    "s_effic": {
+        "message": "Ukuze ngikhulume nawe ngenzakalisele, sicela unikeze lezi zici:"
+    },
+    "s_detail__1": {
+        "message": "Inkinga yeChessHelper oyifuna."
+    },
+    "s_detail__2": {
+        "message": "Isithombe noma ividiyo eqinisekisayo esiyathemba."
+    },
+    "s_detail__3": {
+        "message": "Incazelo enhle yokuthi kwenzakalani."
+    },
+    "s_detail__4": {
+        "message": "Ibhrowza lakho kanye nesivamele sakho (ikhulu Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Izitsha ezilula / Ibhodi:"
+    },
+    "menu_pieces": {
+        "message": "Khetha izitsha:"
+    },
+    "menu_board": {
+        "message": "Khetha ibhodi:"
+    },
+    "menu_boardfeat": {
+        "message": "Amasevisi asebhodi:"
+    }
+}

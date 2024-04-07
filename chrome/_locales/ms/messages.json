@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Tema Kustom, Papan - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Menetapkan tema baru, potongan catur, fon, dan papan, menyingkirkan pemberitahuan mengganggu, popup, dan sebagainya."
+    },
+    "disabled": {
+        "message": "Anda mematikan ChessHelper"
+    },
+    "header_title": {
+        "message": "Sambungan ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Kami suka Chess.com! Mari kita buat lebih baik."
+    },
+    "btn_donate": {
+        "message": "Sumbang"
+    },
+    "btn_support": {
+        "message": "Dapatkan sokongan"
+    },
+    "btn_reqfeature": {
+        "message": "Minta ciri"
+    },
+    "btn_goback": {
+        "message": "kembali"
+    },
+    "menu_main": {
+        "message": "Ciri Utama:"
+    },
+    "menu_sec": {
+        "message": "Ciri Tambahan:"
+    },
+    "menu_palette": {
+        "message": "Palet warna / fon:"
+    },
+    "n_default": {
+        "message": "Default"
+    },
+    "mi_1": {
+        "message": "Aktifkan \"Mod fokus\" \n (terbaik untuk Streams dan Bullet)"
+    },
+    "mi_2": {
+        "message": "Matikan stream di Halaman Utama"
+    },
+    "mi_3": {
+        "message": "Tambah pilihan HyperBullet (30s)"
+    },
+    "mi_4": {
+        "message": "Matikan popup \"Tentang saya\""
+    },
+    "mi_5": {
+        "message": "Matikan Chat"
+    },
+    "mi_6": {
+        "message": "Sembunyikan pemberitahuan chat: \n\"Jangan memulai permainan kecuali...\""
+    },
+    "mi_7": {
+        "message": "Set papan pada ketinggian tetap 100%"
+    },
+    "mi_8": {
+        "message": "Buat koordinat lebih besar"
+    },
+    "mi_9": {
+        "message": "Koordinat di setiap petak"
+    },
+    "mi_10": {
+        "message": "Palet warna / fon:"
+    },
+    "mi_11": {
+        "message": "Buat mereka kurang terlihat"
+    },
+    "mi_12": {
+        "message": "Kendali waktu yang lebih besar"
+    },
+    "mi_13": {
+        "message": "Matikan perubahan kursor saat mengarahkan"
+    },
+    "mi_14": {
+        "message": "Tampilkan opsi muat ulang jika terputus"
+    },
+    "mi_15": {
+        "message": "Segarkan halaman secara otomatis (beta)"
+    },
+    "mi_16": {
+        "message": "Klik ganda mengundurkan diri \n(tanpa popup \"Apakah Anda yakin\")"
+    },
+    "mi_17": {
+        "message": "Tambahkan tombol layar penuh (pojok kanan bawah)"
+    },
+    "fonts_title": {
+        "message": "Pilih fon:"
+    },
+    "themes_title": {
+        "message": "Pilih tema:"
+    },
+    "themes_label": {
+        "message": "BARU"
+    },
+    "themes_msg": {
+        "message": "Opsi Baru v1.1.9"
+    },
+    "theme_1": {
+        "message": "Default (Hijau Gelap)"
+    },
+    "d_title": {
+        "message": "Sumbangan menjaga ChessHelper tetap berjalan."
+    },
+    "d_subtitle": {
+        "message": "Saya menghabiskan berjam-jam setiap minggu memperbaiki bug, menambah dan meningkatkan fitur, dan menanggapi umpan balik pengguna. Dukungan Anda sangat penting untuk pemeliharaan berkelanjutan!"
+    },
+    "d_pp": {
+        "message": "Sumbang melalui PayPal"
+    },
+    "d_kofi": {
+        "message": "Dukung saya di Ko-Fi"
+    },
+    "d_card": {
+        "message": "Sumbang melalui kartu kredit atau debit"
+    },
+    "d_cred__1": {
+        "message": "Anda juga dapat berbagi ChessHelper dengan teman-teman Anda atau tinggalkan"
+    },
+    "d_cred__2": {
+        "message": "ulasan"
+    },
+    "d_cred__3": {
+        "message": "Terima kasih."
+    },
+    "s_title": {
+        "message": "Mengalami masalah dengan ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Berikut adalah beberapa langkah pemecahan masalah yang dapat Anda coba:"
+    },
+    "s_res__1": {
+        "message": "Segarkan halaman Chess.com."
+    },
+    "s_res__2": {
+        "message": "Nonaktifkan dan aktifkan kembali ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Nonaktifkan ekstensi lain."
+    },
+    "s_res__4": {
+        "message": "Hapus dan pasang kembali ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Bersihkan cache browser."
+    },
+    "s_emailme": {
+        "message": "Jika masalah masih ada, silakan email saya di"
+    },
+    "s_effic": {
+        "message": "Untuk membantu saya membantu Anda lebih efisien, harap sertakan informasi ini:"
+    },
+    "s_detail__1": {
+        "message": "Versi ChessHelper yang Anda gunakan."
+    },
+    "s_detail__2": {
+        "message": "Screenshot atau video yang menunjukkan masalah."
+    },
+    "s_detail__3": {
+        "message": "Deskripsi rinci masalah."
+    },
+    "s_detail__4": {
+        "message": "Browser dan versi (mis., Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Potongan / Papan Kustom:"
+    },
+    "menu_pieces": {
+        "message": "Pilih Potongan:"
+    },
+    "menu_board": {
+        "message": "Pilih Papan:"
+    },
+    "menu_boardfeat": {
+        "message": "Fitur Papan:"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Custom Themes, Boards - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Setup new themes, pieces, fonts, and boards, remove annoying notifications, popups, and so on."
+    },
+    "disabled": {
+        "message": "You turned off ChessHelper"
+    },
+    "header_title": {
+        "message": "ChessHelper Extension"
+    },
+    "header_subtitle": {
+        "message": "Yɛntumi nkɔ Chess.com! San bra yɛn ho ato mu."
+    },
+    "btn_donate": {
+        "message": "Sika dɔn"
+    },
+    "btn_support": {
+        "message": "Suport no"
+    },
+    "btn_reqfeature": {
+        "message": "Rekɔ asɛm"
+    },
+    "btn_goback": {
+        "message": "bɔa"
+    },
+    "menu_main": {
+        "message": "Mfuor Features:"
+    },
+    "menu_sec": {
+        "message": "Adehyeɛ Features:"
+    },
+    "menu_palette": {
+        "message": "Ahosu nsɛm / font:"
+    },
+    "n_default": {
+        "message": "Default"
+    },
+    "mi_1": {
+        "message": "Kyerɛw \"Focus mode\" \n (wɔ nea ɛyɛ Streams ne Bullet a)"
+    },
+    "mi_2": {
+        "message": "Dabi sini ase wɔ Main page"
+    },
+    "mi_3": {
+        "message": "Fa HyperBullet nhunumu (30s)"
+    },
+    "mi_4": {
+        "message": "Dabi \"About me\" popup"
+    },
+    "mi_5": {
+        "message": "Dabi Chat"
+    },
+    "mi_6": {
+        "message": "suman chat notification: \n\"Mma asɛm bi nnidi nkwan bi...\""
+    },
+    "mi_7": {
+        "message": "Tete board no so nkɔ 100%"
+    },
+    "mi_8": {
+        "message": "Yɛ abosonsom kɛse"
+    },
+    "mi_9": {
+        "message": "Abosonsom wɔ kwan so"
+    },
+    "mi_10": {
+        "message": "Ahosu nsɛm / font:"
+    },
+    "mi_11": {
+        "message": "Yɛ wɔn nyansa mu nsu"
+    },
+    "mi_12": {
+        "message": "Abosonsom a edi kan"
+    },
+    "mi_13": {
+        "message": "Dabi cursor wɔ hover a"
+    },
+    "mi_14": {
+        "message": "Kyerɛ reload boa nni adi"
+    },
+    "mi_15": {
+        "message": "Kyenyan saa a ɛwɔ (beta)"
+    },
+    "mi_16": {
+        "message": "Tu wɔn ho hyɛ sɛ obi ntumi nhu"
+    },
+    "mi_17": {
+        "message": "Fa fullscreen button (aso ne nifa) ho"
+    },
+    "fonts_title": {
+        "message": "Paw font:"
+    },
+    "themes_title": {
+        "message": "Paw tema:"
+    },
+    "themes_label": {
+        "message": "Foforo"
+    },
+    "themes_msg": {
+        "message": "Ahomegye v1.1.9"
+    },
+    "theme_1": {
+        "message": "Default (Ahokyerɛkyerɛ Dark Green)"
+    },
+    "d_title": {
+        "message": "Sika dɔn de ChessHelper de edi so."
+    },
+    "d_subtitle": {
+        "message": "Me de yɛ sɛnea me pɛpɛe, menyɛ nnidi hɔ a, menam a, na menya nnidi hɔ. Sika dɔn mo a ɛdɔnnwom ho ne sɛ mo suport no ma yɛnkasa!"
+    },
+    "d_pp": {
+        "message": "Sika dɔn nka PayPal"
+    },
+    "d_kofi": {
+        "message": "Suport me sɛ Ko-Fi"
+    },
+    "d_card": {
+        "message": "Sika dɔn nka credit ne debit card"
+    },
+    "d_cred__1": {
+        "message": "Wɔn a wɔn ka ChessHelper foforo, no a, mo nni de"
+    },
+    "d_cred__2": {
+        "message": "Akasa"
+    },
+    "d_cred__3": {
+        "message": "Meda mo ase."
+    },
+    "s_title": {
+        "message": "Nnipa bɔ nkɔ ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Bere biara m'ani ɛberɛ sɛnea mohyɛ:"
+    },
+    "s_res__1": {
+        "message": "Hyɛ Chess.com saa."
+    },
+    "s_res__2": {
+        "message": "Dabi kyerɛw na san bra ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Dabi nka nsa so."
+    },
+    "s_res__4": {
+        "message": "Fa ChessHelper so akyerɛw ne kra akyerɛase."
+    },
+    "s_res__5": {
+        "message": "Hwɛ brausa cache."
+    },
+    "s_emailme": {
+        "message": "Sɛ ɛbɛyɛ den na ɔnkɔ, mesrɛ wo email me a"
+    },
+    "s_effic": {
+        "message": "Sɛnea mohyɛ me efisɛ, mesrɛ wo san kyɛre nkɔm:"
+    },
+    "s_detail__1": {
+        "message": "ChessHelper version a wopɛ sɛ wo gyae no."
+    },
+    "s_detail__2": {
+        "message": "Basa ne ho nti sɛ wopɛ sɛ wo gu akyerɛ no."
+    },
+    "s_detail__3": {
+        "message": "Ɔdeta a wopɛ sɛ wo hyɛ."
+    },
+    "s_detail__4": {
+        "message": "Wo brausa ne nkuasu (sɛnea ɛbɛyɛ Firefox 86.0)."
+    },
+    "menu_pboard": {
+        "message": "Asɛm a ɛwɔ Custom Pieces / Board:"
+    },
+    "menu_pieces": {
+        "message": "Paw Pieces:"
+    },
+    "menu_board": {
+        "message": "Paw Board:"
+    },
+    "menu_boardfeat": {
+        "message": "Board ahyɛde:"
+    }
+}

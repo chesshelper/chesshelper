@@ -1,0 +1,18 @@
+/*
+//   - This file is part of ChessHelper Extension
+//  <https://github.com/gerwld/ChessHelper-extension/blob/main/README.md>,
+//   - Copyright (C) 2023-present ChessHelper Extension
+//   -
+//   - ChessHelper Extension is a software: you can redistribute it, but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+//   -
+//   - ChessHelper Extension is distributed in the hope that it will be useful,
+//   - but WITHOUT ANY WARRANTY; without even the implied warranty of
+//   - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//   - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License for more details.
+//   -
+//   - You should have received a copy of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
+//   - along with ChessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+
+*/
+
+:root{--theme-background-override-color:#2c2c20;--theme-background-color:var(--theme-background-override-color, #2c2a20);--color-green-25:#fffce3;--color-green-50:#fffacf;--color-green-75:#fff2bd;--color-green-100:#faf19d;--color-green-200:#e0d668;--color-green-300:#b6af4c;--color-green-400:#5f5630;--color-green-500:#6e6839;--color-green-600:#575130}*{font-weight:400!important}.ui_v5-button-component.ui_v5-button-primary{--bgHoverColor:#999248!important;--innerBoxShadow:rgba(117, 112, 60, 0.5)!important;--secondaryBorderColor:rgba(153, 146, 72, 0.2)}body{-webkit-transition:background 0s linear!important;transition:background 0s linear!important}.chess-logo,.promo-icon.promo-review{-webkit-filter:hue-rotate(300deg)!important;filter:hue-rotate(300deg)!important}.archived-games-result-won::before{color:#22b422!important}.archived-games-result-lost::before{color:#e46f0f!important}

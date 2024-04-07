@@ -1,0 +1,182 @@
+{
+    "extensionName": {
+        "message": "Chess.com Themeoù Personelaet, Pleustedoù - ChessHelper"
+    },
+    "extensionDescription": {
+        "message": "2024 Digeriñ nevez araotoù, bazennedoù, skritelloù, ha pleustedoù, lakaat d'ar gontadur, difenn ar c'hemmoù, ar c'hopoù, hag all."
+    },
+    "disabled": {
+        "message": "Diweredekaet hoc'h eus ChessHelper"
+    },
+    "header_title": {
+        "message": "Lizherennad ChessHelper"
+    },
+    "header_subtitle": {
+        "message": "Karomp Chess.com! Ret eo kemm gwellaat an dra-se."
+    },
+    "btn_donate": {
+        "message": "Doniñ"
+    },
+    "btn_support": {
+        "message": "Reiñ soutien"
+    },
+    "btn_reqfeature": {
+        "message": "Goulenn danvez"
+    },
+    "btn_goback": {
+        "message": "distreiñ"
+    },
+    "menu_main": {
+        "message": "Doareoù Kentañ:"
+    },
+    "menu_sec": {
+        "message": "Doareoù A-zivout:"
+    },
+    "menu_palette": {
+        "message": "Paleta liv / skritell:"
+    },
+    "n_default": {
+        "message": "Dre ziouer"
+    },
+    "mi_1": {
+        "message": "Gweredekaat \"Mod Fokus\" \n (gwellaat evit ar Stremmoù ha Bullet)"
+    },
+    "mi_2": {
+        "message": "Disaotreañ ar Stremm war ar bajenn gentañ"
+    },
+    "mi_3": {
+        "message": "Ouzhpennaat ar c'hoice HyperBullet (30 eilenn)"
+    },
+    "mi_4": {
+        "message": "Disaotreañ ar c'hokr \"Diwar va degouezh\""
+    },
+    "mi_5": {
+        "message": "Disaotreañ ar c'hehentiñ"
+    },
+    "mi_6": {
+        "message": "Kuzhat an hehentiñ eus ar c'havenn: \n\"D'ar re na zlefe ket startañ ur geodenn hep...\""
+    },
+    "mi_7": {
+        "message": "Lakaat ar pleustr d'ar 100% a huchad"
+    },
+    "mi_8": {
+        "message": "Mouezhiañ an hezegedigoù"
+    },
+    "mi_9": {
+        "message": "Koordinadoù war pep karr"
+    },
+    "mi_10": {
+        "message": "Paleta liv / skritell:"
+    },
+    "mi_11": {
+        "message": "Mouezhiañ anezho nemetken"
+    },
+    "mi_12": {
+        "message": "Plec'h a-zivout muioc'h"
+    },
+    "mi_13": {
+        "message": "Disaotreañ cheñch korsour a-vicher"
+    },
+    "mi_14": {
+        "message": "Diskoueziñ ar c'hoazh savet ma vijuniet"
+    },
+    "mi_15": {
+        "message": "Adnevesiñ ar bajenn dre ziouer (beta)"
+    },
+    "mi_16": {
+        "message": "Dislavar ar c'hwec'hvezh en ur c'hlikañ \n(hep ar c'homennoù \"Ha poent oc'h ober gant?\" )"
+    },
+    "mi_17": {
+        "message": "Ouzhpennaat bouton skrinienn-dre e-barzh (hegarat dindan e-barzh gwern o kreiz)"
+    },
+    "fonts_title": {
+        "message": "Choazit ur skritell:"
+    },
+    "themes_title": {
+        "message": "Choazit tem:"
+    },
+    "themes_label": {
+        "message": "NEVEZ"
+    },
+    "themes_msg": {
+        "message": "Dibarzhioù Nevez v1.1.9"
+    },
+    "theme_1": {
+        "message": "Dre ziouer (Glas Du)"
+    },
+    "d_title": {
+        "message": "Ar donoù a sikour ChessHelper da vout kenwerzh ha kenstriv."
+    },
+    "d_subtitle": {
+        "message": "Pep sizhun emaon o kastizañ eurvezh, o ouzhpennañ ha gwellaat doareoù, hag o adwelet stourmou an implijerien. Ho soutien a zo dizoloiñ evit ar c'hrouiñ emgefreek!"
+    },
+    "d_pp": {
+        "message": "Doniñ dre PayPal"
+    },
+    "d_kofi": {
+        "message": "Soutenit mañ er Ko-Fi"
+    },
+    "d_card": {
+        "message": "Doniñ dre vartenn kredad pe debet"
+    },
+    "d_cred__1": {
+        "message": "Gallout a rit ivez rannvroiñ ChessHelper gant ho mignoned pe lakaat ur"
+    },
+    "d_cred__2": {
+        "message": "kemenadenn"
+    },
+    "d_cred__3": {
+        "message": "Trugarez."
+    },
+    "s_title": {
+        "message": "Trubuilhoù gant ChessHelper?"
+    },
+    "s_subtitle": {
+        "message": "Amañ zo azenoù evit treuzkas an trubuilhoù:"
+    },
+    "s_res__1": {
+        "message": "Adnevesiñ pajenn Chess.com."
+    },
+    "s_res__2": {
+        "message": "Disaotreañ ha gouzout a-ratozh ChessHelper."
+    },
+    "s_res__3": {
+        "message": "Disaotreañ estensionoù all."
+    },
+    "s_res__4": {
+        "message": "Dizoliñ ha reinizh ChessHelper."
+    },
+    "s_res__5": {
+        "message": "Lenn kache ar merdeer."
+    },
+    "s_emailme": {
+        "message": "M'eo problemoù c'hoazh, mar plij, emelit din war"
+    },
+    "s_effic": {
+        "message": "Evit ma c'hellfen sikour a-hedoc'h, mar plij, inkludit an titouroù-mañ:"
+    },
+    "s_detail__1": {
+        "message": "An hversienn a zarempred ChessHelper a rit."
+    },
+    "s_detail__2": {
+        "message": "Ur skeudenn pe ur video a zo en diskouezadenn gant ar problem."
+    },
+    "s_detail__3": {
+        "message": "Un dislavaradenn hir diwar-benn ar problem."
+    },
+    "s_detail__4": {
+        "message": "Ho merdeer hag e verson (diamzer, Firefox 86.0, adalek.)"
+    },
+    "menu_pboard": {
+        "message": "Pleustoù Personelaet / Pleustr:"
+    },
+    "menu_pieces": {
+        "message": "Choazit ar Pennadoù:"
+    },
+    "menu_board": {
+        "message": "Choazit ar Pleustr:"
+    },
+    "menu_boardfeat": {
+        "message": "Azenoù ar Pleustr:"
+    }
+}
