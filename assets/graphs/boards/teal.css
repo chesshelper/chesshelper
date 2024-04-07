@@ -18,10 +18,8 @@
 #board-single,
 #board,
 .fade-in-overlay {
-  background-image: var(
-    --theme-board-style-image,
-    url("https://images.chesscomfiles.com/chess-themes/boards/glass/100.png")
-  ) !important;
+  background-image: var(--theme-board-style-image,
+      url("https://images.chesscomfiles.com/chess-themes/boards/glass/100.png")) !important;
 }
 
 /* Override styles */
@@ -33,8 +31,15 @@
   height: 100% !important;
 }
 
-.settings-editor-board-preview-preview,
-.settings-themes-preview-wrapper > .game-preview-themed-component {
+
+
+body .settings-editor-board-preview-preview>div {
+  background: #3b3b40 !important;
+  background-image: none !important;
+}
+
+body .settings-editor-board-preview-preview,
+body .settings-themes-preview-wrapper>.game-preview-themed-component {
   background: #3b3b40 !important;
   background-image: none !important;
   position: relative;
@@ -56,9 +61,7 @@
   position: relative;
 }
 
-.settings-editor-board-preview-preview .game-preview-component::before,
-.settings-editor-board-preview-preview
-  > .game-preview-themed-component::before {
+.settings-editor-board-preview-preview>div::before {
   content: "🎨Board: Teal (by P Jaworski)";
   display: block;
   position: absolute;
@@ -78,8 +81,7 @@
   box-sizing: border-box;
 }
 
-.settings-editor-board-preview-preview .game-preview-component::after,
-.settings-editor-board-preview-preview > .game-preview-themed-component::after {
+.settings-editor-board-preview-preview>div::after {
   content: "(Set ChessHelper Board field to 'Default' if you want to choose any System Boards!)";
   display: block;
   position: absolute;
@@ -111,9 +113,9 @@
 }
 
 .settings-themes-options-wrapper .settings-themes-select-wrapper:nth-child(2),
-main.settings-layout-component .settings-board-form form > div:nth-child(2),
-.settings-modal-content-content > div > .settings-field-row:nth-child(3) {
-  opacity: 0.5;
-  user-select: none;
-  pointer-events: none;
+main.settings-layout-component .settings-board-form form>div:nth-child(2),
+.settings-modal-content-content>div>div:nth-child(3)>.settings-field-row {
+  opacity: 0.5 !important;
+  user-select: none !important;
+  pointer-events: none !important;
 }
