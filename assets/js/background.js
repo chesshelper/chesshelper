@@ -35,10 +35,10 @@ const initialState = {
   add_fullscreen: true,
   reload_disconnect_1: true,
   reload_disconnect_2: false,
-  theme: "frutiger_aero",
+  theme: "night_owl",
   font: "inter",
   pieces: "pjaworski",
-  board: "nightindesert",
+  board: "default",
 };
 
 const browser_cr = chrome ? chrome : browser;
