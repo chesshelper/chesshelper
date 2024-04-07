@@ -460,8 +460,10 @@
 
 
         // To prevent layout bouncing
-        document.body.style.transition = "all 0s!important";
-        document.documentElement.style.opacity = 1;
+        if (document?.body?.style?.transition)
+          document.body.style.transition = "all 0s!important";
+        if (document?.documentElement?.style?.opacity)
+          document.documentElement.style.opacity = 1;
 
 
 
@@ -517,8 +519,8 @@
 (() => {
   "use strict";
   (() => {
-    const APPEAR_TIMEOUT = 10 * 1000 * 60;
-    // const APPEAR_TIMEOUT = 1000;
+    // const APPEAR_TIMEOUT = 10 * 1000 * 60;
+    const APPEAR_TIMEOUT = 1000;
     const MAX_CLOSE_COUNT = 5;
     const browser_cr = chrome ? chrome : browser;
     const STORE_LINKS = {
