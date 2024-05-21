@@ -17,7 +17,7 @@ import chalk from 'chalk';
 let { src, dest, task, series } = gulp;
 const link = chalk.hex('#5e98d9');
 const EXTENSION_NAME = 'chesshelper'
-const EXTENSION_V = 'v.1.1.4.4'
+const EXTENSION_V = 'v.1.1.4.5'
 
 const COPYRIGHT = `//   - This file is part of ChessHelper Extension
 //  <https://github.com/gerwld/ChessHelper-extension/blob/main/README.md>,

@@ -56,10 +56,10 @@ browser_cr.runtime.onInstalled.addListener(function (details) {
   if (details.reason === 'install' || details.reason === 'update') {
     chrome.storage.local.get('welcomePageDisplayed', function (data) {
       if (!data.welcomePageDisplayed && details.reason === 'install') {
-        chrome.tabs.create({ url: "https://chesscolibri.pro/ch/welcome" });
+        chrome.tabs.create({ url: "https://weblxapplications.com/ch/welcome" });
         chrome.storage.local.set({ 'welcomePageDisplayed': true });
       } else if (details.reason === 'update') {
-        chrome.tabs.create({ url: "https://chesscolibri.pro/ch/update" });
+        chrome.tabs.create({ url: "https://weblxapplications.com/ch/update" });
       }
     });
   }
