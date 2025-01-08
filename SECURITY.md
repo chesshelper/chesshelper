@@ -26,4 +26,5 @@ I regularly update ChessHelper to fix bugs, improve functionality, and enhance s
 
 If you have any concerns, questions, or feedback regarding the security of ChessHelper, please contact us at [pjaworski.dev@gmail.com]. I welcome your input and I am dedicated to continuously improving our security practices.
 
-ChessHelper aims to provide a safe, customizable, and enjoyable Chess.com experience without compromising your privacy or security. Thank you for choosing ChessHelper as your chess enhancement tool.
+ChessHelper aims to provide a safe, customizable, accessible, and enjoyable Chess.com experience without compromising your privacy or security. Thank you for choosing ChessHelper as your chess enhancement tool.
+
