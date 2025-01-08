@@ -20,9 +20,9 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 Exceptions for the Owner:
    P Jaworski, as the owner, is exempt from the non-commercial and no-derivative restrictions. The owner may use these assets for both commercial and non-commercial purposes without limitations.
 
-ChessHelper Extension is a software: you can redistribute it , but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+LichessHelper Extension is a software: you can redistribute it , but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
 
-ChessHelper Extension is distributed in the hope that it will be useful,
+LichessHelper Extension is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License for more details.
 

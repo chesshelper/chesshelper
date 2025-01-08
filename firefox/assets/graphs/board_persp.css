@@ -1,0 +1,17 @@
+/*
+//   - This file is part of LichessHelper Extension
+//  <https://github.com/gerwld/LichessHelper-extension/blob/main/README.md>,
+//   - Copyright (C) 2023-present LichessHelper Extension
+//   -
+//   - LichessHelper Extension is a software: you can redistribute it, but you are not allowed to modify it under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+//   -
+//   - LichessHelper Extension is distributed in the hope that it will be useful,
+//   - but WITHOUT ANY WARRANTY; without even the implied warranty of
+//   - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//   - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License for more details.
+//   -
+//   - You should have received a copy of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
+//   - along with LichessHelper Extension.  If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+*/
+
+cg-container{outline:1.2rem solid var(---cg-ccb,#3c3c3c)!important;-webkit-box-shadow:0 0 0 24px #1c1c1d;box-shadow:0 0 0 24px #1c1c1d;z-index:10}coords{margin-bottom:-1rem;-webkit-transform:rotateX(15deg)!important;transform:rotateX(15deg)!important}coords>coord{font-weight:600!important;color:#fff!important;fill:#fff!important}coords.ranks{margin-right:-1rem}

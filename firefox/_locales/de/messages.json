@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Chess.com eigene Themen, Bretter: ChessHelper"
+    "message": "Lichess eigene Themen, Bretter: LichessHelper"
   },
   "extensionDescription": {
-    "message": "2024 Installieren Sie neue Themen, Figuren, Schriftarten und Bretter, fügen Sie Notationen auf jedem Feld hinzu, entfernen Sie lästige Benachrichtigungen, Pop-ups usw.!"
+    "message": "2025 Installieren Sie neue Themen, Figuren, Schriftarten und Bretter, fügen Sie Notationen auf jedem Feld hinzu, entfernen Sie lästige Benachrichtigungen, Pop-ups usw.!"
   },
   "disabled": {
-    "message": "Sie haben ChessHelper deaktiviert"
+    "message": "Sie haben LichessHelper deaktiviert"
   },
   "header_title": {
-    "message": "ChessHelper-Erweiterung"
+    "message": "LichessHelper-Erweiterung"
   },
   "header_subtitle": {
-    "message": "Wir lieben Chess.com! Machen wir es noch besser!"
+    "message": "Wir lieben Lichess! Machen wir es noch besser!"
   },
   "btn_donate": {
     "message": "Spenden"
@@ -41,20 +41,11 @@
   "mi_1": {
     "message": "Aktiviere den \"Fokusmodus\" \n (am besten für Streams und Bullet)"
   },
-  "mi_2": {
-    "message": "Stream auf der Hauptseite deaktivieren"
-  },
-  "mi_3": {
-    "message": "Füge die HyperBullet-Option hinzu (30s)"
-  },
   "mi_4": {
     "message": "\"Über mich\"-Popup deaktivieren"
   },
   "mi_5": {
     "message": "Chat deaktivieren"
-  },
-  "mi_6": {
-    "message": "Chat-Benachrichtigung ausblenden: \n\"Starte kein Spiel, es sei denn...\""
   },
   "mi_7": {
     "message": "Brett auf 100% fester Höhe setzen"
@@ -77,15 +68,6 @@
   "mi_13": {
     "message": "Cursor-Änderung bei Hover deaktivieren"
   },
-  "mi_14": {
-    "message": "Reload-Option anzeigen, wenn die Verbindung getrennt ist"
-  },
-  "mi_15": {
-    "message": "Seite automatisch aktualisieren (beta)"
-  },
-  "mi_16": {
-    "message": "Doppelklick zum Aufgeben \n(ohne \"Bist du sicher\"-Popup)"
-  },
   "mi_17": {
     "message": "Vollbildschaltfläche hinzufügen (unten rechts)"
   },
@@ -97,9 +79,6 @@
   },
   "themes_label": {
     "message": "NEU"
-  },
-  "themes_msg": {
-    "message": "Neue Optionen v1.1.9"
   },
   "theme_1": {
     "message": "Standard (Dunkelgrün)"
@@ -126,7 +105,7 @@
     "message": "Dunkelgelb"
   },
   "d_title": {
-    "message": "Spenden halten ChessHelper am Laufen."
+    "message": "Spenden halten LichessHelper am Laufen."
   },
   "d_subtitle": {
     "message": "Ich investiere jede Woche Stunden, um Fehler zu beheben, Funktionen hinzuzufügen und zu verbessern sowie auf Benutzerfeedback einzugehen. Ihre Unterstützung ist entscheidend für die fortlaufende Wartung!"
@@ -141,7 +120,7 @@
     "message": "Mit Kredit- oder Debitkarte spenden"
   },
   "d_cred__1": {
-    "message": "Sie können ChessHelper auch mit Ihren Freunden teilen oder eine"
+    "message": "Sie können LichessHelper auch mit Ihren Freunden teilen oder eine"
   },
   "d_cred__2": {
     "message": "Bewertung hinterlassen"
@@ -150,22 +129,22 @@
     "message": "Vielen Dank."
   },
   "s_title": {
-    "message": "Probleme mit ChessHelper?"
+    "message": "Probleme mit LichessHelper?"
   },
   "s_subtitle": {
     "message": "Hier sind einige Problembehandlungsschritte, die Sie versuchen können:"
   },
   "s_res__1": {
-    "message": "Aktualisieren Sie die Chess.com-Seite."
+    "message": "Aktualisieren Sie die Lichess-Seite."
   },
   "s_res__2": {
-    "message": "Deaktivieren Sie ChessHelper und aktivieren Sie es erneut."
+    "message": "Deaktivieren Sie LichessHelper und aktivieren Sie es erneut."
   },
   "s_res__3": {
     "message": "Deaktivieren Sie andere Erweiterungen."
   },
   "s_res__4": {
-    "message": "Deinstallieren Sie ChessHelper und führen Sie eine Neuinstallation durch."
+    "message": "Deinstallieren Sie LichessHelper und führen Sie eine Neuinstallation durch."
   },
   "s_res__5": {
     "message": "Browser-Cache löschen."
@@ -177,7 +156,7 @@
     "message": "Um mir zu helfen, Sie effizienter zu unterstützen, geben Sie bitte folgende Informationen an:"
   },
   "s_detail__1": {
-    "message": "Die Version von ChessHelper, die Sie verwenden."
+    "message": "Die Version von LichessHelper, die Sie verwenden."
   },
   "s_detail__2": {
     "message": "Ein Screenshot oder Video, das das Problem zeigt."
@@ -199,5 +178,17 @@
   },
   "menu_boardfeat": {
     "message": "Bretteinstellungen:"
+  },
+  "mi_2": {
+    "message": "Modernes Layout aktivieren"
+  },
+  "mi_14": {
+    "message": "Brettbewegungen scrollen deaktivieren \n(für Trackpads usw.)"
+  },
+  "mi_18": {
+    "message": "Chat unter dem Brett verstecken"
+  },
+  "mi_19": {
+    "message": "Scrollen im Spiel verhindern (100vh-Fix)"
   }
 }

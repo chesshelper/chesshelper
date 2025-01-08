@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Chess.com Egna Teman och Bräden: ChessHelper"
+    "message": "Lichess Egna Teman och Bräden: LichessHelper"
   },
   "extensionDescription": {
-    "message": "2024 Installera nya teman, pjäser, typsnitt och bräden, lägg till notation på varje ruta, ta bort irriterande meddelanden, popup-fönster, och så vidare!"
+    "message": "2025 Installera nya teman, pjäser, typsnitt och bräden, lägg till notation på varje ruta, ta bort irriterande meddelanden, popup-fönster, och så vidare!"
   },
   "disabled": {
-    "message": "Du har stängt av ChessHelper"
+    "message": "Du har stängt av LichessHelper"
   },
   "header_title": {
-    "message": "ChessHelper-tillägg"
+    "message": "LichessHelper-tillägg"
   },
   "header_subtitle": {
-    "message": "Vi älskar Chess.com! Låt oss göra det ännu bättre."
+    "message": "Vi älskar Lichess! Låt oss göra det ännu bättre."
   },
   "btn_donate": {
     "message": "Donera"
@@ -41,20 +41,11 @@
   "mi_1": {
     "message": "Aktivera \"Fokuseringsläge\" \n (bäst för Streams och Bullet)"
   },
-  "mi_2": {
-    "message": "Inaktivera ström på huvudsidan"
-  },
-  "mi_3": {
-    "message": "Lägg till HyperBullet-alternativ (30s)"
-  },
   "mi_4": {
     "message": "Inaktivera popup för \"Om mig\""
   },
   "mi_5": {
     "message": "Inaktivera chatt"
-  },
-  "mi_6": {
-    "message": "Dölj chattmeddelande: \n\"Starta inte en match om inte...\""
   },
   "mi_7": {
     "message": "Sätt brädet till 100% fast höjd"
@@ -77,15 +68,6 @@
   "mi_13": {
     "message": "Inaktivera markörförändring vid hover"
   },
-  "mi_14": {
-    "message": "Visa uppladdningsalternativ om frånkopplad"
-  },
-  "mi_15": {
-    "message": "Uppdatera sidan automatiskt (beta)"
-  },
-  "mi_16": {
-    "message": "Dubbelklicka för att ge upp \n(utan \"Är du säker\"-popup)"
-  },
   "mi_17": {
     "message": "Lägg till helskärmsknapp (nere till höger)"
   },
@@ -97,9 +79,6 @@
   },
   "themes_label": {
     "message": "NYTT"
-  },
-  "themes_msg": {
-    "message": "Nya alternativ v1.1.9"
   },
   "theme_1": {
     "message": "Standard (Mörk Grön)"
@@ -126,7 +105,7 @@
     "message": "Mörk Gul"
   },
   "d_title": {
-    "message": "Donationer håller ChessHelper igång."
+    "message": "Donationer håller LichessHelper igång."
   },
   "d_subtitle": {
     "message": "Jag lägger ner timmar varje vecka på att fixa buggar, lägga till och förbättra funktioner samt hantera användarfeedback. Ditt stöd är avgörande för fortsatt underhåll!"
@@ -141,7 +120,7 @@
     "message": "Donera med kredit- eller betalkort"
   },
   "d_cred__1": {
-    "message": "Du kan också dela ChessHelper med dina vänner eller lämna en"
+    "message": "Du kan också dela LichessHelper med dina vänner eller lämna en"
   },
   "d_cred__2": {
     "message": "recension"
@@ -150,22 +129,22 @@
     "message": "Tack så mycket."
   },
   "s_title": {
-    "message": "Har du problem med ChessHelper?"
+    "message": "Har du problem med LichessHelper?"
   },
   "s_subtitle": {
     "message": "Här är några felsökningssteg du kan försöka:"
   },
   "s_res__1": {
-    "message": "Uppdatera Chess.com-sidan."
+    "message": "Uppdatera Lichess-sidan."
   },
   "s_res__2": {
-    "message": "Inaktivera och aktivera ChessHelper igen."
+    "message": "Inaktivera och aktivera LichessHelper igen."
   },
   "s_res__3": {
     "message": "Inaktivera andra tillägg."
   },
   "s_res__4": {
-    "message": "Avinstallera och installera om ChessHelper."
+    "message": "Avinstallera och installera om LichessHelper."
   },
   "s_res__5": {
     "message": "Rensa webbläsarens cache."
@@ -177,7 +156,7 @@
     "message": "För att hjälpa mig assistera dig mer effektivt, inkludera följande information:"
   },
   "s_detail__1": {
-    "message": "Versionen av ChessHelper du använder."
+    "message": "Versionen av LichessHelper du använder."
   },
   "s_detail__2": {
     "message": "En skärmbild eller video som visar problemet."
@@ -199,5 +178,17 @@
   },
   "menu_boardfeat": {
     "message": "Brädinställningar:"
+  },
+  "mi_2": {
+    "message": "Aktivera modern layout"
+  },
+  "mi_14": {
+    "message": "Inaktivera rullning av brädflyttningar \n(för styrplattor, etc)"
+  },
+  "mi_18": {
+    "message": "Dölj chatt under brädet"
+  },
+  "mi_19": {
+    "message": "Förhindra rullning i matchen (100vh fix)"
   }
 }

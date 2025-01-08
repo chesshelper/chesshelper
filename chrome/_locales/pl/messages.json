@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Chess.com Motywy i Szachownice: ChessHelper"
+    "message": "Lichess Motywy i Szachownice: LichessHelper"
   },
   "extensionDescription": {
-    "message": "2024 Zainstaluj nowe motywy, figury, czcionki i szachownice, dodawaj notacje na każdym polu, usuwaj irytujące powiadomienia, wyskakujące okienka i wiele więcej!"
+    "message": "2025 Zainstaluj nowe motywy, figury, czcionki i szachownice, dodawaj notacje na każdym polu, usuwaj irytujące powiadomienia, wyskakujące okienka i wiele więcej!"
   },
   "disabled": {
-    "message": "Wyłączyłeś ChessHelper"
+    "message": "Wyłączyłeś LichessHelper"
   },
   "header_title": {
-    "message": "Rozszerzenie ChessHelper"
+    "message": "Rozszerzenie LichessHelper"
   },
   "header_subtitle": {
-    "message": "Kochamy Chess.com! Zróbmy go jeszcze lepszym, razem."
+    "message": "Kochamy Lichess! Zróbmy go jeszcze lepszym, razem."
   },
   "btn_donate": {
     "message": "Wesprzyj"
@@ -41,20 +41,11 @@
   "mi_1": {
     "message": "Włącz \"Tryb skupienia\" \n (najlepszy dla Streamów i Bullet)"
   },
-  "mi_2": {
-    "message": "Wyłącz stream na stronie głównej"
-  },
-  "mi_3": {
-    "message": "Dodaj opcję HyperBullet (30s)"
-  },
   "mi_4": {
     "message": "Wyłącz wyskakujące okno \"O mnie\""
   },
   "mi_5": {
     "message": "Wyłącz czat"
-  },
-  "mi_6": {
-    "message": "Ukryj powiadomienie czatu: \n\"Nie rozpoczynaj gry, chyba że...\""
   },
   "mi_7": {
     "message": "Ustaw planszę na 100% stałą wysokość"
@@ -77,15 +68,6 @@
   "mi_13": {
     "message": "Wyłącz zmianę kursora przy najechaniu"
   },
-  "mi_14": {
-    "message": "Pokaż opcję przeładowania w przypadku rozłączenia"
-  },
-  "mi_15": {
-    "message": "Automatyczne odświeżanie strony (beta)"
-  },
-  "mi_16": {
-    "message": "Podwójne kliknięcie rezygnacji \n(bez wyskakującego okna \"Jesteś pewien\")"
-  },
   "mi_17": {
     "message": "Dodaj przycisk pełnego ekranu \n(w prawym dolnym rogu)"
   },
@@ -97,9 +79,6 @@
   },
   "themes_label": {
     "message": "NOWE"
-  },
-  "themes_msg": {
-    "message": "Nowe opcje v1.1.9"
   },
   "theme_1": {
     "message": "Domyślny (Ciemnozielony)"
@@ -126,7 +105,7 @@
     "message": "Ciemnożółty"
   },
   "d_title": {
-    "message": "Darowizny utrzymują ChessHelper przy życiu."
+    "message": "Darowizny utrzymują LichessHelper przy życiu."
   },
   "d_subtitle": {
     "message": "Co tydzień poświęcam godziny na naprawę błędów, dodawanie i ulepszanie funkcji oraz poprawę doświadczenia użytkownika. Wsparcie jest kluczowe dla ciągłego utrzymania!"
@@ -141,7 +120,7 @@
     "message": "Wesprzyj poprzez kartę debetową"
   },
   "d_cred__1": {
-    "message": "Możesz także podzielić się o ChessHelper z przyjaciółmi lub napisać"
+    "message": "Możesz także podzielić się o LichessHelper z przyjaciółmi lub napisać"
   },
   "d_cred__2": {
     "message": "recenzję"
@@ -150,22 +129,22 @@
     "message": "Dzięki."
   },
   "s_title": {
-    "message": "Masz problemy z ChessHelper?"
+    "message": "Masz problemy z LichessHelper?"
   },
   "s_subtitle": {
     "message": "Oto kilka kroków do rozwiązania problemów, które możesz spróbować:"
   },
   "s_res__1": {
-    "message": "Odśwież stronę Chess.com."
+    "message": "Odśwież stronę Lichess."
   },
   "s_res__2": {
-    "message": "Wyłącz, a następnie ponownie włącz ChessHelper."
+    "message": "Wyłącz, a następnie ponownie włącz LichessHelper."
   },
   "s_res__3": {
     "message": "Wyłącz inne rozszerzenia."
   },
   "s_res__4": {
-    "message": "Odinstaluj i ponownie zainstaluj ChessHelper."
+    "message": "Odinstaluj i ponownie zainstaluj LichessHelper."
   },
   "s_res__5": {
     "message": "Wyczyść pamięć podręczną (cache i cookies) przeglądarki."
@@ -177,7 +156,7 @@
     "message": "Aby pomóc w udzieleniu bardziej efektywnego wsparcia, dołącz te informacje:"
   },
   "s_detail__1": {
-    "message": "Wersje ChessHelper, którą używasz."
+    "message": "Wersje LichessHelper, którą używasz."
   },
   "s_detail__2": {
     "message": "Zrzut ekranu lub nagranie demonstrujące problem."
@@ -199,5 +178,17 @@
   },
   "menu_boardfeat": {
     "message": "Ustawienia planszy:"
+  },
+  "mi_2": {
+    "message": "Włącz nowoczesny układ"
+  },
+  "mi_14": {
+    "message": "Wyłącz przewijanie ruchów planszy \n(dla trackpadów, itp.)"
+  },
+  "mi_18": {
+    "message": "Ukryj czat pod planszą"
+  },
+  "mi_19": {
+    "message": "Zablok. przewijanie w meczu (fix na 100vh)"
   }
 }

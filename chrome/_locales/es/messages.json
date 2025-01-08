@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Chess.com Propias Temas, Tableros - ChessHelper"
+    "message": "Lichess Propias Temas, Tableros - LichessHelper"
   },
   "extensionDescription": {
-    "message": "2024 ¡Instala nuevos temas, piezas, fuentes y tableros, agrega notación en cada casilla, elimina molestas notificaciones, ventanas emergentes, ¡y mucho más!"
+    "message": "2025 ¡Instala nuevos temas, piezas, fuentes y tableros, agrega notación en cada casilla, elimina molestas notificaciones, ventanas emergentes, ¡y mucho más!"
   },
   "disabled": {
-    "message": "Has desactivado ChessHelper"
+    "message": "Has desactivado LichessHelper"
   },
   "header_title": {
-    "message": "Extensión ChessHelper"
+    "message": "Extensión LichessHelper"
   },
   "header_subtitle": {
-    "message": "¡Amamos Chess.com! Hagámoslo aún mejor, juntos."
+    "message": "¡Amamos Lichess! Hagámoslo aún mejor, juntos."
   },
   "btn_donate": {
     "message": "Donar"
@@ -41,20 +41,11 @@
   "mi_1": {
     "message": "Habilitar el modo \"Enfoque\"\n(mejor para transmisiones y partidas rápidas)"
   },
-  "mi_2": {
-    "message": "Deshabilitar transmisión en la página principal"
-  },
-  "mi_3": {
-    "message": "Agregar opción de HiperRápido (30s)"
-  },
   "mi_4": {
     "message": "Deshabilitar ventana emergente \"Acerca de mí\""
   },
   "mi_5": {
     "message": "Deshabilitar chat"
-  },
-  "mi_6": {
-    "message": "Ocultar notificación de chat:\n\"No inicies una partida a menos que...\""
   },
   "mi_7": {
     "message": "Establecer tablero con altura fija al 100%"
@@ -77,15 +68,6 @@
   "mi_13": {
     "message": "Deshabilitar cambio de cursor al pasar el mouse"
   },
-  "mi_14": {
-    "message": "Mostrar opción de recarga si se pierde la conexión"
-  },
-  "mi_15": {
-    "message": "Actualizar la página automáticamente (beta)"
-  },
-  "mi_16": {
-    "message": "Resignarse con doble clic\n(sin ventana emergente \"¿Estás seguro?\")"
-  },
   "mi_17": {
     "message": "Agregar botón de pantalla completa (esquina inferior derecha)"
   },
@@ -97,9 +79,6 @@
   },
   "themes_label": {
     "message": "NUEVO"
-  },
-  "themes_msg": {
-    "message": "Nuevas opciones v1.1.9"
   },
   "theme_1": {
     "message": "Predeterminado (Verde Oscuro)"
@@ -126,7 +105,7 @@
     "message": "Amarillo Oscuro"
   },
   "d_title": {
-    "message": "Las donaciones mantienen ChessHelper en funcionamiento."
+    "message": "Las donaciones mantienen LichessHelper en funcionamiento."
   },
   "d_subtitle": {
     "message": "Paso horas cada semana corrigiendo errores, agregando y mejorando funciones, y atendiendo comentarios de usuarios. Tu apoyo es crucial para el mantenimiento continuo!"
@@ -141,7 +120,7 @@
     "message": "Donar con tarjeta de crédito o débito"
   },
   "d_cred__1": {
-    "message": "También puedes compartir ChessHelper con tus amigos o dejar una"
+    "message": "También puedes compartir LichessHelper con tus amigos o dejar una"
   },
   "d_cred__2": {
     "message": "reseña"
@@ -150,22 +129,22 @@
     "message": "Muchas gracias."
   },
   "s_title": {
-    "message": "¿Tienes problemas con ChessHelper?"
+    "message": "¿Tienes problemas con LichessHelper?"
   },
   "s_subtitle": {
     "message": "Aquí hay algunos pasos de solución de problemas que puedes intentar:"
   },
   "s_res__1": {
-    "message": "Actualiza la página de Chess.com."
+    "message": "Actualiza la página de Lichess."
   },
   "s_res__2": {
-    "message": "Desactiva y luego vuelve a activar ChessHelper."
+    "message": "Desactiva y luego vuelve a activar LichessHelper."
   },
   "s_res__3": {
     "message": "Desactiva cualquier otra extensión."
   },
   "s_res__4": {
-    "message": "Desinstala y vuelve a instalar ChessHelper."
+    "message": "Desinstala y vuelve a instalar LichessHelper."
   },
   "s_res__5": {
     "message": "Borra la caché del navegador."
@@ -177,7 +156,7 @@
     "message": "Para ayudarme a asistirte de manera más eficiente, incluye esta información:"
   },
   "s_detail__1": {
-    "message": "La versión de ChessHelper que estás utilizando."
+    "message": "La versión de LichessHelper que estás utilizando."
   },
   "s_detail__2": {
     "message": "Una captura de pantalla o video que muestre el problema."
@@ -199,5 +178,17 @@
   },
   "menu_boardfeat": {
     "message": "Configuración del tabler:"
+  },
+  "mi_2": {
+    "message": "Habilitar diseño moderno"
+  },
+  "mi_14": {
+    "message": "Desactivar desplazamiento de movimientos de tablero \n(para trackpads, etc)"
+  },
+  "mi_18": {
+    "message": "Ocultar chat debajo del tablero"
+  },
+  "mi_19": {
+    "message": "Prevenir desplazamiento en la partida (solución 100vh)"
   }
 }

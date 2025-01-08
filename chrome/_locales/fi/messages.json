@@ -1,203 +1,194 @@
 {
-    "extensionName": {
-        "message": "Chess.com Mukautetut Teemat, Laudat - ChessHelper"
-    },
-    "extensionDescription": {
-        "message": "2024 Aseta uusia teemoja, nappuloita, fontteja ja lautoja, poista ärsyttävät ilmoitukset, ponnahdusikkunat ja niin edelleen."
-    },
-    "disabled": {
-        "message": "Sammutit ChessHelperin"
-    },
-    "header_title": {
-        "message": "ChessHelper Laajennus"
-    },
-    "header_subtitle": {
-        "message": "Rakastamme Chess.comia! Tehdään siitä vielä parempi."
-    },
-    "btn_donate": {
-        "message": "lahjoita"
-    },
-    "btn_support": {
-        "message": "Hanki tukea"
-    },
-    "btn_reqfeature": {
-        "message": "Pyydä ominaisuutta"
-    },
-    "btn_goback": {
-        "message": "palaa takaisin"
-    },
-    "menu_main": {
-        "message": "Pääominaisuudet:"
-    },
-    "menu_sec": {
-        "message": "Lisäominaisuudet:"
-    },
-    "menu_palette": {
-        "message": "Väripaletti / fontti:"
-    },
-    "n_default": {
-        "message": "Oletusarvo"
-    },
-    "mi_1": {
-        "message": "Ota käyttöön \"Keskitystila\" \n (paras striimeihin ja Bulletiin)"
-    },
-    "mi_2": {
-        "message": "Poista stream pääsivulta"
-    },
-    "mi_3": {
-        "message": "Lisää HyperBullet-vaihtoehto (30s)"
-    },
-    "mi_4": {
-        "message": "Poista \"Tietoni\"-ponnahdusikkuna"
-    },
-    "mi_5": {
-        "message": "Poista chat"
-    },
-    "mi_6": {
-        "message": "Piilota chat-ilmoitus: \n\"Älä aloita peliä, ellei...\""
-    },
-    "mi_7": {
-        "message": "Aseta lauta 100% kiinteään korkeuteen"
-    },
-    "mi_8": {
-        "message": "Tee koordinaatit suuremmiksi"
-    },
-    "mi_9": {
-        "message": "Koordinaatit jokaiselle ruudulle"
-    },
-    "mi_10": {
-        "message": "Väripaletti / fontti:"
-    },
-    "mi_11": {
-        "message": "Tee ne vähemmän näkyviksi"
-    },
-    "mi_12": {
-        "message": "Suuremmat aikavalvonnat"
-    },
-    "mi_13": {
-        "message": "Poista kursorin vaihto leijuttaessa"
-    },
-    "mi_14": {
-        "message": "Näytä latausvaihtoehto, jos yhteys katkeaa"
-    },
-    "mi_15": {
-        "message": "Päivitä sivu automaattisesti (beta)"
-    },
-    "mi_16": {
-        "message": "Kaksoisnapsauta luovuttamista \n(ilman \"Oletko varma\"-ponnahdusikkunaa)"
-    },
-    "mi_17": {
-        "message": "Lisää koko näytön painike (oikea alakulma)"
-    },
-    "fonts_title": {
-        "message": "Valitse fontti:"
-    },
-    "themes_title": {
-        "message": "Valitse teema:"
-    },
-    "themes_label": {
-        "message": "UUSI"
-    },
-    "themes_msg": {
-        "message": "Uudet vaihtoehdot v1.1.9"
-    },
-    "theme_1": {
-        "message": "Oletus (Tummanvihreä)"
-    },
-    "theme_2": {
-        "message": "Vaaleanvihreä"
-    },
-    "theme_3": {
-        "message": "Tummanpunainen"
-    },
-    "theme_4": {
-        "message": "Tummanpunainen (kissat)"
-    },
-    "theme_5": {
-        "message": "Vaaleanpunainen"
-    },
-    "theme_6": {
-        "message": "Tummansininen"
-    },
-    "theme_7": {
-        "message": "Tummanpunainen"
-    },
-    "theme_8": {
-        "message": "Tummankeltainen"
-    },
-    "d_title": {
-        "message": "lahjoitukset pitävät ChessHelperin käynnissä."
-    },
-    "d_subtitle": {
-        "message": "Käytän tunteja joka viikko vikojen korjaamiseen, ominaisuuksien lisäämiseen ja parantamiseen sekä käyttäjäpalautteeseen vastaamiseen. Tukesi on ratkaisevan tärkeää jatkuvan ylläpidon kannalta!"
-    },
-    "d_pp": {
-        "message": "Lahjoita PayPalin kautta"
-    },
-    "d_kofi": {
-        "message": "Tue minua Ko-Fi:ssa"
-    },
-    "d_card": {
-        "message": "Lahjoita luotto- tai pankkikortilla"
-    },
-    "d_cred__1": {
-        "message": "Voit myös jakaa ChessHelperin ystäviesi kanssa tai jättää"
-    },
-    "d_cred__2": {
-        "message": "arvostelu"
-    },
-    "d_cred__3": {
-        "message": "Kiitos."
-    },
-    "s_title": {
-        "message": "Ongelmia ChessHelperin kanssa?"
-    },
-    "s_subtitle": {
-        "message": "Tässä muutamia vianmääritysvaiheita, joita voit kokeilla:"
-    },
-    "s_res__1": {
-        "message": "Päivitä Chess.com-sivu."
-    },
-    "s_res__2": {
-        "message": "Poista ChessHelper käytöstä ja ota se sitten uudelleen käyttöön."
-    },
-    "s_res__3": {
-        "message": "Poista muut laajennukset käytöstä."
-    },
-    "s_res__4": {
-        "message": "Poista ChessHelper ja asenna se uudelleen."
-    },
-    "s_res__5": {
-        "message": "Tyhjennä selaimen välimuisti."
-    },
-    "s_emailme": {
-        "message": "Jos ongelma ei korjaannu, lähetä sähköpostia osoitteeseen"
-    },
-    "s_effic": {
-        "message": "Auttaaksesi minua avustamaan sinua tehokkaammin, sisällytäthän nämä tiedot:"
-    },
-    "s_detail__1": {
-        "message": "ChessHelperin käyttämä versio."
-    },
-    "s_detail__2": {
-        "message": "Ongelman esittävä kuvakaappaus tai video."
-    },
-    "s_detail__3": {
-        "message": "Yksityiskohtainen kuvaus ongelmasta."
-    },
-    "s_detail__4": {
-        "message": "Selain ja sen versio (esim. Firefox 86.0)."
-    },
-    "menu_pboard": {
-        "message": "Mukautetut Nappulat / Lauta:"
-    },
-    "menu_pieces": {
-        "message": "Valitse Nappulat:"
-    },
-    "menu_board": {
-        "message": "Valitse Lauta:"
-    },
-    "menu_boardfeat": {
-        "message": "Laudan ominaisuudet:"
-    }
+  "extensionName": {
+    "message": "Lichess Mukautetut Teemat, Laudat - LichessHelper"
+  },
+  "extensionDescription": {
+    "message": "2025 Aseta uusia teemoja, nappuloita, fontteja ja lautoja, poista ärsyttävät ilmoitukset, ponnahdusikkunat ja niin edelleen."
+  },
+  "disabled": {
+    "message": "Sammutit LichessHelperin"
+  },
+  "header_title": {
+    "message": "LichessHelper Laajennus"
+  },
+  "header_subtitle": {
+    "message": "Rakastamme Lichessia! Tehdään siitä vielä parempi."
+  },
+  "btn_donate": {
+    "message": "lahjoita"
+  },
+  "btn_support": {
+    "message": "Hanki tukea"
+  },
+  "btn_reqfeature": {
+    "message": "Pyydä ominaisuutta"
+  },
+  "btn_goback": {
+    "message": "palaa takaisin"
+  },
+  "menu_main": {
+    "message": "Pääominaisuudet:"
+  },
+  "menu_sec": {
+    "message": "Lisäominaisuudet:"
+  },
+  "menu_palette": {
+    "message": "Väripaletti / fontti:"
+  },
+  "n_default": {
+    "message": "Oletusarvo"
+  },
+  "mi_1": {
+    "message": "Ota käyttöön \"Keskitystila\" \n (paras striimeihin ja Bulletiin)"
+  },
+  "mi_4": {
+    "message": "Poista \"Tietoni\"-ponnahdusikkuna"
+  },
+  "mi_5": {
+    "message": "Poista chat"
+  },
+  "mi_7": {
+    "message": "Aseta lauta 100% kiinteään korkeuteen"
+  },
+  "mi_8": {
+    "message": "Tee koordinaatit suuremmiksi"
+  },
+  "mi_9": {
+    "message": "Koordinaatit jokaiselle ruudulle"
+  },
+  "mi_10": {
+    "message": "Väripaletti / fontti:"
+  },
+  "mi_11": {
+    "message": "Tee ne vähemmän näkyviksi"
+  },
+  "mi_12": {
+    "message": "Suuremmat aikavalvonnat"
+  },
+  "mi_13": {
+    "message": "Poista kursorin vaihto leijuttaessa"
+  },
+  "mi_17": {
+    "message": "Lisää koko näytön painike (oikea alakulma)"
+  },
+  "fonts_title": {
+    "message": "Valitse fontti:"
+  },
+  "themes_title": {
+    "message": "Valitse teema:"
+  },
+  "themes_label": {
+    "message": "UUSI"
+  },
+  "theme_1": {
+    "message": "Oletus (Tummanvihreä)"
+  },
+  "theme_2": {
+    "message": "Vaaleanvihreä"
+  },
+  "theme_3": {
+    "message": "Tummanpunainen"
+  },
+  "theme_4": {
+    "message": "Tummanpunainen (kissat)"
+  },
+  "theme_5": {
+    "message": "Vaaleanpunainen"
+  },
+  "theme_6": {
+    "message": "Tummansininen"
+  },
+  "theme_7": {
+    "message": "Tummanpunainen"
+  },
+  "theme_8": {
+    "message": "Tummankeltainen"
+  },
+  "d_title": {
+    "message": "lahjoitukset pitävät LichessHelperin käynnissä."
+  },
+  "d_subtitle": {
+    "message": "Käytän tunteja joka viikko vikojen korjaamiseen, ominaisuuksien lisäämiseen ja parantamiseen sekä käyttäjäpalautteeseen vastaamiseen. Tukesi on ratkaisevan tärkeää jatkuvan ylläpidon kannalta!"
+  },
+  "d_pp": {
+    "message": "Lahjoita PayPalin kautta"
+  },
+  "d_kofi": {
+    "message": "Tue minua Ko-Fi:ssa"
+  },
+  "d_card": {
+    "message": "Lahjoita luotto- tai pankkikortilla"
+  },
+  "d_cred__1": {
+    "message": "Voit myös jakaa LichessHelperin ystäviesi kanssa tai jättää"
+  },
+  "d_cred__2": {
+    "message": "arvostelu"
+  },
+  "d_cred__3": {
+    "message": "Kiitos."
+  },
+  "s_title": {
+    "message": "Ongelmia LichessHelperin kanssa?"
+  },
+  "s_subtitle": {
+    "message": "Tässä muutamia vianmääritysvaiheita, joita voit kokeilla:"
+  },
+  "s_res__1": {
+    "message": "Päivitä Lichess-sivu."
+  },
+  "s_res__2": {
+    "message": "Poista LichessHelper käytöstä ja ota se sitten uudelleen käyttöön."
+  },
+  "s_res__3": {
+    "message": "Poista muut laajennukset käytöstä."
+  },
+  "s_res__4": {
+    "message": "Poista LichessHelper ja asenna se uudelleen."
+  },
+  "s_res__5": {
+    "message": "Tyhjennä selaimen välimuisti."
+  },
+  "s_emailme": {
+    "message": "Jos ongelma ei korjaannu, lähetä sähköpostia osoitteeseen"
+  },
+  "s_effic": {
+    "message": "Auttaaksesi minua avustamaan sinua tehokkaammin, sisällytäthän nämä tiedot:"
+  },
+  "s_detail__1": {
+    "message": "LichessHelperin käyttämä versio."
+  },
+  "s_detail__2": {
+    "message": "Ongelman esittävä kuvakaappaus tai video."
+  },
+  "s_detail__3": {
+    "message": "Yksityiskohtainen kuvaus ongelmasta."
+  },
+  "s_detail__4": {
+    "message": "Selain ja sen versio (esim. Firefox 86.0)."
+  },
+  "menu_pboard": {
+    "message": "Mukautetut Nappulat / Lauta:"
+  },
+  "menu_pieces": {
+    "message": "Valitse Nappulat:"
+  },
+  "menu_board": {
+    "message": "Valitse Lauta:"
+  },
+  "menu_boardfeat": {
+    "message": "Laudan ominaisuudet:"
+  },
+  "mi_2": {
+    "message": "Paganahin ang Modern layout"
+  },
+  "mi_14": {
+    "message": "I-disable ang board moves scrolling \n(para sa trackpads, atbp.)"
+  },
+  "mi_18": {
+    "message": "Itago ang chat sa ilalim ng board"
+  },
+  "mi_19": {
+    "message": "Iwasan ang pag-scroll sa laban (100vh fix)"
+  }
 }

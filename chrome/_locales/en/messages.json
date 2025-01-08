@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Chess.com Custom Themes, Boards - ChessHelper"
+    "message": "Lichess Custom Themes, Boards - LichessHelper"
   },
   "extensionDescription": {
-    "message": "2024 Setup new themes, pieces, fonts, and boards, remove annoying notifications, popups, and so on."
+    "message": "2025 Setup new themes, pieces, fonts, and boards, remove annoying notifications, popups, and so on."
   },
   "disabled": {
-    "message": "You turned off ChessHelper"
+    "message": "You turned off LichessHelper"
   },
   "header_title": {
-    "message": "ChessHelper Extension"
+    "message": "LichessHelper Extension"
   },
   "header_subtitle": {
-    "message": "We love Chess.com! Let's make it even better, together."
+    "message": "We love Lichess! Let's make it even better, together."
   },
   "btn_donate": {
     "message": "Donate"
@@ -41,20 +41,11 @@
   "mi_1": {
     "message": "Enable \"Focus mode\" \n (best for Streams and Bullet)"
   },
-  "mi_2": {
-    "message": "Disable stream on Main page"
-  },
-  "mi_3": {
-    "message": "Add HyperBullet choice (30s)"
-  },
   "mi_4": {
     "message": "Disable \"About me\" popup"
   },
   "mi_5": {
     "message": "Disable Chat"
-  },
-  "mi_6": {
-    "message": "Hide chat notification: \n\"Do not start a game unless...\""
   },
   "mi_7": {
     "message": "Set board to 100% fixed height"
@@ -77,17 +68,8 @@
   "mi_13": {
     "message": "Disable cursor change on hover"
   },
-  "mi_14": {
-    "message": "Show reload option if disconnected"
-  },
-  "mi_15": {
-    "message": "Refresh page automatically (beta)"
-  },
-  "mi_16": {
-    "message": "Double-click resign \n(without \"Are you sure\" popup)"
-  },
   "mi_17": {
-    "message": "Add fullscreen button (bottom right corner)"
+    "message": "Add fullscreen button (right bottom corner)"
   },
   "fonts_title": {
     "message": "Select font:"
@@ -97,9 +79,6 @@
   },
   "themes_label": {
     "message": "NEW"
-  },
-  "themes_msg": {
-    "message": "New Options v1.1.9"
   },
   "theme_1": {
     "message": "Default (Dark Green)"
@@ -126,22 +105,22 @@
     "message": "Dark Yellow"
   },
   "d_title": {
-    "message": "Donations keep ChessHelper up and running."
+    "message": "Donations keep LichessHelper up and running."
   },
   "d_subtitle": {
-    "message": "I spend hours every week fixing bugs, adding and improving features, and addressing user feedback. Your support is crucial to continued maintenance!"
+    "message": "I spend hoursevery week fixing bugs, adding and improving features, and addressing user feedback. Your support is crucial to continued maintenance."
   },
   "d_pp": {
-    "message": "Donate via PayPal"
+    "message": "Donate with PayPal"
   },
   "d_kofi": {
-    "message": "Support me on Ko-Fi"
+    "message": "Donate with Ko-Fi"
   },
   "d_card": {
-    "message": "Donate via credit or debit card"
+    "message": "Donate using card"
   },
   "d_cred__1": {
-    "message": "You can also share ChessHelper with your friends or leave a"
+    "message": "You can also share LichessHelper with your friends or leave a"
   },
   "d_cred__2": {
     "message": "review"
@@ -150,22 +129,22 @@
     "message": "Thank you."
   },
   "s_title": {
-    "message": "Having troubles with ChessHelper?"
+    "message": "Having troubles with LichessHelper?"
   },
   "s_subtitle": {
     "message": "Here are some troubleshooting steps you can try:"
   },
   "s_res__1": {
-    "message": "Refresh the Chess.com page."
+    "message": "Refresh the Lichess page."
   },
   "s_res__2": {
-    "message": "Disable and then enable again ChessHelper."
+    "message": "Disable and then enable again LichessHelper."
   },
   "s_res__3": {
     "message": "Disable any other extensions."
   },
   "s_res__4": {
-    "message": "Uninstall and re-install ChessHelper."
+    "message": "Uninstall and re-install LichessHelper."
   },
   "s_res__5": {
     "message": "Clear browser cache."
@@ -177,7 +156,7 @@
     "message": "To help me assist you more efficiently, please include this information:"
   },
   "s_detail__1": {
-    "message": "The version of ChessHelper you are using."
+    "message": "The version of LichessHelper you are using."
   },
   "s_detail__2": {
     "message": "A screenshot or video demonstrating the problem."
@@ -199,5 +178,17 @@
   },
   "menu_boardfeat": {
     "message": "Board features:"
+  },
+  "mi_2": {
+    "message": "Enable Modern layout"
+  },
+  "mi_14": {
+    "message": "Disable moves scrolling \n(useful with a trackpad)"
+  },
+  "mi_18": {
+    "message": "Hide chat underneath the board"
+  },
+  "mi_19": {
+    "message": "Prevent scroll in match (100vh fix)"
   }
 }

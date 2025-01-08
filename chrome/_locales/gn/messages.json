@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Chess.com Temas personalizados, tablas - ChessHelper"
+    "message": "Lichess Temas personalizados, tablas - LichessHelper"
   },
   "extensionDescription": {
-    "message": "2024 Emohenda tema pyahu, pehẽngue, fuente ha tablero, eipe’a momarandu, popup ha mba’e ombopochýva."
+    "message": "2025 Emohenda tema pyahu, pehẽngue, fuente ha tablero, eipe’a momarandu, popup ha mba’e ombopochýva."
   },
   "disabled": {
-    "message": "Opavave ndoikóva ChessHelper"
+    "message": "Opavave ndoikóva LichessHelper"
   },
   "header_title": {
-    "message": "Extensión ChessHelper"
+    "message": "Extensión LichessHelper"
   },
   "header_subtitle": {
-    "message": "Ñane mborayhu Chess.com! Añemo peteî ñane ñemomarandu."
+    "message": "Ñane mborayhu Lichess! Añemo peteî ñane ñemomarandu."
   },
   "btn_donate": {
     "message": "Donar"
@@ -41,20 +41,11 @@
   "mi_1": {
     "message": "Habilitar \"Modo de enfoque\" \n (má'ãnga ñane Streams ha Bullet)"
   },
-  "mi_2": {
-    "message": "Ñapu'ã ndive ñane Main page-pe"
-  },
-  "mi_3": {
-    "message": "Añemo elección HyperBullet (30s)"
-  },
   "mi_4": {
     "message": "Ñapu'ã \"Moo peteî\" popup"
   },
   "mi_5": {
     "message": "Ñapu'ã Chat"
-  },
-  "mi_6": {
-    "message": "Ocultar notificación de chat: \n\"Ñanemo'ã ningo peteî mborayhu oîva...\""
   },
   "mi_7": {
     "message": "Establecer tablero mborayhu 100% altura fija"
@@ -77,15 +68,6 @@
   "mi_13": {
     "message": "Ñapu'ã cambio de cursor peteî hover-pe"
   },
-  "mi_14": {
-    "message": "Mostrar opción recargar peteî desconectado-pe"
-  },
-  "mi_15": {
-    "message": "Refrescar página automáticamente (beta)"
-  },
-  "mi_16": {
-    "message": "Hä'ã peteî doble-click \n(sólo sin \"Oî va'ekue\" popup)"
-  },
   "mi_17": {
     "message": "Añemo botón pantalla completa (mbopi peteî peguasu hendive)"
   },
@@ -98,14 +80,11 @@
   "themes_label": {
     "message": "Ñande"
   },
-  "themes_msg": {
-    "message": "Nuevas opciones v1.1.9"
-  },
   "theme_1": {
     "message": "Preestablecido (Verde Oscuro)"
   },
   "d_title": {
-    "message": "Las donaciones mantienen ChessHelper mborayhu ha ñane peteî."
+    "message": "Las donaciones mantienen LichessHelper mborayhu ha ñane peteî."
   },
   "d_subtitle": {
     "message": "Peteî horas cada semana mborayhu mborayhu, añemo ha mejoramo peteî, ha peteî feedback ñane ñemomarandu. Ñane mborayhu peteî mbopi ko'ãga ñane peteî ñanembo'ekuéra!"
@@ -120,7 +99,7 @@
     "message": "Donar mborayhu tarjeta crédito ñane débito-pe"
   },
   "d_cred__1": {
-    "message": "Ñane añemo ChessHelper ñane ñamopu'ãngue ñane rekove ñane"
+    "message": "Ñane añemo LichessHelper ñane ñamopu'ãngue ñane rekove ñane"
   },
   "d_cred__2": {
     "message": "oparavéi"
@@ -129,22 +108,22 @@
     "message": "Aguyje."
   },
   "s_title": {
-    "message": "Mbopi peteî ñane peteî ChessHelper?"
+    "message": "Mbopi peteî ñane peteî LichessHelper?"
   },
   "s_subtitle": {
     "message": "Oîva mborayhu peteî oîva opa ñane ñanemo'ãmborayhu:"
   },
   "s_res__1": {
-    "message": "Recargar ñane Chess.com page-pe."
+    "message": "Recargar ñane Lichess page-pe."
   },
   "s_res__2": {
-    "message": "Ñapu'ã ha peteî oîva ChessHelper."
+    "message": "Ñapu'ã ha peteî oîva LichessHelper."
   },
   "s_res__3": {
     "message": "Ñapu'ã mborayhu ñane ñanemo'ã extensions-pe."
   },
   "s_res__4": {
-    "message": "Desinstalar ha reinstalar ChessHelper."
+    "message": "Desinstalar ha reinstalar LichessHelper."
   },
   "s_res__5": {
     "message": "Peteî ñane navegador cache."
@@ -156,7 +135,7 @@
     "message": "Peteî oîva mborayhu oîva peteî ñane, oîva añemo ko'ãga ñane"
   },
   "s_detail__1": {
-    "message": "La versión de ChessHelper oîva peteî."
+    "message": "La versión de LichessHelper oîva peteî."
   },
   "s_detail__2": {
     "message": "Un screenshot ñane video peteî oîva opa ñane."
@@ -178,5 +157,17 @@
   },
   "menu_boardfeat": {
     "message": "Características del Tablero:"
+  },
+  "mi_2": {
+    "message": "Habilitar diseño moderno"
+  },
+  "mi_14": {
+    "message": "Deshabilitar desplazamiento de movimientos del tablero \n(para trackpads, etc.)"
+  },
+  "mi_18": {
+    "message": "Ocultar chat debajo del tablero"
+  },
+  "mi_19": {
+    "message": "Prevenir desplazamiento en la partida (corrección 100vh)"
   }
 }
