@@ -1,0 +1,16 @@
+.resizable-chat-area-content,
+.chat-scroll-area-component {
+    position: relative;
+    opacity: 0 !important;
+    user-select: none !important;
+    pointer-events: none !important;
+}
+
+.resizable-chat-area-content::before,
+.chat-scroll-area-component::before {
+    content: "Chat disabled by ChessHelper Extension.";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    height: 100%;
+}

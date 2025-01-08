@@ -1,0 +1,268 @@
+:root {
+  --theme-background-override-color: #0f0f17;
+  --theme-background-color: var(--theme-background-override-color, #2c202c);
+  --color-green-25: #fae3ff;
+  --color-green-50: #f5cfff;
+  --color-green-75: #e6bdff;
+  --color-green-100: #e69dfa;
+  --color-green-200: #c468e0;
+  --color-green-300: #654cb6;
+  --color-green-400: #52305f;
+  --color-green-500: #5a396e;
+  --color-green-600: #573056;
+}
+
+* {
+  font-weight: 400 !important;
+}
+
+.cc-button-component:not([disabled]):hover,
+.ui_v5-button-component.ui_v5-button-primary {
+  --bgHoverColor: #834899 !important;
+  --innerBoxShadow: rgba(103, 60, 117, 0.5) !important;
+  --secondaryBorderColor: rgba(127, 72, 153, 0.2);
+}
+
+@media (hover:hover) {
+
+  html body .cc-button-component:not([disabled]):hover,
+  .ui_v5-button-component.ui_v5-button-primary {
+    background-color: #834899 !important;
+    --innerBoxShadow: rgba(103, 60, 117, 0.5) !important;
+    --secondaryBorderColor: rgba(127, 72, 153, 0.2);
+  }
+
+}
+
+body {
+  transition: background 0ms linear !important;
+}
+
+.promo-icon.promo-review,
+.chess-logo {
+  filter: hue-rotate(150deg) !important;
+}
+
+.archived-games-result-won::before {
+  color: #22b422 !important;
+}
+
+.archived-games-result-lost::before {
+  color: #e46f0f !important;
+}
+
+
+
+.fullscreen_pgl::after,
+.home-container-component button::after,
+.create-game-component>button.cc-button-component::after,
+.competition-announcements-competition button::after,
+.daily-puzzle-streak-wrapper a::after {
+  --gap: min(3%, 2px);
+  content: "";
+  position: absolute;
+  top: calc(var(--gap) * 1.5);
+  left: var(--gap);
+  width: calc(100% - (var(--gap) * 2));
+  height: 40%;
+  background: linear-gradient(to bottom,
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.05));
+  transition: background 400ms;
+  border-radius: inherit;
+}
+
+.create-game-component>button.cc-button-component,
+.fullscreen_pgl,
+.home-container-component button,
+.competition-announcements-competition button,
+.daily-puzzle-streak-wrapper a {
+  position: relative;
+  background: radial-gradient(farthest-corner at bottom center,
+      rgba(255, 255, 255, 0.7),
+      transparent),
+    linear-gradient(to bottom, rgba(235, 63, 0, 0.2), rgba(255, 127, 80, 0.1));
+  background: radial-gradient(farthest-corner at bottom center,
+      rgba(255, 255, 255, 0.7),
+      transparent),
+    linear-gradient(to bottom, rgb(104 0 235 / 20%), rgb(80 118 255 / 10%));
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+  color: rgba(20, 17, 50, 0.8);
+  cursor: pointer;
+  text-shadow: 0 2px 0.5em #0003;
+  transition: all 300ms;
+  border-radius: 5px;
+}
+
+.ui_v5-button-component {
+  box-shadow: none !important;
+}
+
+.current-games-shared-toggle-container button {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.v5-header::after,
+.archive-games-header::after,
+.v5-header-link::after,
+.status-component::after,
+.nav-section-header-component::after,
+.nav-link-main-link.diamond::after,
+#board-layout-sidebar .direct-menu-items-wrap .direct-menu-items > a.cc-feature-button-component::after,
+.current-games-empty-view-body > a.cc-button-component::after,
+.game-review-buttons-component button::after,
+.promo-preview-bottom::after,
+.play-quick-links-component a ::after,
+button.ui_v5-button-component.ui_v5-button-primary.ui_v5-button-large.ui_v5-button-full::after,
+.game-over-buttons-component button::after,
+.new-game-buttons-component button::after {
+  --gap: min(2%, 1.8px);
+  content: "";
+  position: absolute;
+  top: calc(var(--gap) * 1.5);
+  left: var(--gap);
+  width: calc(100% - (var(--gap) * 2));
+  height: 40%;
+  background: linear-gradient(to bottom,
+      rgba(255, 255, 255, 0.15),
+      rgba(255, 255, 255, 0.05));
+  transition: background 400ms;
+  border-radius: 6px;
+  pointer-events: none;
+  border: none!important;
+}
+
+#board-layout-sidebar .direct-menu-items-wrap .direct-menu-items > a.cc-feature-button-component::after {
+  transition: height 300ms ease;
+  background: linear-gradient(to bottom,
+  rgba(255, 255, 255, 0.15),
+  rgba(255, 255, 255, 0.05));
+}
+
+.archive-games-header,
+.v5-header-link,
+.v5-header,
+.status-component,
+.nav-section-header-component,
+.nav-link-main-link.diamond {
+  position: relative;
+  border-radius: 6px;
+}
+.archive-games-header,
+.v5-header-link,
+.v5-header,
+.status-component {
+  border-top-left-radius: 8px!important;
+  border-top-right-radius: 8px!important;
+}
+
+
+#board-layout-sidebar .direct-menu-items-wrap .direct-menu-items > a.cc-feature-button-component:hover::after {
+  height: 30px;
+}
+
+.new-game-buttons-component button,
+.game-over-buttons-component button,
+.new-game-buttons-component button {
+  background-color: var(--color-green-300) !important;
+}
+
+
+#board-layout-sidebar .direct-menu-items-wrap .direct-menu-items > a.cc-feature-button-component,
+.current-games-empty-view-body > a.cc-button-component,
+.new-game-buttons-component button,
+.play-quick-links-component a,
+.promo-preview-bottom,
+button.ui_v5-button-component.ui_v5-button-primary.ui_v5-button-large.ui_v5-button-full,
+.game-over-buttons-component button {
+  position: relative;
+  border-radius: 8px;
+  box-shadow: none;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+  background: linear-gradient(180deg, black, transparent);
+}
+
+.new-game-buttons-component button,
+.game-over-buttons-component button,
+button.ui_v5-button-component.ui_v5-button-primary.ui_v5-button-large.ui_v5-button-full {
+  /* border: 1px solid #0f0f0f; */
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4) !important;
+}
+
+.new-game-buttons-component button:hover,
+.game-over-buttons-component button:hover,
+button.ui_v5-button-component.ui_v5-button-primary.ui_v5-button-large.ui_v5-button-full:hover {
+  opacity: 0.5;
+}
+
+.promo-preview-bottom,
+.promo-preview-bottom::after {
+  border-radius: 0;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+}
+
+.fullscreen_pgl::after {
+  left: 2%;
+  top: 1px;
+  width: calc(100% - 4%);
+  border-radius: 3px;
+  background: linear-gradient(to bottom,
+      rgba(255, 255, 255, 0.8),
+      rgba(255, 255, 255, 0.1));
+}
+
+.promo-preview-bottom {
+  box-shadow: none;
+  border: 1px solid #0f0f0f;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  width: calc(100% + 2px);
+  margin: 0 -1px 0;
+}
+
+.v5-section-shadow-hover.promo-preview-wrapper {
+  box-shadow: none;
+}
+
+.nav-search-form input {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+  background: radial-gradient(farthest-corner at bottom center,
+      rgba(255, 255, 255, 0.2),
+      transparent),
+    linear-gradient(to bottom, rgba(137, 0, 235, 0), rgba(80, 159, 255, 0.1));
+}
+
+
+.archived-games-result-won {
+  background: linear-gradient(to bottom,
+      rgba(136, 255, 32, 0.8),
+      rgba(15, 86, 26, 0.1));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.archived-games-result-lost {
+  background: linear-gradient(to bottom,
+      rgba(255, 32, 62, 0.8),
+      rgba(77, 14, 30, 0.1));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#sb {
+  background-image: url("chrome-extension://__MSG_@@extension_id__/assets/img/frt_bg.png");
+  background-size: 40px 100%;
+  background-repeat: no-repeat;
+  filter: brightness(0.9);
+}
+
+.game-over-review-button-component button {
+  position: absolute !important;
+}
+
+.game-review-buttons-component button {
+  position: relative;
+}
