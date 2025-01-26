@@ -482,7 +482,7 @@
         setOrRemoveStylesOfItem("/assets/graphs/disable_cursor.css", state.disable_cursor, "disable_cursor");
         setOrRemoveStylesOfItem("/assets/graphs/disable_chat.css", state.disable_chat, "disable_chat");
         setOrRemoveStylesOfItem("/assets/graphs/disable_chat_unless.css", state.disable_chat_unless, "disable_chat_unless");
-        setOrRemoveStylesOfItem("/assets/graphs/reload_disconnect.css", state.reload_disconnect, "reload_disconnect");
+        // setOrRemoveStylesOfItem( state.reload_disconnect, "reload_disconnect");
         setOrRemoveStylesOfItem("/assets/graphs/single_resign.css", state.single_resign, "single_resign");
         setOrRemoveStylesOfItem("/assets/graphs/coor_each__less.css", state.coor_each__less, "coor_each__less");
         setOrRemoveStylesOfItem("/assets/graphs/focus_mode.css", state.focus_mode, "focus_mode");
@@ -494,7 +494,7 @@
         addFullscreen(state.add_fullscreen);
         collapseAside(state.board_100vh);
         showConnectButtonOrReload(state.reload_disconnect_1, state.reload_disconnect_2)
-        setOrRemoveStylesOfItem("/assets/graphs/square_shaped.css", state.square_shaped, "square_shaped");
+        setOrRemoveStylesOfItem( state.square_shaped, "square_shaped");
 
       });
     }
