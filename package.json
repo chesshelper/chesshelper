@@ -11,7 +11,7 @@
 		"build": "npm run clean && gulp build",
 		"build:prod": "npm run clean && gulp build_md",
 		"test": "echo 'Tests not implemented yet. Please check manually.'",
-		"clean": "rm -rf ./dist"
+		"clean": "echo 123"
   },
   "author": "P Jaworski",
   "license": "CC BY-NC-ND 4.0",

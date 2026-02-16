@@ -19,7 +19,7 @@
     let interval0, interval1, interval2, interval3;
     const fonts = ["roboto", "poppins", "caprasimo", "playfair", "merriweather", "noto_sans", "nunito", "montserrat", "pixelify", "gabarito", "roboto_condensed", "inter"];
     const themes = [ "frutiger_aero_green", "frutiger_aero_dimmed", "night_owl", "purple_dark", "kittens", "ws_type", "srl", "amoled", "chains", "frutiger_aero", "glitter", "greener_green", "pink", "yellow"];
-    const pieces = ["anime", "dani_maccari", "itchy", "itchy2", "marble", "ridiculus", "kiwen_suwi", "pjaworski",
+    const pieces = ["anime", "anime-pieces", "dani_maccari", "itchy", "itchy2", "marble", "ridiculus", "kiwen_suwi", "pjaworski",
       "cburnett",
       "cburnett_jp",
       "pjaworski_ice",
