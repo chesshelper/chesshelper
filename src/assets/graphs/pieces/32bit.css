@@ -17,80 +17,104 @@
 }
 
 #board-single,
-#board {
+#board ,
+.game-preview-lazy-component {
   background-image: var(--theme-board-style-image,
       url("https://images.chesscomfiles.com/chess-themes/boards/glass/100.svg")) !important;
 }
 
 .piece.wp,
-.promotion-piece.wp {
+.promotion-piece.wp,
+.game-preview-lazy-piece.wp {
   background-image: var(--theme-piece-set-wp) !important;
 }
 
 .piece.wn,
-.promotion-piece.wn {
+.promotion-piece.wn,
+.game-preview-lazy-piece.wn {
   background-image: var(--theme-piece-set-wn) !important;
 }
 
 .piece.wp,
-.promotion-piece.wp {
+.promotion-piece.wp,
+.game-preview-lazy-piece.wp {
   background-image: var(--theme-piece-set-wp) !important;
 }
 
 .piece.wr,
-.promotion-piece.wr {
+.promotion-piece.wr,
+.game-preview-lazy-piece.wr {
   background-image: var(--theme-piece-set-wr) !important;
 }
 
 .piece.wb,
-.promotion-piece.wb {
+.promotion-piece.wb,
+.game-preview-lazy-piece.wb {
   background-image: var(--theme-piece-set-wb) !important;
 }
 
 .piece.wq,
-.promotion-piece.wq {
+.promotion-piece.wq,
+.game-preview-lazy-piece.wq {
   background-image: var(--theme-piece-set-wq) !important;
 }
 
 .piece.wk,
-.promotion-piece.wk {
+.promotion-piece.wk,
+.game-preview-lazy-piece.wk {
   background-image: var(--theme-piece-set-wk) !important;
 }
 
 .piece.bp,
-.promotion-piece.bp {
+.promotion-piece.bp,
+.game-preview-lazy-piece.bp {
   background-image: var(--theme-piece-set-bp) !important;
 }
 
 .piece.bn,
-.promotion-piece.bn {
+.promotion-piece.bn,
+.game-preview-lazy-piece.bn {
   background-image: var(--theme-piece-set-bn) !important;
 }
 
 .piece.bp,
-.promotion-piece.bp {
+.promotion-piece.bp,
+.game-preview-lazy-piece.bp {
   background-image: var(--theme-piece-set-bp) !important;
 }
 
 .piece.br,
-.promotion-piece.br {
+.promotion-piece.br,
+.game-preview-lazy-piece.br {
   background-image: var(--theme-piece-set-br) !important;
 }
 
 .piece.bb,
-.promotion-piece.bb {
+.promotion-piece.bb,
+.game-preview-lazy-piece.bb {
   background-image: var(--theme-piece-set-bb) !important;
 }
 
 .piece.bq,
-.promotion-piece.bq {
+.promotion-piece.bq,
+.game-preview-lazy-piece.bq {
   background-image: var(--theme-piece-set-bq) !important;
 }
 
 .piece.bk,
-.promotion-piece.bk {
+.promotion-piece.bk,
+.game-preview-lazy-piece.bk {
   background-image: var(--theme-piece-set-bk) !important;
 }
+
+img.game-preview-lazy-piece {
+  display: block !important;
+  background-size: 100% 100% !important;
+  background-position: 0 0 !important;
+  background-repeat: no-repeat !important;
+  min-height: 12.5% !important;
+}
+
 
 /* Override styles */
 

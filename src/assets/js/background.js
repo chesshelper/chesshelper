@@ -60,7 +60,7 @@ browser_cr.runtime.onInstalled.addListener(function (details) {
         chrome.tabs.create({ url: "https://weblxapplications.com/ch/welcome" });
         chrome.storage.local.set({ 'welcomePageDisplayed': true });
       } else if (details.reason === 'update') {
-        chrome.tabs.create({ url: "https://weblxapplications.com/ch/update" });
+        // chrome.tabs.create({ url: "https://weblxapplications.com/ch/update" });
       }
     });
   }

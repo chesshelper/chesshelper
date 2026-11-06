@@ -1,9 +1,23 @@
 @keyframes appear {
     0% {
-        opacity: 0;
+        opacity: 0 !important;
     }
 
     70% {
+        opacity: 0 !important;
+    }
+
+    100% {
+        opacity: 1 !important;
+    }
+}
+
+@keyframes appearlz {
+    0% {
+        opacity: 0;
+    }
+
+    92% {
         opacity: 0;
     }
 
@@ -12,10 +26,20 @@
     }
 }
 
-
-.game-preview-component {
-    animation: appear 300ms linear both;
+html body .game-preview-lazy-component {
+    opacity: 0;
+    animation: appearlz 800ms linear both;
+    animation-duration: 800ms !important;
+    transform: none !important;
 }
+
+html body .game-preview-component {
+    opacity: 0;
+    animation: appearlz 580ms linear both;
+    animation-duration: 580ms !important;
+    transform: none !important;
+}
+
 
 .board-layout-chessboard {
     position: relative !important;

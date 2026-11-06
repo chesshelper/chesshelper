@@ -1,0 +1,5 @@
+allowBuilds:
+  es5-ext: false
+  gifsicle: false
+  mozjpeg: false
+  optipng-bin: false

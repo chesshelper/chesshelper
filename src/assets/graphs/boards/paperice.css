@@ -17,7 +17,8 @@
 #board-analysis-board,
 #board-single,
 #board,
-.fade-in-overlay {
+.fade-in-overlay ,
+.game-preview-lazy-component {
   background-image: var(--theme-board-style-image,
       url("https://images.chesscomfiles.com/chess-themes/boards/glass/100.png")) !important;
   background-position: 1px 0px;

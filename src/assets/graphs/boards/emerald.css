@@ -15,11 +15,16 @@ coords,
   fill: var(--cg-ccb, #2a3c3a) !important;
 }
 
-cg-board {
+cg-board ,
+.game-preview-lazy-component {
   background-image: var(--theme-board-style-image,
       url("https://images.chesscomfiles.com/chess-themes/boards/glass/100.png")) !important;
   background-size: 100% 100% !important;
   background-position: 0 0 !important;
+}
+
+.game-preview-lazy-component img.game-preview-lazy-board {
+  display: none !important;
 }
 
 .is3d cg-board::before {

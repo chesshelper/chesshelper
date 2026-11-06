@@ -23,9 +23,16 @@
 #board-analysis-board,
 #board-single,
 #board,
-.fade-in-overlay {
+.fade-in-overlay ,
+.game-preview-lazy-component {
   background-image: var(--theme-board-style-image,
       url("https://images.chesscomfiles.com/chess-themes/boards/glass/100.png")) !important;
+  background-size: 100% 100% !important;
+  background-position: 0 0 !important;
+}
+
+.game-preview-lazy-component img.game-preview-lazy-board {
+  display: none !important;
 }
 
 /* Override styles */

@@ -51,7 +51,8 @@
       "icpieces",
       "libra",
       "spatial",
-      "tatiana"
+      "tatiana",
+      "maestro"
     ];
     const boards = ["anime", "arcade", "gray_eyes", "peppermint", "blackwhite", "green2", "polarizer", "darkblue", "purple", "disa_board", "middaysun", "teal", "disa_night", "overheated_stain", "webpunk", "glass", "paperice", "wood", "26brown", "deepblue", "losangeles", "softlightblue",
       "26dmblue", "dmblue2", "midblue", "softpurple",
@@ -81,6 +82,36 @@
       fonts.filter((e) => e !== selectedFont).forEach((font) => document.getElementById(font)?.remove());
     }
 
+    let backup_links = [];
+
+    async function setLazyPieces(isCustomPieces) {
+
+      const allPieces = document.querySelectorAll(".game-preview-lazy-piece");
+
+      // if there's lazy pieces & not default pieces theme is set
+      if(allPieces?.length >0 && isCustomPieces) {
+        allPieces.forEach((e, i) => {
+          let link = e.src + "";
+          let link_fragment = link.split(".")?.at(-2)?.split("/")?.at(-1);
+
+          if(link_fragment?.length == 2) {
+            backup_links[i] = e.src;
+            e.src = ""
+          }
+          
+          link_fragment && e.classList.add(link_fragment)
+        })
+      }
+
+      // if set back to default, set links back
+      else if(allPieces?.length >0 && !isCustomPieces) {
+        allPieces.forEach((e, i) => {
+          if(backup_links[i])
+            e.src = backup_links[i];
+        })
+      }
+    }
+
 
     async function setPieces(selectedPieces, oldStatePieces, isInit) {
       const lsBoardCache = JSON.parse(localStorage.getItem("boardOptionsCache"));
@@ -97,8 +128,11 @@
         }, 100);
       }
       //If pieces exist set them, remove others
-      if (pieces.indexOf(selectedPieces) !== -1)
+      if (pieces.indexOf(selectedPieces) !== -1) {
         setOrRemoveStylesOfItem(`/assets/graphs/pieces/${selectedPieces}.css`, true, selectedPieces);
+      }
+  
+      setLazyPieces(selectedPieces !== "default");
       pieces.filter((e) => e !== selectedPieces).forEach((pieces) => document.getElementById(pieces)?.remove());
     }
 
